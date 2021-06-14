@@ -18,7 +18,7 @@
 </table>
 
 ### Short Bio
-  <p> Wenxuan Tu is currently pursuing the doctor degree with the College of Computer, National University of Defense Technology, under the supervisor of Professor <a href="https://xinwangliu.github.io/">Xinwang Liu</a>. Wenxuan Tu has published papers in highly regarded journals and conferences such as IEEE TIP, Information Science, AAAI, ICML, etc. His research interests include graph machine learning and computer vision.</p>
+  <p align = "justify"> Wenxuan Tu is currently pursuing the doctor degree with the College of Computer, National University of Defense Technology, under the supervisor of Professor <a href="https://xinwangliu.github.io/">Xinwang Liu</a>. Wenxuan Tu has published papers in highly regarded journals and conferences such as IEEE TIP, Information Science, AAAI, ICML, etc. His research interests include graph machine learning and computer vision.</p>
   
 ### Education Experience
   <ul>
@@ -41,13 +41,13 @@
 ### Publications
    <ul>
     <li> 
-      <p> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Xifeng Guo, Zhiping Cai, En zhu, and Jieren Cheng. Deep Fusion Clustering Network. AAAI 2021, pages: 9978-9987. <b>(CCF Rank A)</b> [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/17198">Paper</a>], [<a href="https://github.com/WxTu/DFCN">Code</a>] </p>
+      <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Xifeng Guo, Zhiping Cai, En zhu, and Jieren Cheng. Deep Fusion Clustering Network. AAAI 2021, pages: 9978-9987. <b>(CCF Rank A)</b> [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/17198">Paper</a>], [<a href="https://github.com/WxTu/DFCN">Code</a>] </p>
     </li>
   </ul>
   
  <ul>
     <li> 
-      <p> Xiangyan Tang, <b>Wenxuan Tu</b>, Keqiu Li, Jieren Cheng. DFFNet: An IoT-perceptive dual feature fusion network for general real-time semantic segmentation. Information Sciences (IS), 565: 326-343, 2021. <b>(JCR 1# TOP)</b> [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0020025521001389?via%3Dihub">Paper</a>], [<a href="https://github.com/WxTu/DFFNet">Code</a>] </p>
+      <p align = "justify"> Xiangyan Tang, <b>Wenxuan Tu</b>, Keqiu Li, Jieren Cheng. DFFNet: An IoT-perceptive dual feature fusion network for general real-time semantic segmentation. Information Sciences (IS), 565: 326-343, 2021. <b>(JCR 1# TOP)</b> [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0020025521001389?via%3Dihub">Paper</a>], [<a href="https://github.com/WxTu/DFFNet">Code</a>] </p>
     </li>
   </ul> 
   
@@ -59,7 +59,7 @@
   
    <ul>
     <li> 
-      <p> Xinwang Liu, Li Liu, Qing Liao, Chang Tang, Siwei Wang, <b>Wenxuan Tu</b>, Jiyuan Liu, Yi Zhang and En Zhu. One Pass Late Fusion Multi-view Clustering. ICML 2021 (to appear).  <b>(CCF Rank A)</b> </p>
+      <p align = "justify"> Xinwang Liu, Li Liu, Qing Liao, Chang Tang, Siwei Wang, <b>Wenxuan Tu</b>, Jiyuan Liu, Yi Zhang and En Zhu. One Pass Late Fusion Multi-view Clustering. ICML 2021 (to appear).  <b>(CCF Rank A)</b> </p>
     </li>
   </ul> 
 
