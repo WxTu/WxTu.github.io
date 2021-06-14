@@ -79,3 +79,7 @@
       <p>Future Cup College AI Challenge，3rd Place in National Finals, 2018 </p>
     </li>
   </ul>
+
+### Contact
+<p>Email: wenxuantu@163.com, twx@nudt.edu.cn</p>
+<p>Any discussions or concerns are welcomed! </p>
