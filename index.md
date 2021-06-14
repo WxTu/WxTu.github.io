@@ -41,7 +41,7 @@
 ### Publications
    <ul>
     <li> 
-      <p> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Xifeng Guo, Zhiping Cai, En zhu, and Jieren Cheng. Deep Fusion Clustering Network. AAAI 2021. <b>(CCF Rank A)</b> [<a href="https://orcid.org/my-orcid">Paper</a>], [<a href="https://orcid.org/my-orcid">Code</a>] </p>
+      <p> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Xifeng Guo, Zhiping Cai, En zhu, and Jieren Cheng. Deep Fusion Clustering Network. AAAI 2021, pages:9978-9987. <b>(CCF Rank A)</b> [<a href="https://orcid.org/my-orcid">Paper</a>], [<a href="https://orcid.org/my-orcid">Code</a>] </p>
     </li>
   </ul>
  <ul>
