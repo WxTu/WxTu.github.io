@@ -5,16 +5,15 @@
 <table class="imgtable">
   <tr>
     <td>
-      <img src="/photo.jpg" width="120px"  />&nbsp;
+      <img src="profile1.JPG" alt="Yizhu Jiao" width="270px" height="201.6px" />&nbsp;
     </td>
     <td align="left">
-      P.h.D Candidate
-      
-      School of Computer, National University of Defense Technology
-      
-      Email: wenxuantu@163.com, twx@nudt.edu.cn
-      
-      Address: Sanyi Road , Kaifu District, Changsha, Hunan, China
-  
+      <p>P.h.D Candidate</p>
+      <p>School of Computer, National University of Defense Technology</p>
+      <p>Email: wenxuantu@163.com, twx@nudt.edu.cn</p>
+      <p>Address: Sanyi Road , Kaifu District, Changsha, Hunan, China</p>
+      <!--<p>[<a href="CV_chen.pdf">CV</a>]</p>-->
+    </td>
  </tr>
 </table>
+
