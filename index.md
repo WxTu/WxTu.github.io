@@ -46,9 +46,9 @@
   </ul>
    <ul>
   <li> 
-    <p> B. Jiang, <b>W. Tu</b>, C. Yang, J. Yuan. Context-Integrated and Feature-Refined Network for Lightweight Object Parsing. IEEE TIP 2020. <b>(CCF Rank A, JCR 1 # TOP)</b> [<a href="https://orcid.org/my-orcid">Paper</a>], [<a href="https://orcid.org/my-orcid">Code</a>] </p>
+    <p> B. Jiang, <b>W. Tu</b>, C. Yang, J. Yuan. Context-Integrated and Feature-Refined Network for Lightweight Object Parsing. IEEE TIP 2020. <b>(CCF Rank A, JCR 1# TOP)</b> [<a href="https://orcid.org/my-orcid">Paper</a>], [<a href="https://orcid.org/my-orcid">Code</a>] </p>
   </li>
-</ul>
+</ul> 
   
  
  
