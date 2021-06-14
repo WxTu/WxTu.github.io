@@ -81,5 +81,4 @@
   </ul>
 
 ### Contact
-<p>Email: wenxuantu@163.com, twx@nudt.edu.cn</p>
-<p>Any discussions or concerns are welcomed! </p>
+<p>Any discussions or concerns are welcomed! wenxuantu@163.com, twx@nudt.edu.cn</p>
