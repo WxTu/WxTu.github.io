@@ -8,7 +8,14 @@
       <img src="/photo.jpg" width="120px"  />&nbsp;
     </td>
     <td align="left">
-      XXXXX
+      P.h.D Candidate
+      
+      School of Computer, National University of Defense Technology
+      
+      Email: wenxuantu@163.com, twx@nudt.edu.cn
+      
+      Address: Sanyi Road , Kaifu District, Changsha, Hunan, China
+      
     </td>
  </tr>
 </table>
