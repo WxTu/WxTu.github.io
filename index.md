@@ -14,8 +14,6 @@
       <p>Address: Sanyi Road , Kaifu District, Changsha, Hunan, China</p>
       <p>[<a href="https://scholar.google.com/citations?user=MmH2POsAAAAJ&hl=zh-CN">Google Scholar</a>]</p>
       
- 
-    </td>
  </tr>
 </table>
 
