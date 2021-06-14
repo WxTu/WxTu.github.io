@@ -41,17 +41,17 @@
 ### Publications
    <ul>
     <li> 
-      <p> <b>W. Tu</b>, S. Zhou, X. Liu, X. Guo, Z. Cai, E. zhu, and J. Cheng. Deep Fusion Clustering Network. AAAI 2021. <b>(CCF Rank A)</b> [<a href="https://orcid.org/my-orcid">Paper</a>], [<a href="https://orcid.org/my-orcid">Code</a>] </p>
+      <p> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Xifeng Guo, Zhiping Cai, En zhu, and Jieren Cheng. Deep Fusion Clustering Network. AAAI 2021. <b>(CCF Rank A)</b> [<a href="https://orcid.org/my-orcid">Paper</a>], [<a href="https://orcid.org/my-orcid">Code</a>] </p>
     </li>
   </ul>
  <ul>
     <li> 
-      <p> X. Tang, <b>W. Tu</b>, K. Li, J. Cheng. DFFNet: An IoT-perceptive dual feature fusion network for general real-time semantic segmentation. Information Sciences 2021. <b>(JCR 1# TOP)</b> [<a href="https://orcid.org/my-orcid">Paper</a>], [<a href="https://orcid.org/my-orcid">Code</a>] </p>
+      <p> Xiangyan Tang, <b>Wenxuan Tu</b>, Keqiu Li, Jieren Cheng. DFFNet: An IoT-perceptive dual feature fusion network for general real-time semantic segmentation. Information Sciences 2021. <b>(JCR 1# TOP)</b> [<a href="https://orcid.org/my-orcid">Paper</a>], [<a href="https://orcid.org/my-orcid">Code</a>] </p>
     </li>
   </ul> 
   <ul>
     <li> 
-      <p> B. Jiang, <b>W. Tu</b>, C. Yang, J. Yuan. Context-Integrated and Feature-Refined Network for Lightweight Object Parsing. IEEE TIP 2020. <b>(CCF Rank A, JCR 1# TOP)</b> [<a href="https://orcid.org/my-orcid">Paper</a>], [<a href="https://orcid.org/my-orcid">Code</a>] </p>
+      <p> Bin Jiang, <b>Wenxuan. Tu</b>, Chao Yang, Junsong Yuan. Context-Integrated and Feature-Refined Network for Lightweight Object Parsing. IEEE TIP 2020. <b>(CCF Rank A, JCR 1# TOP)</b> [<a href="https://orcid.org/my-orcid">Paper</a>], [<a href="https://orcid.org/my-orcid">Code</a>] </p>
     </li>
   </ul> 
 
