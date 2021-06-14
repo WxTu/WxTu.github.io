@@ -56,7 +56,7 @@
   </ul> 
     <ul>
     <li> 
-      <p> Xinwang Liu, Li Liu, Qing Liao, Chang Tang, Siwei Wang, Wenxuan Tu, Jiyuan Liu, Yi Zhang and En Zhu. One Pass Late Fusion Multi-view Clustering. ICML 2021 (to appear).  <b>(CCF Rank A)</b> [<a href="https://orcid.org/my-orcid">Paper</a>], [<a href="https://orcid.org/my-orcid">Code</a>] </p>
+      <p> Xinwang Liu, Li Liu, Qing Liao, Chang Tang, Siwei Wang, <b>Wenxuan Tu</b>, Jiyuan Liu, Yi Zhang and En Zhu. One Pass Late Fusion Multi-view Clustering. ICML 2021 (to appear).  <b>(CCF Rank A)</b> [<a href="https://orcid.org/my-orcid">Paper</a>], [<a href="https://orcid.org/my-orcid">Code</a>] </p>
     </li>
   </ul> 
  
