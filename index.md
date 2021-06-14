@@ -18,4 +18,4 @@
 </table>
 
 ### Short Bio
-  <p> I am currently pursuing the doctor degree with the College of Computer, National University of Defense Technology, Changsha, China. His research interests include machine learning and computer vision.</p>
+  <p> I am currently pursuing the doctor degree with the College of Computer, National University of Defense Technology, Changsha, China. My research interests include graph machine learning and computer vision.</p>
