@@ -51,7 +51,7 @@
   </ul> 
   <ul>
     <li> 
-      <p> Bin Jiang, <b>Wenxuan. Tu</b>, Chao Yang, Junsong Yuan. Context-Integrated and Feature-Refined Network for Lightweight Object Parsing. IEEE TIP 2020. <b>(CCF Rank A, JCR 1# TOP)</b> [<a href="https://orcid.org/my-orcid">Paper</a>], [<a href="https://orcid.org/my-orcid">Code</a>] </p>
+      <p> Bin Jiang, <b>Wenxuan. Tu</b>, Chao Yang, Junsong Yuan. Context-Integrated and Feature-Refined Network for Lightweight Object Parsing. IEEE Transactions on Image Processing (TIP), 29:5079-5093, 2020. <b>(CCF Rank A, JCR 1# TOP)</b> [<a href="https://orcid.org/my-orcid">Paper</a>], [<a href="https://orcid.org/my-orcid">Code</a>] </p>
     </li>
   </ul> 
 
