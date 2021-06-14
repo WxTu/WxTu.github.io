@@ -62,6 +62,16 @@
       <p> Xinwang Liu, Li Liu, Qing Liao, Chang Tang, Siwei Wang, <b>Wenxuan Tu</b>, Jiyuan Liu, Yi Zhang and En Zhu. One Pass Late Fusion Multi-view Clustering. ICML 2021 (to appear).  <b>(CCF Rank A)</b> </p>
     </li>
   </ul> 
- 
- 
+
+### Awards
+  <ul>
+    <li> 
+      <p>Future Cup College AI Challenge，2018  </p>
+    </li>
+  </ul>
+<ul>
+    <li> 
+      <p>Future Cup College AI Challenge，3rd Place in National Finals 2018. </p>
+    </li>
+  </ul>
  
