@@ -44,7 +44,11 @@
       <p> <b>W. Tu</b>, S. Zhou, X. Liu, X. Guo, Z. Cai, E. zhu, and J. Cheng. Deep Fusion Clustering Network. AAAI 2021. <b>(CCF Rank A)</b> [<a href="https://orcid.org/my-orcid">Paper</a>], [<a href="https://orcid.org/my-orcid">Code</a>] </p>
     </li>
   </ul>
-  
+   <ul>
+  <li> 
+    <p> <b>W. Tu</b>, S. Zhou, X. Liu, X. Guo, Z. Cai, E. zhu, and J. Cheng. Deep Fusion Clustering Network. AAAI 2021. <b>(CCF Rank A)</b> [<a href="https://orcid.org/my-orcid">Paper</a>], [<a href="https://orcid.org/my-orcid">Code</a>] </p>
+  </li>
+</ul>
   
  
  
