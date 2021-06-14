@@ -15,7 +15,6 @@
       Email: wenxuantu@163.com, twx@nudt.edu.cn
       
       Address: Sanyi Road , Kaifu District, Changsha, Hunan, China
-      
-    </td>
+  
  </tr>
 </table>
