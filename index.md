@@ -23,11 +23,11 @@
 ### Education Experience
   <ul>
     <li> 
-      <p>Sep 2018 - Jul 2021 (Expectation). Master, School of Computer Science, Fudan University, Shanghai, China </p>
+      <p>Sep 2017 - Jul 2020. Master, School of Computer Science, Hunan University, Changsha, China </p>
     </li>
   </ul>
   <ul>
     <li> 
-      <p>Sep 2014 - Jul 2018. Bachelor, School of Computer Science and Technology, East China Normal University, Shanghai, China </p>
+      <p>Sep 2013 - Jul 2017. Bachelor, School of Computer Science and Technology, Hainan University, Haikou, China </p>
     </li>
   </ul>
