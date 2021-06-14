@@ -39,7 +39,12 @@
   
 
 ### Publications
-  <p> Wenxuan Tu, Sihang Zhou, Xinwang Liu, Xifeng Guo, Zhiping Cai, En zhu, and Jieren Cheng. Deep Fusion Clustering Network. AAAI 2021. (CCF Rank A) </p>
+   <ul>
+    <li> 
+      <p> W. Tu, S. Zhou, X. Liu, X. Guo, Z. Cai, E. zhu, and J. Cheng. Deep Fusion Clustering Network. AAAI 2021. (CCF Rank A) </p>
+    </li>
+  </ul>
+  
   
  
  
