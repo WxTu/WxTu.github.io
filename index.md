@@ -39,10 +39,8 @@
   
 
 ### Publications
-  <p> I am currently pursuing the doctor degree with the College of Computer, National University of Defense Technology, Changsha, China. My research interests include graph machine learning and computer vision.</p>
-  <p> I am currently pursuing the doctor degree with the College of Computer, National University of Defense Technology, Changsha, China. My research interests include graph machine learning and computer vision.</p>
-  <p> I am currently pursuing the doctor degree with the College of Computer, National University of Defense Technology, Changsha, China. My research interests include graph machine learning and computer vision.</p>
-  <p> I am currently pursuing the doctor degree with the College of Computer, National University of Defense Technology, Changsha, China. My research interests include graph machine learning and computer vision.</p>
+  <p> Wenxuan Tu, Sihang Zhou, Xinwang Liu, Xifeng Guo, Zhiping Cai, En zhu, and Jieren Cheng. Deep Fusion Clustering Network. AAAI 2021. (CCF Rank A) </p>
+  
  
  
  
