@@ -17,7 +17,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 <table class="imgtable">
   <tr>
     <td>
-      <img src="WxTu.github.io/photo.jpg" width="280px"  />&nbsp;
+      <img src="/photo.jpg" width="280px"  />&nbsp;
     </td>
     <td align="left">
       <p><b>Yizhu Jiao</b>, Yun Xiong, Jiawei Zhang, Yao Zhang, Tianqi Zhang and Yangyong Zhu</p>
