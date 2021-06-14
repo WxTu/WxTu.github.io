@@ -36,3 +36,5 @@
       <p>Sep 2013 - Jul 2017. Bachelor, Hainan University, Haikou, China </p>
     </li>
   </ul>
+  
+ ### Publications
