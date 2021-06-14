@@ -18,7 +18,7 @@
 </table>
 
 ### Short Bio
-  <p> Wenxuan Tu is currently pursuing the doctor degree with the College of Computer, National University of Defense Technology, under the supervisor of Professor <a href="https://github.com/WxTu">Xinwang Liu</a>. Wenxuan Tu has published papers in highly regarded journals and conferences such as IEEE TIP, Information Science, AAAI, ICML, etc. His research interests include graph machine learning and computer vision.</p>
+  <p> Wenxuan Tu is currently pursuing the doctor degree with the College of Computer, National University of Defense Technology, under the supervisor of Professor <a href="https://xinwangliu.github.io/">Xinwang Liu</a>. Wenxuan Tu has published papers in highly regarded journals and conferences such as IEEE TIP, Information Science, AAAI, ICML, etc. His research interests include graph machine learning and computer vision.</p>
   
 ### Education Experience
   <ul>
