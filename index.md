@@ -23,7 +23,7 @@
 ### Education Experience
   <ul>
     <li> 
-      <p>Sep 2020 - now. Doctor, National University of Defense Technology, Changsha, China </p>
+      <p>Sep 2020 - ow. Doctor, National University of Defense Technology, Changsha, China </p>
     </li>
   </ul>
 <ul>
