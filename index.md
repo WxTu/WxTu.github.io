@@ -23,6 +23,11 @@
 ### Education Experience
   <ul>
     <li> 
+      <p>Sep 2020 - now. Doctor, School of Computer, National University of Defense Technology, Changsha, China </p>
+    </li>
+  </ul>
+<ul>
+    <li> 
       <p>Sep 2017 - Jul 2020. Master, School of Computer Science, Hunan University, Changsha, China </p>
     </li>
   </ul>
