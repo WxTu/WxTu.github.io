@@ -19,3 +19,15 @@
 
 ### Short Bio
   <p> I am currently pursuing the doctor degree with the College of Computer, National University of Defense Technology, Changsha, China. My research interests include graph machine learning and computer vision.</p>
+  
+### Education Experience
+  <ul>
+    <li> 
+      <p>Sep 2018 - Jul 2021 (Expectation). Master, School of Computer Science, Fudan University, Shanghai, China </p>
+    </li>
+  </ul>
+  <ul>
+    <li> 
+      <p>Sep 2014 - Jul 2018. Bachelor, School of Computer Science and Technology, East China Normal University, Shanghai, China </p>
+    </li>
+  </ul>
