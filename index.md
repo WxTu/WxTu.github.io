@@ -5,7 +5,7 @@
 <table class="imgtable">
   <tr>
     <td>
-      <img src="/photo.jpg" width="280px"  />&nbsp;
+      <img src="/photo.jpg" width="120px"  />&nbsp;
     </td>
     <td align="left">
       XXXXX
