@@ -66,6 +66,11 @@
 ### Awards
   <ul>
     <li> 
+      <p>Excellent Graduated Graduate Student of Hunan Province, 2020</p>
+    </li>
+  </ul>
+  <ul>
+    <li> 
       <p>Future Cup College AI Challenge，1st Place in Central China & Southern China, 2018  </p>
     </li>
   </ul>
