@@ -63,6 +63,18 @@
     </li>
   </ul> 
 
+   <ul>
+    <li> 
+      <p align = "justify"> Mengjing Sun, Pei Zhang, Siwei Wang, Sihang Zhou, <b>Wenxuan Tu</b>, Xinwang Liu, En Zhu, Changjian Wang. Scalable Multi-view Subspace Clustering with Unified Anchors. ACM MM 2021 (to appear). <b>(CCF Rank A)</b> </p>
+    </li>
+  </ul> 
+
+   <ul>
+    <li> 
+      <p align = "justify"> iyuan Liu, Xinwang Liu, Yi Zhang, Pei Zhang, <b>Wenxuan Tu</b>, Siwei Wang, Sihang Zhou, Weixuan Liang, Siqi Wang and Yuexiang Yang. Self-representation Subspace Clustering for Incomplete Multi-view Data. ACM MM 2021 (to appear). <b>(CCF Rank A)</b> </p>
+    </li>
+  </ul> 
+
 ### Awards
   <ul>
     <li> 
