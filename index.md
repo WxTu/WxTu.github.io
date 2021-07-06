@@ -71,7 +71,7 @@
 
    <ul>
     <li> 
-      <p align = "justify"> iyuan Liu, Xinwang Liu, Yi Zhang, Pei Zhang, <b>Wenxuan Tu</b>, Siwei Wang, Sihang Zhou, Weixuan Liang, Siqi Wang and Yuexiang Yang. Self-representation Subspace Clustering for Incomplete Multi-view Data. ACM MM 2021 (to appear). <b>(CCF Rank A)</b> </p>
+      <p align = "justify"> Liyuan Liu, Xinwang Liu, Yi Zhang, Pei Zhang, <b>Wenxuan Tu</b>, Siwei Wang, Sihang Zhou, Weixuan Liang, Siqi Wang and Yuexiang Yang. Self-representation Subspace Clustering for Incomplete Multi-view Data. ACM MM 2021 (to appear). <b>(CCF Rank A)</b> </p>
     </li>
   </ul> 
 
