@@ -75,6 +75,14 @@
     </li>
   </ul> 
 
+
+   <ul>
+    <li> 
+      <p align = "justify"> Yuxin Huang, Miaomiao Li, <b>Wenxuan Tu</b>, Jiyuan Liu, Jiahao Ying. Spare Simple MKKM with Semi-infinite Linear Program Optimization. International Journal of Intelligent Systems. <b>(JCR 1 1#)</b> </p>
+    </li>
+  </ul>
+
+
 ### Awards
   <ul>
     <li> 
