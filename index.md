@@ -59,7 +59,7 @@
   
    <ul>
     <li> 
-      <p align = "justify"> Xinwang Liu, Li Liu, Qing Liao, Chang Tang, Siwei Wang, <b>Wenxuan Tu</b>, Jiyuan Liu, Yi Zhang and En Zhu. One Pass Late Fusion Multi-view Clustering. ICML 2021, pages: 6850-6859. <b>(CCF Rank A)</b> [<a href="http://proceedings.mlr.press/v139/liu21l/liu21l.pdf">Paper</a>], [<a href="https://github.com/WxTu/DFCN">Code</a>] .  <b>(CCF Rank A)</b> </p>
+      <p align = "justify"> Xinwang Liu, Li Liu, Qing Liao, Chang Tang, Siwei Wang, <b>Wenxuan Tu</b>, Jiyuan Liu, Yi Zhang and En Zhu. One Pass Late Fusion Multi-view Clustering. ICML 2021, pages: 6850-6859. <b>(CCF Rank A)</b> [<a href="http://proceedings.mlr.press/v139/liu21l/liu21l.pdf">Paper</a>], [<a href="https://github.com/WxTu/DFCN">Code</a>] </p>
     </li>
   </ul> 
 
