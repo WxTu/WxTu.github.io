@@ -53,13 +53,13 @@
   
   <ul>
     <li> 
-      <p align = "justify"> Bin Jiang, <b>Wenxuan Tu</b>, Chao Yang, Junsong Yuan. Context-Integrated and Feature-Refined Network for Lightweight Object Parsing. IEEE Transactions on Image Processing (TIP), 29: 5079-5093, 2020. <b>(CCF Rank A, JCR 1# TOP)</b> [<a href="https://ieeexplore.ieee.org/document/9032321/">Paper</a>], [<a href="https://github.com/WxTu/CIFReNet">Code</a>] </p>
+      <p align = "justify"> Bin Jiang, <b>Wenxuan Tu</b>, Chao Yang, Junsong Yuan. Context-Integrated and Feature-Refined Network for Lightweight Object Parsing. IEEE Transactions on Image Processing (TIP), 29: 5079-5093, 2020. <b>(CCF Rank A, JCR 1# TOP)</b> [<a href="https://ieeexplore.ieee.org/document/9032321/">Paper</a>], [<a href="https://github.com/xinwangliu/onePassLateFusionMVC/tree/main">Code</a>] </p>
     </li>
   </ul> 
   
    <ul>
     <li> 
-      <p align = "justify"> Xinwang Liu, Li Liu, Qing Liao, Chang Tang, Siwei Wang, <b>Wenxuan Tu</b>, Jiyuan Liu, Yi Zhang and En Zhu. One Pass Late Fusion Multi-view Clustering. ICML 2021 (to appear).  <b>(CCF Rank A)</b> </p>
+      <p align = "justify"> Xinwang Liu, Li Liu, Qing Liao, Chang Tang, Siwei Wang, <b>Wenxuan Tu</b>, Jiyuan Liu, Yi Zhang and En Zhu. One Pass Late Fusion Multi-view Clustering. ICML 2021, pages: 6850-6859. <b>(CCF Rank A)</b> [<a href="http://proceedings.mlr.press/v139/liu21l/liu21l.pdf">Paper</a>], [<a href="https://github.com/WxTu/DFCN">Code</a>] .  <b>(CCF Rank A)</b> </p>
     </li>
   </ul> 
 
