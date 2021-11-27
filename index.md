@@ -5,7 +5,7 @@
 <table class="imgtable">
   <tr>
     <td>
-      <img src="/twx.jpg" alt="Wenxuan Tu" width="170px" height="251.6px" />&nbsp;
+      <img src="/twx.jpg" alt="Wenxuan Tu" width="200px" height="300.6px" />&nbsp;
     </td>
     <td align="left">
       <p>P.h.D Candidate</p>
