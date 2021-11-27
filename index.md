@@ -78,13 +78,13 @@
 
    <ul>
     <li> 
-      <p align = "justify"> Yuxin Huang, Miaomiao Li, <b>Wenxuan Tu</b>, Jiyuan Liu and Jiahao Ying. Spare Simple MKKM with Semi-infinite Linear Program Optimization. International Journal of Intelligent Systems (IJIS), 2021. <b>(JCR 1#)</b> </p>
+      <p align = "justify"> Yuxin Huang, Miaomiao Li, <b>Wenxuan Tu</b>, Jiyuan Liu and Jiahao Ying. Spare Simple MKKM with Semi-infinite Linear Program Optimization. International Journal of Intelligent Systems (IJIS), 2021. <b>(JCR 1#)</b> [<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/int.22661">Paper</a>]</p>
     </li>
   </ul>
 
    <ul>
     <li> 
-      <p align = "justify"> Mingjie Luo, Siwei Wang, Xinwang Liu, <b>Wenxuan Tu</b>, Yi Zhang, Xifeng Guo, Sihang Zhou and En Zhu. Deep Distribution-preserving Incomplete Clustering with Optimal Transport. arXiv: 2103.11424, 2021. <b>(arXiv preprint)</b> </p>
+      <p align = "justify"> Mingjie Luo, Siwei Wang, Xinwang Liu, <b>Wenxuan Tu</b>, Yi Zhang, Xifeng Guo, Sihang Zhou and En Zhu. Deep Distribution-preserving Incomplete Clustering with Optimal Transport. arXiv: 2103.11424, 2021. <b>([<a href="https://arxiv.org/pdf/2103.11424.pdf">arXiv preprint</a>])</b> </p>
     </li>
   </ul>
 
