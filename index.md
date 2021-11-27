@@ -84,7 +84,7 @@
 
    <ul>
     <li> 
-      <p align = "justify"> Mingjie Luo, Siwei Wang, Xinwang Liu, Wenxuan Tu, Yi Zhang, Xifeng Guo, Sihang Zhou, En Zhu. Deep Distribution-preserving Incomplete Clustering with Optimal Transport. arXiv:2103.11424, 2021. <b>(arXiv preprint)</b> </p>
+      <p align = "justify"> Mingjie Luo, Siwei Wang, Xinwang Liu, <b>Wenxuan Tu</b>, Yi Zhang, Xifeng Guo, Sihang Zhou, En Zhu. Deep Distribution-preserving Incomplete Clustering with Optimal Transport. arXiv: 2103.11424, 2021. <b>(arXiv preprint)</b> </p>
     </li>
   </ul>
 
