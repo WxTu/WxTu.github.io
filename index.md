@@ -65,13 +65,13 @@
 
    <ul>
     <li> 
-      <p align = "justify"> Mengjing Sun, Pei Zhang, Siwei Wang, Sihang Zhou, <b>Wenxuan Tu</b>, Xinwang Liu, En Zhu, Changjian Wang. Scalable Multi-view Subspace Clustering with Unified Anchors. ACM MM 2021, pages: 3528-3536. <b>(CCF Rank A)</b> [<a href="https://dl.acm.org/doi/10.1145/3474085.3475516">Paper</a>], [<a href="https://github.com/Jeaninezpp/SMVSC">Code</a>] </b> </p>
+      <p align = "justify"> Mengjing Sun, Pei Zhang, Siwei Wang, Sihang Zhou, <b>Wenxuan Tu</b>, Xinwang Liu, En Zhu, Changjian Wang. Scalable Multi-view Subspace Clustering with Unified Anchors. ACM MM 2021, pages: 3528-3536. <b>(CCF Rank A)</b> [<a href="https://dl.acm.org/doi/10.1145/3474085.3475516">Paper</a>], [<a href="https://github.com/Jeaninezpp/SMVSC">Code</a>] </p>
     </li>
   </ul> 
 
    <ul>
     <li> 
-      <p align = "justify"> Liyuan Liu, Xinwang Liu, Yi Zhang, Pei Zhang, <b>Wenxuan Tu</b>, Siwei Wang, Sihang Zhou, Weixuan Liang, Siqi Wang and Yuexiang Yang. Self-representation Subspace Clustering for Incomplete Multi-view Data. ACM MM 2021, pages: 2726–2734. <b>(CCF Rank A)</b> [<a href="https://dl.acm.org/doi/10.1145/3474085.3475379">Paper</a>], [<a href="https://github.com/liujiyuan13/IMSR-code_release">Code</a>] </b> </p>
+      <p align = "justify"> Liyuan Liu, Xinwang Liu, Yi Zhang, Pei Zhang, <b>Wenxuan Tu</b>, Siwei Wang, Sihang Zhou, Weixuan Liang, Siqi Wang and Yuexiang Yang. Self-representation Subspace Clustering for Incomplete Multi-view Data. ACM MM 2021, pages: 2726–2734. <b>(CCF Rank A)</b> [<a href="https://dl.acm.org/doi/10.1145/3474085.3475379">Paper</a>], [<a href="https://github.com/liujiyuan13/IMSR-code_release">Code</a>] </p>
     </li>
   </ul> 
 
