@@ -48,7 +48,7 @@
 ### 2022
    <ul>
     <li> 
-      <p align = "justify"> <b>[AAAI]</b> Yue Liu, <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Linxuan Song, Xihong Yang and, En zhu. Deep Graph Clustering via Dual Correlation Reduction. AAAI 2022, (to appear). <b>(CCF Rank A)</b></p>
+      <p align = "justify"> <b>[<font color=red>AAAI</font>]</b> Yue Liu, <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Linxuan Song, Xihong Yang and, En zhu. Deep Graph Clustering via Dual Correlation Reduction. AAAI 2022, (to appear). <b>(CCF Rank A)</b></p>
     </li>
   </ul>
   
