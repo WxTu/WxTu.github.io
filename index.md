@@ -134,8 +134,3 @@
 
 ## Contact
 <p>Any discussions or concerns are welcomed! [wenxuantu@163.com], [twx@nudt.edu.cn]</p>
-
-[visitors-img]: https://visitor-badge.glitch.me/badge?page_id=WxTu/WxTu.github.io
-[adgc-url]: https://github.com/WxTu/WxTu.github.io
-
-[![visitors][visitors-img]][adgc-url]
