@@ -39,6 +39,7 @@
   
 
 ### Publications
+## 2020
    <ul>
     <li> 
       <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Xifeng Guo, Zhiping Cai, En zhu, and Jieren Cheng. Deep Fusion Clustering Network. AAAI 2021, pages: 9978-9987. <b>(CCF Rank A)</b> [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/17198">Paper</a>], [<a href="https://github.com/WxTu/DFCN">Code</a>] </p>
