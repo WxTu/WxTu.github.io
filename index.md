@@ -40,7 +40,7 @@
 ## Open Source
  <ul>
     <li> 
-      <p>Awesome Deep Graph Clustering (Co-contributor: <a href="https://github.com/yueliu1999/Awesome-Deep-Graph-Clusteringn">Yue Liu</a>)</p>
+      <p>Awesome Deep Graph Clustering (Co-contributor: <a href="https://github.com/yueliu1999/Awesome-Deep-Graph-Clusteringng">Yue Liu</a>)</p>
     </li>
   </ul>
 
