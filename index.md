@@ -1,6 +1,6 @@
 <!-- ## Welcome to GitHub Pages -->
 
-### Wenxuan Tu
+## Wenxuan Tu
 
 <table class="imgtable">
   <tr>
@@ -17,10 +17,10 @@
  </tr>
 </table>
 
-### Short Bio
+## Short Bio
   <p align = "justify">I am currently pursuing the doctor degree with the College of Computer, National University of Defense Technology, under the supervisor of Professor <a href="https://xinwangliu.github.io/">Xinwang Liu</a>. I have published papers in highly regarded journals and conferences such as IEEE TIP, Information Science, AAAI, ICML, etc. My research interests include graph machine learning and computer vision.</p>
   
-### Education Experience
+## Education Experience
   <ul>
     <li> 
       <p>[Sep 2020 - Now]. Doctor, National University of Defense Technology, Changsha, China </p>
@@ -38,8 +38,8 @@
   </ul>
   
 
-### Publications
-## 2020
+## Publications
+### 2020
    <ul>
     <li> 
       <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Xifeng Guo, Zhiping Cai, En zhu, and Jieren Cheng. Deep Fusion Clustering Network. AAAI 2021, pages: 9978-9987. <b>(CCF Rank A)</b> [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/17198">Paper</a>], [<a href="https://github.com/WxTu/DFCN">Code</a>] </p>
@@ -89,7 +89,7 @@
     </li>
   </ul>
 
-### Services
+## Services
    <ul>
     <li> 
       <p>Program Committee Member for CVPR 2022</p>
@@ -101,7 +101,7 @@
     </li>
   </ul>
   
-### Awards
+## Awards
   <ul>
     <li> 
       <p>Excellent Graduated Graduate Student of Hunan Province, 2020</p>
@@ -118,5 +118,5 @@
     </li>
   </ul>
 
-### Contact
+## Contact
 <p>Any discussions or concerns are welcomed! [wenxuantu@163.com], [twx@nudt.edu.cn]</p>
