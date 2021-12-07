@@ -48,45 +48,45 @@
 ### 2022
    <ul>
     <li> 
-      <p align = "justify"> Yue Liu, <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Linxuan Song, Xihong Yang and, En zhu. Deep Graph Clustering via Dual Correlation Reduction. AAAI 2022, (to appear). <b>(CCF Rank A)</b></p>
+      <p align = "justify"> <b>[AAAI]</b> Yue Liu, <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Linxuan Song, Xihong Yang and, En zhu. Deep Graph Clustering via Dual Correlation Reduction. AAAI 2022, (to appear). <b>(CCF Rank A)</b></p>
     </li>
   </ul>
   
 ### 2021
    <ul>
     <li> 
-      <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Xifeng Guo, Zhiping Cai, En zhu, and Jieren Cheng. Deep Fusion Clustering Network. AAAI 2021, pages: 9978-9987. <b>(CCF Rank A)</b> [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/17198">Paper</a>], [<a href="https://github.com/WxTu/DFCN">Code</a>] </p>
+      <p align = "justify"> <b>[AAAI]</b> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Xifeng Guo, Zhiping Cai, En zhu, and Jieren Cheng. Deep Fusion Clustering Network. AAAI 2021, pages: 9978-9987. <b>(CCF Rank A)</b> [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/17198">Paper</a>], [<a href="https://github.com/WxTu/DFCN">Code</a>] </p>
     </li>
   </ul>
   
  <ul>
     <li> 
-      <p align = "justify"> Xiangyan Tang, <b>Wenxuan Tu</b>, Keqiu Li, Jieren Cheng. DFFNet: An IoT-perceptive dual feature fusion network for general real-time semantic segmentation. Information Sciences (IS), 565: 326-343, 2021. <b>(JCR 1# TOP)</b> [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0020025521001389?via%3Dihub">Paper</a>], [<a href="https://github.com/WxTu/DFFNet">Code</a>] </p>
+      <p align = "justify"> <b>[IS]</b> Xiangyan Tang, <b>Wenxuan Tu</b>, Keqiu Li, Jieren Cheng. DFFNet: An IoT-perceptive dual feature fusion network for general real-time semantic segmentation. Information Sciences (IS), 565: 326-343, 2021. <b>(JCR 1# TOP)</b> [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0020025521001389?via%3Dihub">Paper</a>], [<a href="https://github.com/WxTu/DFFNet">Code</a>] </p>
     </li>
   </ul> 
   
    <ul>
     <li> 
-      <p align = "justify"> Xinwang Liu, Li Liu, Qing Liao, Chang Tang, Siwei Wang, <b>Wenxuan Tu</b>, Jiyuan Liu, Yi Zhang and En Zhu. One Pass Late Fusion Multi-view Clustering. ICML 2021, pages: 6850-6859. <b>(CCF Rank A)</b> [<a href="http://proceedings.mlr.press/v139/liu21l/liu21l.pdf">Paper</a>], [<a href="https://github.com/WxTu/DFCN">Code</a>] </p>
+      <p align = "justify"> <b>[ICML]</b> Xinwang Liu, Li Liu, Qing Liao, Chang Tang, Siwei Wang, <b>Wenxuan Tu</b>, Jiyuan Liu, Yi Zhang and En Zhu. One Pass Late Fusion Multi-view Clustering. ICML 2021, pages: 6850-6859. <b>(CCF Rank A)</b> [<a href="http://proceedings.mlr.press/v139/liu21l/liu21l.pdf">Paper</a>], [<a href="https://github.com/WxTu/DFCN">Code</a>] </p>
     </li>
   </ul> 
 
    <ul>
     <li> 
-      <p align = "justify"> Mengjing Sun, Pei Zhang, Siwei Wang, Sihang Zhou, <b>Wenxuan Tu</b>, Xinwang Liu, En Zhu, Changjian Wang. Scalable Multi-view Subspace Clustering with Unified Anchors. ACM MM 2021, pages: 3528-3536. <b>(CCF Rank A)</b> [<a href="https://dl.acm.org/doi/10.1145/3474085.3475516">Paper</a>], [<a href="https://github.com/Jeaninezpp/SMVSC">Code</a>] </p>
+      <p align = "justify"> <b>[MM]</b> Mengjing Sun, Pei Zhang, Siwei Wang, Sihang Zhou, <b>Wenxuan Tu</b>, Xinwang Liu, En Zhu, Changjian Wang. Scalable Multi-view Subspace Clustering with Unified Anchors. ACM MM 2021, pages: 3528-3536. <b>(CCF Rank A)</b> [<a href="https://dl.acm.org/doi/10.1145/3474085.3475516">Paper</a>], [<a href="https://github.com/Jeaninezpp/SMVSC">Code</a>] </p>
     </li>
   </ul> 
 
    <ul>
     <li> 
-      <p align = "justify"> Liyuan Liu, Xinwang Liu, Yi Zhang, Pei Zhang, <b>Wenxuan Tu</b>, Siwei Wang, Sihang Zhou, Weixuan Liang, Siqi Wang and Yuexiang Yang. Self-representation Subspace Clustering for Incomplete Multi-view Data. ACM MM 2021, pages: 2726–2734. <b>(CCF Rank A)</b> [<a href="https://dl.acm.org/doi/10.1145/3474085.3475379">Paper</a>], [<a href="https://github.com/liujiyuan13/IMSR-code_release">Code</a>] </p>
+      <p align = "justify"> <b>[MM]</b> Liyuan Liu, Xinwang Liu, Yi Zhang, Pei Zhang, <b>Wenxuan Tu</b>, Siwei Wang, Sihang Zhou, Weixuan Liang, Siqi Wang and Yuexiang Yang. Self-representation Subspace Clustering for Incomplete Multi-view Data. ACM MM 2021, pages: 2726–2734. <b>(CCF Rank A)</b> [<a href="https://dl.acm.org/doi/10.1145/3474085.3475379">Paper</a>], [<a href="https://github.com/liujiyuan13/IMSR-code_release">Code</a>] </p>
     </li>
   </ul> 
 
 
    <ul>
     <li> 
-      <p align = "justify"> Yuxin Huang, Miaomiao Li, <b>Wenxuan Tu</b>, Jiyuan Liu and Jiahao Ying. Spare Simple MKKM with Semi-infinite Linear Program Optimization. International Journal of Intelligent Systems (IJIS), 2021. <b>(JCR 1#)</b> [<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/int.22661">Paper</a>]</p>
+      <p align = "justify"> <b>[IJIS]</b> Yuxin Huang, Miaomiao Li, <b>Wenxuan Tu</b>, Jiyuan Liu and Jiahao Ying. Spare Simple MKKM with Semi-infinite Linear Program Optimization. International Journal of Intelligent Systems (IJIS), 2021. <b>(JCR 1#)</b> [<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/int.22661">Paper</a>]</p>
     </li>
   </ul>
 
@@ -99,7 +99,7 @@
 ### 2020
   <ul>
     <li> 
-      <p align = "justify"> Bin Jiang, <b>Wenxuan Tu</b>, Chao Yang, Junsong Yuan. Context-Integrated and Feature-Refined Network for Lightweight Object Parsing. IEEE Transactions on Image Processing (TIP), 29: 5079-5093, 2020. <b>(CCF Rank A, JCR 1# TOP)</b> [<a href="https://ieeexplore.ieee.org/document/9032321/">Paper</a>], [<a href="https://github.com/xinwangliu/onePassLateFusionMVC/tree/main">Code</a>] </p>
+      <p align = "justify"> <b>[IEEE TIP]</b> Bin Jiang, <b>Wenxuan Tu</b>, Chao Yang, Junsong Yuan. Context-Integrated and Feature-Refined Network for Lightweight Object Parsing. IEEE Transactions on Image Processing (TIP), 29: 5079-5093, 2020. <b>(CCF Rank A, JCR 1# TOP)</b> [<a href="https://ieeexplore.ieee.org/document/9032321/">Paper</a>], [<a href="https://github.com/xinwangliu/onePassLateFusionMVC/tree/main">Code</a>] </p>
     </li>
   </ul> 
   
