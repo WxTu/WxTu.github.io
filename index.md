@@ -39,7 +39,13 @@
   
 
 ## Publications
-### 2020
+### 2022
+   <ul>
+    <li> 
+      <p align = "justify"> Yue Liu, <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Linxuan Song, Xihong Yang and, En zhu. Deep Graph Clustering via Dual Correlation Reduction. AAAI 2022. <b>(to appear)</b></p>
+    </li>
+  </ul>
+### 2021
    <ul>
     <li> 
       <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Xifeng Guo, Zhiping Cai, En zhu, and Jieren Cheng. Deep Fusion Clustering Network. AAAI 2021, pages: 9978-9987. <b>(CCF Rank A)</b> [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/17198">Paper</a>], [<a href="https://github.com/WxTu/DFCN">Code</a>] </p>
@@ -52,11 +58,7 @@
     </li>
   </ul> 
   
-  <ul>
-    <li> 
-      <p align = "justify"> Bin Jiang, <b>Wenxuan Tu</b>, Chao Yang, Junsong Yuan. Context-Integrated and Feature-Refined Network for Lightweight Object Parsing. IEEE Transactions on Image Processing (TIP), 29: 5079-5093, 2020. <b>(CCF Rank A, JCR 1# TOP)</b> [<a href="https://ieeexplore.ieee.org/document/9032321/">Paper</a>], [<a href="https://github.com/xinwangliu/onePassLateFusionMVC/tree/main">Code</a>] </p>
-    </li>
-  </ul> 
+
   
    <ul>
     <li> 
@@ -88,7 +90,13 @@
       <p align = "justify"> Mingjie Luo, Siwei Wang, Xinwang Liu, <b>Wenxuan Tu</b>, Yi Zhang, Xifeng Guo, Sihang Zhou and En Zhu. Deep Distribution-preserving Incomplete Clustering with Optimal Transport. arXiv: 2103.11424, 2021. (<a href="https://arxiv.org/pdf/2103.11424.pdf">arXiv preprint</a>) </p>
     </li>
   </ul>
-
+### 2020
+  <ul>
+    <li> 
+      <p align = "justify"> Bin Jiang, <b>Wenxuan Tu</b>, Chao Yang, Junsong Yuan. Context-Integrated and Feature-Refined Network for Lightweight Object Parsing. IEEE Transactions on Image Processing (TIP), 29: 5079-5093, 2020. <b>(CCF Rank A, JCR 1# TOP)</b> [<a href="https://ieeexplore.ieee.org/document/9032321/">Paper</a>], [<a href="https://github.com/xinwangliu/onePassLateFusionMVC/tree/main">Code</a>] </p>
+    </li>
+  </ul> 
+  
 ## Services
    <ul>
     <li> 
