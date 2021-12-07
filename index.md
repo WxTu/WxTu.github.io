@@ -45,6 +45,7 @@
       <p align = "justify"> Yue Liu, <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Linxuan Song, Xihong Yang and, En zhu. Deep Graph Clustering via Dual Correlation Reduction. AAAI 2022, (to appear). <b>(CCF Rank A)</b></p>
     </li>
   </ul>
+  
 ### 2021
    <ul>
     <li> 
@@ -57,8 +58,6 @@
       <p align = "justify"> Xiangyan Tang, <b>Wenxuan Tu</b>, Keqiu Li, Jieren Cheng. DFFNet: An IoT-perceptive dual feature fusion network for general real-time semantic segmentation. Information Sciences (IS), 565: 326-343, 2021. <b>(JCR 1# TOP)</b> [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0020025521001389?via%3Dihub">Paper</a>], [<a href="https://github.com/WxTu/DFFNet">Code</a>] </p>
     </li>
   </ul> 
-  
-
   
    <ul>
     <li> 
@@ -90,6 +89,7 @@
       <p align = "justify"> Mingjie Luo, Siwei Wang, Xinwang Liu, <b>Wenxuan Tu</b>, Yi Zhang, Xifeng Guo, Sihang Zhou and En Zhu. Deep Distribution-preserving Incomplete Clustering with Optimal Transport. arXiv: 2103.11424, 2021. (<a href="https://arxiv.org/pdf/2103.11424.pdf">arXiv preprint</a>) </p>
     </li>
   </ul>
+  
 ### 2020
   <ul>
     <li> 
