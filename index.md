@@ -90,11 +90,7 @@
     </li>
   </ul>
 
-   <ul>
-    <li> 
-      <p align = "justify"> Mingjie Luo, Siwei Wang, Xinwang Liu, <b>Wenxuan Tu</b>, Yi Zhang, Xifeng Guo, Sihang Zhou and En Zhu. Deep Distribution-preserving Incomplete Clustering with Optimal Transport. arXiv: 2103.11424, 2021. (<a href="https://arxiv.org/pdf/2103.11424.pdf">arXiv preprint</a>) </p>
-    </li>
-  </ul>
+
   
 ### 2020
   <ul>
@@ -102,6 +98,14 @@
       <p align = "justify"> Bin Jiang, <b>Wenxuan Tu</b>, Chao Yang, Junsong Yuan. Context-Integrated and Feature-Refined Network for Lightweight Object Parsing. IEEE Transactions on Image Processing (TIP), 29: 5079-5093, 2020. <b>(CCF Rank A, JCR 1# TOP)</b> [<a href="https://ieeexplore.ieee.org/document/9032321/">Paper</a>], [<a href="https://github.com/xinwangliu/onePassLateFusionMVC/tree/main">Code</a>] </p>
     </li>
   </ul> 
+  
+### Pre-prints
+     <ul>
+    <li> 
+      <p align = "justify"> Mingjie Luo, Siwei Wang, Xinwang Liu, <b>Wenxuan Tu</b>, Yi Zhang, Xifeng Guo, Sihang Zhou and En Zhu. Deep Distribution-preserving Incomplete Clustering with Optimal Transport. arXiv: 2103.11424, 2021. (<a href="https://arxiv.org/pdf/2103.11424.pdf">arXiv preprint</a>) </p>
+    </li>
+  </ul>
+  
   
 ## Services
    <ul>
