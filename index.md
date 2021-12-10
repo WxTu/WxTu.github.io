@@ -108,7 +108,7 @@
 
    <ul>
     <li> 
-      <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Yue Liu, Xinwang Liu, Xifeng Guo, Zhiping Cai, En Zhu, Changwang Zhang, Jieren Cheng, and En Zhu. Siamese Attribute-missing Graph Auto-encoder. arXiv: 2112.04842, 2021 (under review). (<a href="https://arxiv.org/pdf/2112.04842.pdf">arXiv preprint</a>) </p>
+      <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Yue Liu, Xinwang Liu, Xifeng Guo, Zhiping Cai, En Zhu, Changwang Zhang, and Jieren Cheng. Siamese Attribute-missing Graph Auto-encoder. arXiv: 2112.04842, 2021 (under review). (<a href="https://arxiv.org/pdf/2112.04842.pdf">arXiv preprint</a>) </p>
     </li>
   </ul>
   
