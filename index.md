@@ -102,7 +102,19 @@
 ### Pre-prints
    <ul>
     <li> 
-      <p align = "justify"> Mingjie Luo, Siwei Wang, Xinwang Liu, <b>Wenxuan Tu</b>, Yi Zhang, Xifeng Guo, Sihang Zhou and En Zhu. Deep Distribution-preserving Incomplete Clustering with Optimal Transport. arXiv: 2103.11424, 2021. (<a href="https://arxiv.org/pdf/2103.11424.pdf">arXiv preprint</a>) </p>
+      <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Siwei Wang, Linxuan Song, Zhiping Cai, and En Zhu. Multi-view Hierarchical Graph Infomax. 2021 (under review). </p>
+    </li>
+  </ul>
+
+   <ul>
+    <li> 
+      <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Yue Liu, Xinwang Liu, Xifeng Guo, Zhiping Cai, En Zhu, Changwang Zhang, Jieren Cheng, and En Zhu. Siamese Attribute-missing Graph Auto-encoder. arXiv: 2112.04842, 2021 (under review). (<a href="https://arxiv.org/pdf/2112.04842.pdf">arXiv preprint</a>) </p>
+    </li>
+  </ul>
+  
+   <ul>
+    <li> 
+      <p align = "justify"> Mingjie Luo, Siwei Wang, Xinwang Liu, <b>Wenxuan Tu</b>, Yi Zhang, Xifeng Guo, Sihang Zhou and En Zhu. Deep Distribution-preserving Incomplete Clustering with Optimal Transport. arXiv: 2103.11424, 2021 (under review). (<a href="https://arxiv.org/pdf/2103.11424.pdf">arXiv preprint</a>) </p>
     </li>
   </ul>
   
