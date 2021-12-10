@@ -6,4 +6,4 @@
 ## Paper
 [![visitors][visitors-img]][adgc-url]
 
-Welcome to my homepage! [[WxTu.github.io]](WxTu.github.io) <br>
+Welcome to my homepage! [WxTu.github.io](WxTu.github.io) <br>
