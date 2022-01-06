@@ -154,4 +154,4 @@
   </ul>
 
 ## Contact
-<p>Any discussions or concerns are welcomed! Email: wenxuantu@163.com or twx@nudt.edu.cn</p>
+<p>Any discussions or concerns are welcomed! Email: [wenxuantu@163.com] or [twx@nudt.edu.cn]</p>
