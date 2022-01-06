@@ -51,11 +51,7 @@
       <p align = "justify"> Yue Liu, <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Linxuan Song, Xihong Yang and, En zhu. Deep Graph Clustering via Dual Correlation Reduction. AAAI 2022, (to appear). <b>(CCF Rank A)</b> [<a href="https://arxiv.org/pdf/2112.14772.pdf">Paper</a>], [<a href="https://github.com/yueliu1999/DCRN">Code</a>]</p>
     </li>
   </ul>
-   <ul>
-    <li> 
-      <p align = "justify"> Jieren Cheng, Xin Peng, Xiangyan Tang, <b>Wenxuan Tu</b>, Wenhang Xu. MIFNet: A Lightweight Multiscale Information Fusion Network. International Journal of Intelligent Systems (IJIS), 2022, (to appear). <b>(JCR 1#)</b> [<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/int.22804">Paper</a>]</p>
-    </li>
-  </ul>
+
   
 ### 2021
    <ul>
@@ -91,10 +87,15 @@
 
    <ul>
     <li> 
-      <p align = "justify"> Yuxin Huang, Miaomiao Li, <b>Wenxuan Tu</b>, Jiyuan Liu and Jiahao Ying. Spare Simple MKKM with Semi-infinite Linear Program Optimization. International Journal of Intelligent Systems (IJIS), 2021. <b>(JCR 1#)</b> [<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/int.22661">Paper</a>]</p>
+      <p align = "justify"> Yuxin Huang, Miaomiao Li, <b>Wenxuan Tu</b>, Jiyuan Liu and Jiahao Ying. Spare Simple MKKM with Semi-infinite Linear Program Optimization. International Journal of Intelligent Systems (IJIS), 2021, (to appear). <b>(JCR 1#)</b> [<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/int.22661">Paper</a>]</p>
     </li>
   </ul>
-
+  
+   <ul>
+    <li> 
+      <p align = "justify"> Jieren Cheng, Xin Peng, Xiangyan Tang, <b>Wenxuan Tu</b>, Wenhang Xu. MIFNet: A Lightweight Multiscale Information Fusion Network. International Journal of Intelligent Systems (IJIS), 2021, (to appear). <b>(JCR 1#)</b> [<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/int.22804">Paper</a>]</p>
+    </li>
+  </ul>
 
   
 ### 2020
