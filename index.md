@@ -45,7 +45,7 @@
   </ul>
  <ul>
     <li> 
-      <p><a href="https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering"></a>Awesome Deep Graph Clustering (Co-contributor: Yue Liu)</p>
+      <p><a href="https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering">Awesome Deep Graph Clustering</a> (Co-contributor: Yue Liu)</p>
     </li>
   </ul>
 
