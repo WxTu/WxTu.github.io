@@ -40,12 +40,12 @@
 ## Open Source
  <ul>
     <li> 
-      <p>Awesome Incomplete Graph Representation Learning</p>
+      <p><a href="https://github.com/WxTu/awesome-incomplete-graph-representation-learning">Awesome Incomplete Graph Representation Learning</a></p>
     </li>
   </ul>
  <ul>
     <li> 
-      <p>Awesome Deep Graph Clustering (Co-contributor: <a href="https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering">Yue Liu</a>)</p>
+      <p><a href="https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering"></a>Awesome Deep Graph Clustering (Co-contributor: Yue Liu)</p>
     </li>
   </ul>
 
