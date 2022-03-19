@@ -53,7 +53,13 @@
 ### 2022
    <ul>
     <li> 
-      <p align = "justify"> Yue Liu, <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Linxuan Song, Xihong Yang and, En zhu. Deep Graph Clustering via Dual Correlation Reduction. AAAI 2022, (to appear). <b>(CCF Rank A)</b> [<a href="https://arxiv.org/pdf/2112.14772.pdf">Paper</a>], [<a href="https://github.com/yueliu1999/DCRN">Code</a>]</p>
+      <p align = "justify"> Siwei Wang, Xinwang Liu, Li Liu, <b>Wenxuan Tu</b>, Xinzhong Zhu, Jiyuan Liu, Sihang Zhou, Xinwang Liu, and En zhu. Highly-efficient Incomplete Large-scale Multi-view Clustering with Consensus Bipartite Graph. CVPR 2022, (to appear). <b>(CCF Rank A)</b> [<a href="https://arxiv.org/pdf/2112.14772.pdf">Paper</a>], [<a href="https://github.com/yueliu1999/DCRN">Code</a>]</p>
+    </li>
+  </ul>
+
+<ul>
+    <li> 
+      <p align = "justify"> Yue Liu, <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Linxuan Song, Xihong Yang, and En zhu. Deep Graph Clustering via Dual Correlation Reduction. AAAI 2022, (to appear). <b>(CCF Rank A)</b> [<a href="https://arxiv.org/pdf/2112.14772.pdf">Paper</a>], [<a href="https://github.com/yueliu1999/DCRN">Code</a>]</p>
     </li>
   </ul>
 
