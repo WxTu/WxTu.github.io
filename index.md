@@ -73,7 +73,7 @@
   
  <ul>
     <li> 
-      <p align = "justify"> Xiangyan Tang, <b>Wenxuan Tu</b>, Keqiu Li, Jieren Cheng. DFFNet: An IoT-perceptive dual feature fusion network for general real-time semantic segmentation. Information Sciences (IS), 565: 326-343, 2021. <b>(JCR 1# TOP)</b> [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0020025521001389?via%3Dihub">Paper</a>], [<a href="https://github.com/WxTu/DFFNet">Code</a>] </p>
+      <p align = "justify"> Xiangyan Tang, <b>Wenxuan Tu</b>, Keqiu Li, Jieren Cheng. DFFNet: An IoT-perceptive dual feature fusion network for general real-time semantic segmentation. Information Sciences (IS), 565: 326-343, 2021. <b>(CCF Rank B, JCR 1# TOP)</b> [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0020025521001389?via%3Dihub">Paper</a>], [<a href="https://github.com/WxTu/DFFNet">Code</a>] </p>
     </li>
   </ul> 
   
