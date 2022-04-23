@@ -53,6 +53,18 @@
 ### 2022
    <ul>
     <li> 
+      <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Yue Liu, Zhiping Cai, En Zhu, Changwang Zhang, and Jieren Cheng. Initializing Then Refining: A Simple Graph Attribute Imputation Network. IJCAI 2022, (to appear). <b>(CCF Rank A)</b> </p>
+    </li>
+  </ul>
+  
+   <ul>
+    <li> 
+      <p align = "justify"> Lei Gong, Sihang Zhou, <b>Wenxuan Tu</b>, and Xinwang Liu. Attributed Graph Clustering with Dual Redundancy Reduction. IJCAI 2022, (to appear). <b>(CCF Rank A)</b> </p>
+    </li>
+  </ul>
+
+   <ul>
+    <li> 
       <p align = "justify"> Siwei Wang, Xinwang Liu, Li Liu, <b>Wenxuan Tu</b>, Xinzhong Zhu, Jiyuan Liu, Sihang Zhou, Xinwang Liu, and En zhu. Highly-efficient Incomplete Large-scale Multi-view Clustering with Consensus Bipartite Graph. CVPR 2022, (to appear). <b>(CCF Rank A)</b> </p>
     </li>
   </ul>
