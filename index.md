@@ -85,7 +85,7 @@
   
  <ul>
     <li> 
-      <p align = "justify"> Xiangyan Tang, <b>Wenxuan Tu</b>, Keqiu Li, Jieren Cheng. DFFNet: An IoT-perceptive dual feature fusion network for general real-time semantic segmentation. Information Sciences (IS), 565: 326-343, 2021. <b>(CCF Rank B, JCR 1# TOP)</b> [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0020025521001389?via%3Dihub">Paper</a>], [<a href="https://github.com/WxTu/DFFNet">Code</a>] </p>
+      <p align = "justify"> Xiangyan Tang, <b>Wenxuan Tu</b>, Keqiu Li, Jieren Cheng. DFFNet: An IoT-perceptive dual Feature Fusion Network for General Real-time Semantic Segmentation. Information Sciences (IS), 565: 326-343, 2021. <b>(CCF Rank B, JCR 1# TOP)</b> [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0020025521001389?via%3Dihub">Paper</a>], [<a href="https://github.com/WxTu/DFFNet">Code</a>] </p>
     </li>
   </ul> 
   
@@ -103,7 +103,7 @@
 
    <ul>
     <li> 
-      <p align = "justify"> Liyuan Liu, Xinwang Liu, Yi Zhang, Pei Zhang, <b>Wenxuan Tu</b>, Siwei Wang, Sihang Zhou, Weixuan Liang, Siqi Wang and Yuexiang Yang. Self-representation Subspace Clustering for Incomplete Multi-view Data. ACM MM 2021, pages: 2726–2734. <b>(CCF Rank A)</b> [<a href="https://dl.acm.org/doi/10.1145/3474085.3475379">Paper</a>], [<a href="https://github.com/liujiyuan13/IMSR-code_release">Code</a>] </p>
+      <p align = "justify"> Jiyuan Liu, Xinwang Liu, Yi Zhang, Pei Zhang, <b>Wenxuan Tu</b>, Siwei Wang, Sihang Zhou, Weixuan Liang, Siqi Wang and Yuexiang Yang. Self-representation Subspace Clustering for Incomplete Multi-view Data. ACM MM 2021, pages: 2726–2734. <b>(CCF Rank A)</b> [<a href="https://dl.acm.org/doi/10.1145/3474085.3475379">Paper</a>], [<a href="https://github.com/liujiyuan13/IMSR-code_release">Code</a>] </p>
     </li>
   </ul> 
 
