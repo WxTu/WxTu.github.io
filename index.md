@@ -170,12 +170,12 @@
   </ul>
   <ul>
     <li> 
-      <p>Future Cup College AI Challenge，1st Place in Central China & Southern China, 2018  </p>
+      <p>Future Cup College AI Challenge, 1st Place in Central China & Southern China, 2018  </p>
     </li>
   </ul>
 <ul>
     <li> 
-      <p>Future Cup College AI Challenge，3rd Place in National Finals, 2018 </p>
+      <p>Future Cup College AI Challenge, 3rd Place in National Finals, 2018 </p>
     </li>
   </ul>
 
