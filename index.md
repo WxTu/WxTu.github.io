@@ -74,7 +74,11 @@
       <p align = "justify"> Yue Liu, <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Linxuan Song, Xihong Yang, and En Zhu. Deep Graph Clustering via Dual Correlation Reduction. AAAI 2022, (to appear). <b>(CCF Rank A)</b> [<a href="https://arxiv.org/pdf/2112.14772.pdf">Paper</a>], [<a href="https://github.com/yueliu1999/DCRN">Code</a>]</p>
     </li>
   </ul>
-
+   <ul>
+    <li> 
+      <p align = "justify"> Yuxin Huang, Miaomiao Li, <b>Wenxuan Tu</b>, Jiyuan Liu, and Jiahao Ying. Spare Simple MKKM with Semi-infinite Linear Program Optimization. International Journal of Intelligent Systems (IJIS), 37(2): 1113-1128, 2022. <b>(CCF Rank C, JCR 1#)</b> [<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/int.22661">Paper</a>]</p>
+    </li>
+  </ul>
   
 ### 2021
    <ul>
@@ -91,32 +95,25 @@
   
    <ul>
     <li> 
-      <p align = "justify"> Xinwang Liu, Li Liu, Qing Liao, Chang Tang, Siwei Wang, <b>Wenxuan Tu</b>, Jiyuan Liu, Yi Zhang and En Zhu. One Pass Late Fusion Multi-view Clustering. ICML 2021, pages: 6850-6859. <b>(CCF Rank A)</b> [<a href="http://proceedings.mlr.press/v139/liu21l/liu21l.pdf">Paper</a>], [<a href="https://github.com/WxTu/DFCN">Code</a>] </p>
+      <p align = "justify"> Xinwang Liu, Li Liu, Qing Liao, Chang Tang, Siwei Wang, <b>Wenxuan Tu</b>, Jiyuan Liu, Yi Zhang, and En Zhu. One Pass Late Fusion Multi-view Clustering. ICML 2021, pages: 6850-6859. <b>(CCF Rank A)</b> [<a href="http://proceedings.mlr.press/v139/liu21l/liu21l.pdf">Paper</a>], [<a href="https://github.com/WxTu/DFCN">Code</a>] </p>
     </li>
   </ul> 
 
    <ul>
     <li> 
-      <p align = "justify"> Mengjing Sun, Pei Zhang, Siwei Wang, Sihang Zhou, <b>Wenxuan Tu</b>, Xinwang Liu, En Zhu, Changjian Wang. Scalable Multi-view Subspace Clustering with Unified Anchors. ACM MM 2021, pages: 3528-3536. <b>(CCF Rank A)</b> [<a href="https://dl.acm.org/doi/10.1145/3474085.3475516">Paper</a>], [<a href="https://github.com/Jeaninezpp/SMVSC">Code</a>] </p>
+      <p align = "justify"> Mengjing Sun, Pei Zhang, Siwei Wang, Sihang Zhou, <b>Wenxuan Tu</b>, Xinwang Liu, En Zhu, and Changjian Wang. Scalable Multi-view Subspace Clustering with Unified Anchors. ACM MM 2021, pages: 3528-3536. <b>(CCF Rank A)</b> [<a href="https://dl.acm.org/doi/10.1145/3474085.3475516">Paper</a>], [<a href="https://github.com/Jeaninezpp/SMVSC">Code</a>] </p>
     </li>
   </ul> 
 
    <ul>
     <li> 
-      <p align = "justify"> Jiyuan Liu, Xinwang Liu, Yi Zhang, Pei Zhang, <b>Wenxuan Tu</b>, Siwei Wang, Sihang Zhou, Weixuan Liang, Siqi Wang and Yuexiang Yang. Self-representation Subspace Clustering for Incomplete Multi-view Data. ACM MM 2021, pages: 2726–2734. <b>(CCF Rank A)</b> [<a href="https://dl.acm.org/doi/10.1145/3474085.3475379">Paper</a>], [<a href="https://github.com/liujiyuan13/IMSR-code_release">Code</a>] </p>
+      <p align = "justify"> Jiyuan Liu, Xinwang Liu, Yi Zhang, Pei Zhang, <b>Wenxuan Tu</b>, Siwei Wang, Sihang Zhou, Weixuan Liang, Siqi Wang, and Yuexiang Yang. Self-representation Subspace Clustering for Incomplete Multi-view Data. ACM MM 2021, pages: 2726–2734. <b>(CCF Rank A)</b> [<a href="https://dl.acm.org/doi/10.1145/3474085.3475379">Paper</a>], [<a href="https://github.com/liujiyuan13/IMSR-code_release">Code</a>] </p>
     </li>
   </ul> 
-
-
-   <ul>
-    <li> 
-      <p align = "justify"> Yuxin Huang, Miaomiao Li, <b>Wenxuan Tu</b>, Jiyuan Liu and Jiahao Ying. Spare Simple MKKM with Semi-infinite Linear Program Optimization. International Journal of Intelligent Systems (IJIS), 2021, (to appear). <b>(CCF Rank C, JCR 1#)</b> [<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/int.22661">Paper</a>]</p>
-    </li>
-  </ul>
   
    <ul>
     <li> 
-      <p align = "justify"> Jieren Cheng, Xin Peng, Xiangyan Tang, <b>Wenxuan Tu</b>, Wenhang Xu. MIFNet: A Lightweight Multiscale Information Fusion Network. International Journal of Intelligent Systems (IJIS), 2021, (to appear). <b>(CCF Rank C, JCR 1#)</b> [<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/int.22804">Paper</a>]</p>
+      <p align = "justify"> Jieren Cheng, Xin Peng, Xiangyan Tang, <b>Wenxuan Tu</b>, and Wenhang Xu. MIFNet: A Lightweight Multiscale Information Fusion Network. International Journal of Intelligent Systems (IJIS), 2021, (to appear). <b>(CCF Rank C, JCR 1#)</b> [<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/int.22804">Paper</a>]</p>
     </li>
   </ul>
 
@@ -124,26 +121,26 @@
 ### 2020
   <ul>
     <li> 
-      <p align = "justify"> Bin Jiang, <b>Wenxuan Tu</b>, Chao Yang, Junsong Yuan. Context-Integrated and Feature-Refined Network for Lightweight Object Parsing. IEEE Transactions on Image Processing (TIP), 29: 5079-5093, 2020. <b>(CCF Rank A, JCR 1# TOP)</b> [<a href="https://ieeexplore.ieee.org/document/9032321/">Paper</a>], [<a href="https://github.com/xinwangliu/onePassLateFusionMVC/tree/main">Code</a>] </p>
+      <p align = "justify"> Bin Jiang, <b>Wenxuan Tu</b>, Chao Yang, and Junsong Yuan. Context-Integrated and Feature-Refined Network for Lightweight Object Parsing. IEEE Transactions on Image Processing (TIP), 29: 5079-5093, 2020. <b>(CCF Rank A, JCR 1# TOP)</b> [<a href="https://ieeexplore.ieee.org/document/9032321/">Paper</a>], [<a href="https://github.com/xinwangliu/onePassLateFusionMVC/tree/main">Code</a>] </p>
     </li>
   </ul> 
   
 ### Pre-prints
    <ul>
     <li> 
-      <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Siwei Wang, Linxuan Song, Zhiping Cai, and En Zhu. Multi-view Hierarchical Graph Infomax. 2021 (under review). </p>
+      <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, and Zhiping Cai. Multi-view Hierarchical Graph Infomax. 2021 (under review). </p>
     </li>
   </ul>
 
    <ul>
     <li> 
-      <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Yue Liu, Xinwang Liu, Xifeng Guo, Zhiping Cai, En Zhu, Changwang Zhang, and Jieren Cheng. Siamese Attribute-missing Graph Auto-encoder. arXiv: 2112.04842, 2021 (under review). (<a href="https://arxiv.org/pdf/2112.04842.pdf">arXiv preprint</a>) </p>
+      <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Yue Liu, Xinwang Liu, and Zhiping Cai. Siamese Attribute-missing Graph Auto-encoder. arXiv: 2112.04842, 2021 (under review). (<a href="https://arxiv.org/pdf/2112.04842.pdf">arXiv preprint</a>) </p>
     </li>
   </ul>
   
    <ul>
     <li> 
-      <p align = "justify"> Mingjie Luo, Siwei Wang, Xinwang Liu, <b>Wenxuan Tu</b>, Yi Zhang, Xifeng Guo, Sihang Zhou and En Zhu. Deep Distribution-preserving Incomplete Clustering with Optimal Transport. arXiv: 2103.11424, 2021 (under review). (<a href="https://arxiv.org/pdf/2103.11424.pdf">arXiv preprint</a>) </p>
+      <p align = "justify"> Mingjie Luo, Siwei Wang, Xinwang Liu, <b>Wenxuan Tu</b>, Yi Zhang, Xifeng Guo, Sihang Zhou, and En Zhu. Deep Distribution-preserving Incomplete Clustering with Optimal Transport. arXiv: 2103.11424, 2021 (under review). (<a href="https://arxiv.org/pdf/2103.11424.pdf">arXiv preprint</a>) </p>
     </li>
   </ul>
   
