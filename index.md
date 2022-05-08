@@ -113,7 +113,7 @@
   
    <ul>
     <li> 
-      <p align = "justify"> Jieren Cheng, Xin Peng, Xiangyan Tang, <b>Wenxuan Tu</b>, and Wenhang Xu. MIFNet: A Lightweight Multiscale Information Fusion Network. International Journal of Intelligent Systems (IJIS) 2021, (to appear). <b>(CCF Rank C, JCR 1#)</b> [<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/int.22804">Paper</a>]</p>
+      <p align = "justify"> Jieren Cheng, Xin Peng, Xiangyan Tang, <b>Wenxuan Tu</b>, and Wenhang Xu. MIFNet: A Lightweight Multiscale Information Fusion Network. International Journal of Intelligent Systems (IJIS), (to appear), 2021. <b>(CCF Rank C, JCR 1#)</b> [<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/int.22804">Paper</a>]</p>
     </li>
   </ul>
 
