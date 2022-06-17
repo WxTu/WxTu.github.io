@@ -40,7 +40,7 @@
 ## Open Source
  <ul>
     <li> 
-      <p><a href="https://github.com/WxTu/awesome-incomplete-graph-representation-learning">Awesome Incomplete Graph Representation Learning</a></p>
+      <p><a href="https://github.com/WxTu/awesome-partial-graph-representation-learning">Awesome Partial Graph Representation Learning</a></p>
     </li>
   </ul>
  <ul>
