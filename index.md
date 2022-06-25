@@ -181,9 +181,7 @@
 
 ## Partnership
    <ul>
-    <li> 
       <p><a href="https://sihangzhou.github.io/">Sihang Zhou</a></p>
-    </li>
   </ul>
    <ul>
     <li> 
