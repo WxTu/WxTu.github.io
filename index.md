@@ -180,11 +180,11 @@
   </ul>
 
 ## Partnership
-
-  <li> 
+   <ul>
+    <li> 
       <p><a href="https://sihangzhou.github.io/">Sihang Zhou</a></p>
-</li>   
-
+    </li>
+  </ul>
    <ul>
     <li> 
       <p><a href="https://wangsiwei2010.github.io/">Siwei Wang</a></p>
