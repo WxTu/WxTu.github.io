@@ -182,7 +182,32 @@
 ## Partnership
    <ul>
     <li> 
-      <p><a href="https://ieeexplore.ieee.org/document/9032321/">Sihang Zhou</a></p>
+      <p><a href="https://sihangzhou.github.io/">Sihang Zhou</a></p>
+    </li>
+  </ul>
+   <ul>
+    <li> 
+      <p><a href="https://sihangzhou.github.io/">Siwei Wang</a></p>
+    </li>
+  </ul>
+   <ul>
+    <li> 
+      <p><a href="https://sihangzhou.github.io/">Jiyuan Liu</a></p>
+    </li>
+  </ul> 
+     <ul>
+    <li> 
+      <p><a href="https://liangke23.github.io/">Ke Liang</a></p>
+    </li>
+  </ul>
+     <ul>
+    <li> 
+      <p><a href="https://sihangzhou.github.io/">Xihong Yang</a></p>
+    </li>
+  </ul>
+     <ul>
+    <li> 
+      <p><a href="https://sihangzhou.github.io/">Yue Liu</a></p>
     </li>
   </ul>
   
