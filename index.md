@@ -200,17 +200,17 @@
       <p><a href="https://liujiyuan13.github.io/">Weixuan Liang</a></p>
     </li>
   </ul> 
-     <ul>
+  <ul>
     <li> 
       <p><a href="https://wx-liang.github.io/">Ke Liang</a></p>
     </li>
   </ul>
-     <ul>
+  <ul>
     <li> 
       <p><a href="https://xihongyang1999.github.io/">Xihong Yang</a></p>
     </li>
   </ul>
-     <ul>
+  <ul>
     <li> 
       <p><a href="https://yueliu1999.github.io/">Yue Liu</a></p>
     </li>
