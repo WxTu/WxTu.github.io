@@ -1,6 +1,6 @@
 <!-- ## Welcome to GitHub Pages -->
 
-## Wenxuan Tu
+## Wenxuan Tu :blush:
 
 <table class="imgtable">
   <tr>
@@ -17,7 +17,7 @@
  </tr>
 </table>
 
-## Short Bio
+## Short Bio :pushpin:
   <p align = "justify">I am currently pursuing the doctor degree with the College of Computer, National University of Defense Technology, under the supervisor of Professor <a href="https://scholar.google.com/citations?user=uVwk4XIAAAAJ&hl=en">Zhiping Cai</a> and Professor <a href="https://xinwangliu.github.io/">Xinwang Liu</a>. I have published papers in highly regarded journals and conferences such as IEEE TIP, Information Science, AAAI, CVPR, ICML, etc. My research interests include graph machine learning and computer vision.</p>
  
 ## Education Experience :mortar_board:
@@ -145,7 +145,7 @@
   </ul>
   
   
-## Services
+## Services :earth_asia:
    <ul>
     <li> 
       <p>Program Committee Member for CVPR 2022, ICME 2022, MM 2022</p>
@@ -179,7 +179,7 @@
     </li>
   </ul>
 
-## Partnership
+## Partnership :running:
    <ul>
     <li> 
       <p><a href="https://sihangzhou.github.io/">Sihang Zhou</a></p>
@@ -216,5 +216,5 @@
     </li>
   </ul>
   
-## Contact
+## Contact :email:
 <p>Any discussions or concerns are welcomed! Email: [wenxuantu@163.com] or [twx@nudt.edu.cn]</p>
