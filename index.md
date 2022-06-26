@@ -1,6 +1,6 @@
 <!-- ## Welcome to GitHub Pages -->
 
-## Wenxuan Tu :blush:
+## Wenxuan Tu 
 
 <table class="imgtable">
   <tr>
@@ -17,7 +17,7 @@
  </tr>
 </table>
 
-## Short Bio :pushpin:
+## Short Bio
   <p align = "justify">I am currently pursuing the doctor degree with the College of Computer, National University of Defense Technology, under the supervisor of Professor <a href="https://scholar.google.com/citations?user=uVwk4XIAAAAJ&hl=en">Zhiping Cai</a> and Professor <a href="https://xinwangliu.github.io/">Xinwang Liu</a>. I have published papers in highly regarded journals and conferences such as IEEE TIP, Information Science, AAAI, CVPR, ICML, etc. My research interests include graph machine learning and computer vision.</p>
  
 ## Education Experience :mortar_board:
@@ -49,7 +49,7 @@
     </li>
   </ul>
 
-## Publications :newspaper:
+## Publications
 ### 2022
    <ul>
     <li> 
@@ -152,7 +152,7 @@ Unsupervised Graph Representation Learning. 2022 (under review). </p>
   </ul>
   
   
-## Services :earth_asia:
+## Services
    <ul>
     <li> 
       <p>Program Committee Member for CVPR 2022, ICME 2022, MM 2022</p>
@@ -169,7 +169,7 @@ Unsupervised Graph Representation Learning. 2022 (under review). </p>
     </li>
   </ul>  
   
-## Awards :trophy:
+## Awards
   <ul>
     <li> 
       <p>Excellent Graduated Graduate Student of Hunan Province, 2020</p>
@@ -186,7 +186,7 @@ Unsupervised Graph Representation Learning. 2022 (under review). </p>
     </li>
   </ul>
 
-## Partnership :running:
+## Partnership 
    <ul>
     <li> 
       <p><a href="https://sihangzhou.github.io/">Sihang Zhou</a></p>
@@ -223,5 +223,5 @@ Unsupervised Graph Representation Learning. 2022 (under review). </p>
     </li>
   </ul>
   
-## Contact :email:
+## Contact
 <p>Any discussions or concerns are welcomed! Email: [wenxuantu@163.com] or [twx@nudt.edu.cn]</p>
