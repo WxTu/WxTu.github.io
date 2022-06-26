@@ -125,7 +125,7 @@
     </li>
   </ul> 
   
-### Pre-prints
+### Under Review
    <ul>
     <li> 
       <p align = "justify"> <b>Wenxuan Tu</b>, Xinwang Liu, Sihang Zhou, and Zhiping Cai. Revisiting Initializing Then Refining: An
