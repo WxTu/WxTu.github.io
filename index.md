@@ -37,7 +37,7 @@
     </li>
   </ul>
   
-## Open Source
+## Open Source :open_file_folder:
  <ul>
     <li> 
       <p><a href="https://github.com/WxTu/awesome-partial-graph-representation-learning">Awesome Partial Graph Representation Learning</a></p>
