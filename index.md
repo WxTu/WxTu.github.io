@@ -128,7 +128,14 @@
 ### Pre-prints
    <ul>
     <li> 
-      <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, and Zhiping Cai. Multi-view Hierarchical Graph Infomax. 2021 (under review). </p>
+      <p align = "justify"> <b>Wenxuan Tu</b>, Xinwang Liu, Sihang Zhou, and Zhiping Cai. Revisiting Initializing Then Refining: An
+Incomplete and Missing Graph Imputation Network. 2022 (under review). </p>
+    </li>
+  </ul>
+   <ul>
+    <li> 
+      <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Yue Liu, and Zhiping Cai. Hierarchically Contrastive Hard Sample Mining for
+Unsupervised Graph Representation Learning. 2022 (under review). </p>
     </li>
   </ul>
 
