@@ -141,7 +141,7 @@ Unsupervised Graph Representation Learning. 2022 (under review). </p>
 
    <ul>
     <li> 
-      <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Yue Liu, Xinwang Liu, and Zhiping Cai. Siamese Attribute-missing Graph Auto-encoder. arXiv: 2112.04842, 2021 (under review). (<a href="https://arxiv.org/pdf/2112.04842.pdf">arXiv preprint</a>) </p>
+      <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Yue Liu, Xinwang Liu, and Zhiping Cai. Siamese Attribute-missing Graph Auto-encoder. 2021 (under review). </p>
     </li>
   </ul>
   
