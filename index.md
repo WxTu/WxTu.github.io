@@ -204,12 +204,12 @@ Unsupervised Graph Representation Learning. 2022 (under review). </p>
   </ul> 
    <ul>
     <li> 
-      <p><a href="https://liujiyuan13.github.io/">Weixuan Liang</a></p>
+      <p><a href="https://wx-liang.github.io/">Weixuan Liang</a></p>
     </li>
   </ul> 
   <ul>
     <li> 
-      <p><a href="https://wx-liang.github.io/">Ke Liang</a></p>
+      <p><a href="">Ke Liang</a></p>
     </li>
   </ul>
   <ul>
