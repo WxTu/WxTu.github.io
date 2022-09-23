@@ -51,6 +51,11 @@
 
 ## Publications
 ### 2022
+  <ul>
+    <li> 
+      <p align = "justify"> Siwei Wang, Xinwang Liu, Suyuan Liu, Jiaqi Jin, <b>Wenxuan Tu</b>, Xinzhong Zhu, and En Zhu. Align then Fusion: Generalized Large-scale Multi-view Clustering with Anchor Matching Correspondences. NeurIPS 2022, (to appear). <b>(CCF Rank A)</b> </p>
+    </li>
+  </ul>
    <ul>
     <li> 
       <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Yue Liu, Zhiping Cai, En Zhu, Changwang Zhang, and Jieren Cheng. Initializing Then Refining: A Simple Graph Attribute Imputation Network. IJCAI 2022, (to appear). <b>(CCF Rank A)</b> </p>
