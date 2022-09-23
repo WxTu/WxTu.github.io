@@ -160,7 +160,7 @@ Unsupervised Graph Representation Learning. 2022 (under review). </p>
 ## Services
    <ul>
     <li> 
-      <p>Program Committee Member for CVPR 2022, ICME 2022, MM 2022, AAAI 2023</p>
+      <p>Program Committee Member for CVPR 2022, ICME 2022, MM 2022, AAAI 2023, ACCV 2023</p>
     </li>
   </ul>
    <ul>
