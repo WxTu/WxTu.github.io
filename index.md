@@ -58,25 +58,25 @@
   </ul>
    <ul>
     <li> 
-      <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Yue Liu, Zhiping Cai, En Zhu, Changwang Zhang, and Jieren Cheng. Initializing Then Refining: A Simple Graph Attribute Imputation Network. IJCAI 2022, (to appear). <b>(CCF Rank A)</b> </p>
+      <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Yue Liu, Zhiping Cai, En Zhu, Changwang Zhang, and Jieren Cheng. Initializing Then Refining: A Simple Graph Attribute Imputation Network. IJCAI 2022, pages: 3494-3500. <b>(CCF Rank A)</b> </p>
     </li>
   </ul>
   
    <ul>
     <li> 
-      <p align = "justify"> Lei Gong, Sihang Zhou, <b>Wenxuan Tu</b>, and Xinwang Liu. Attributed Graph Clustering with Dual Redundancy Reduction. IJCAI 2022, (to appear). <b>(CCF Rank A)</b> </p>
+      <p align = "justify"> Lei Gong, Sihang Zhou, <b>Wenxuan Tu</b>, and Xinwang Liu. Attributed Graph Clustering with Dual Redundancy Reduction. IJCAI 2022, pages: 3015-3021. <b>(CCF Rank A)</b> </p>
     </li>
   </ul>
 
    <ul>
     <li> 
-      <p align = "justify"> Siwei Wang, Xinwang Liu, Li Liu, <b>Wenxuan Tu</b>, Xinzhong Zhu, Jiyuan Liu, Sihang Zhou, Xinwang Liu, and En Zhu. Highly-efficient Incomplete Large-scale Multi-view Clustering with Consensus Bipartite Graph. CVPR 2022, (to appear). <b>(CCF Rank A)</b> </p>
+      <p align = "justify"> Siwei Wang, Xinwang Liu, Li Liu, <b>Wenxuan Tu</b>, Xinzhong Zhu, Jiyuan Liu, Sihang Zhou, Xinwang Liu, and En Zhu. Highly-efficient Incomplete Large-scale Multi-view Clustering with Consensus Bipartite Graph. CVPR 2022, pages: 9776-9785. <b>(CCF Rank A)</b> </p>
     </li>
   </ul>
 
 <ul>
     <li> 
-      <p align = "justify"> Yue Liu, <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Linxuan Song, Xihong Yang, and En Zhu. Deep Graph Clustering via Dual Correlation Reduction. AAAI 2022, (to appear). <b>(CCF Rank A)</b> [<a href="https://arxiv.org/pdf/2112.14772.pdf">Paper</a>], [<a href="https://github.com/yueliu1999/DCRN">Code</a>]</p>
+      <p align = "justify"> Yue Liu, <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Linxuan Song, Xihong Yang, and En Zhu. Deep Graph Clustering via Dual Correlation Reduction. AAAI 2022, pages: 7603-7611. <b>(CCF Rank A)</b> [<a href="https://arxiv.org/pdf/2112.14772.pdf">Paper</a>], [<a href="https://github.com/yueliu1999/DCRN">Code</a>]</p>
     </li>
   </ul>
    <ul>
