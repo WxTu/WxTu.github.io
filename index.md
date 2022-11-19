@@ -63,13 +63,13 @@
   </ul>
    <ul>
     <li> 
-      <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Yue Liu, Zhiping Cai, En Zhu, Changwang Zhang, and Jieren Cheng. Initializing Then Refining: A Simple Graph Attribute Imputation Network. IJCAI 2022, pages: 3494-3500. <b>(CCF Rank A)</b> </p>
+      <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Yue Liu, Zhiping Cai, En Zhu, Changwang Zhang, and Jieren Cheng. Initializing Then Refining: A Simple Graph Attribute Imputation Network. IJCAI 2022, pages: 3494-3500. <b>(CCF Rank A)</b> [<a href="https://www.ijcai.org/proceedings/2022/0485.pdf">Paper</a>], [<a href="https://github.com/WxTu/ITR">Code</a>] </p>
     </li>
   </ul>
   
    <ul>
     <li> 
-      <p align = "justify"> Lei Gong, Sihang Zhou, <b>Wenxuan Tu</b>, and Xinwang Liu. Attributed Graph Clustering with Dual Redundancy Reduction. IJCAI 2022, pages: 3015-3021. <b>(CCF Rank A)</b> </p>
+      <p align = "justify"> Lei Gong, Sihang Zhou, <b>Wenxuan Tu</b>, and Xinwang Liu. Attributed Graph Clustering with Dual Redundancy Reduction. IJCAI 2022, pages: 3015-3021. <b>(CCF Rank A)</b> [<a href="https://www.ijcai.org/proceedings/2022/0418.pdf">Paper</a>], [<a href="https://github.com/gongleii/AGC-DRR">Code</a>] </p>
     </li>
   </ul>
 
@@ -145,7 +145,7 @@ Incomplete and Missing Graph Imputation Network. 2022 (under review). </p>
    <ul>
     <li> 
       <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Yue Liu, and Zhiping Cai. Hierarchically Contrastive Hard Sample Mining for
-Unsupervised Graph Representation Learning. 2022 (under review). </p>
+Graph Self-supervised Pre-training. 2022 (under review). </p>
     </li>
   </ul>
 
@@ -154,13 +154,6 @@ Unsupervised Graph Representation Learning. 2022 (under review). </p>
       <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Yue Liu, Xinwang Liu, and Zhiping Cai. Siamese Attribute-missing Graph Auto-encoder. 2021 (under review). </p>
     </li>
   </ul>
-  
-   <ul>
-    <li> 
-      <p align = "justify"> Mingjie Luo, Siwei Wang, Xinwang Liu, <b>Wenxuan Tu</b>, Yi Zhang, Xifeng Guo, Sihang Zhou, and En Zhu. Deep Distribution-preserving Incomplete Clustering with Optimal Transport. 2021 (under review). </p>
-    </li>
-  </ul>
-  
   
 ## Services
  <ul>
