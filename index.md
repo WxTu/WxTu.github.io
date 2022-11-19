@@ -53,7 +53,7 @@
 ### 2022
   <ul>
     <li> 
-      <p align = "justify"> Lei Gong, Wenxuan Tu, Sihang Zhou, Long Zhao, Zhe Liu, and Xinwang Liu. Deep Fusion Clustering Network with Reliable Structure Preservation.TNNLS,2022, (to appear). <b>(CCF Rank B, JCR 1#)</b> </p>
+      <p align = "justify"> Lei Gong, Wenxuan Tu, Sihang Zhou, Long Zhao, Zhe Liu, and Xinwang Liu. Deep Fusion Clustering Network with Reliable Structure Preservation. IEEE Transactions on Neural Networks and Learning Systems (TNNLS) 2022, (to appear). <b>(CCF Rank B, JCR 1#)</b> </p>
     </li>
   </ul>
   <ul>
