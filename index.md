@@ -53,12 +53,12 @@
 ### 2022
   <ul>
     <li> 
-      <p align = "justify"> Lei Gong*, <b>Wenxuan Tu*</b>, Sihang Zhou, Long Zhao, Zhe Liu, and Xinwang Liu. Deep Fusion Clustering Network with Reliable Structure Preservation. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2022. <b>(CCF Rank B, JCR 1#)</b> </p>
+      <p align = "justify"> Lei Gong*, <b>Wenxuan Tu*</b>, Sihang Zhou, Long Zhao, Zhe Liu, and Xinwang Liu. Deep Fusion Clustering Network with Reliable Structure Preservation. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2022. <b>(CCF Rank B, JCR 1#)</b> [<a href="https://ieeexplore.ieee.org/document/9954258">Paper</a>], [<a href="https://github.com/gongleii/DFCN-RSP">Code</a>] </p>
     </li>
   </ul>
   <ul>
     <li> 
-      <p align = "justify"> Siwei Wang, Xinwang Liu, Suyuan Liu, Jiaqi Jin, <b>Wenxuan Tu</b>, Xinzhong Zhu, and En Zhu. Align then Fusion: Generalized Large-scale Multi-view Clustering with Anchor Matching Correspondences. NeurIPS 2022, (to appear). <b>(CCF Rank A)</b> </p>
+      <p align = "justify"> Siwei Wang, Xinwang Liu, Suyuan Liu, Jiaqi Jin, <b>Wenxuan Tu</b>, Xinzhong Zhu, and En Zhu. Align then Fusion: Generalized Large-scale Multi-view Clustering with Anchor Matching Correspondences. NeurIPS 2022. <b>(CCF Rank A)</b> [<a href="https://arxiv.org/pdf/2205.15075.pdf">Paper</a>], [<a href="https://github.com/wangsiwei2010/NeurIPS22-FMVACC">Code</a>] </p>
     </li>
   </ul>
    <ul>
