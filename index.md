@@ -53,7 +53,7 @@
 ### 2022
 <ul>
     <li> 
-      <p align = "justify"> Xihong Yang, Yue Liu, Sihang Zhou, Siwei Wang, <b>Wenxuan Tu</b>, Qun Zheng, Xinwang Liu, Xinwang Liu, Liming Fang, and En Zhu. Cluster-guided Contrastive Graph Clustering Network. AAAI 2023, (to appear). <b>(CCF Rank A)</b> </p>
+      <p align = "justify"> Xihong Yang, Yue Liu, Sihang Zhou, Siwei Wang, <b>Wenxuan Tu</b>, Qun Zheng, Xinwang Liu, Liming Fang, and En Zhu. Cluster-guided Contrastive Graph Clustering Network. AAAI 2023, (to appear). <b>(CCF Rank A)</b> </p>
     </li>
   </ul>
   
