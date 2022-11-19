@@ -53,7 +53,7 @@
 ### 2022
   <ul>
     <li> 
-      <p align = "justify"> Lei Gong*, <b>Wenxuan Tu*</b>, Sihang Zhou, Long Zhao, Zhe Liu, and Xinwang Liu. Deep Fusion Clustering Network with Reliable Structure Preservation. IEEE Transactions on Neural Networks and Learning Systems (TNNLS) 2022, (to appear). <b>(CCF Rank B, JCR 1#)</b> </p>
+      <p align = "justify"> Lei Gong*, <b>Wenxuan Tu*</b>, Sihang Zhou, Long Zhao, Zhe Liu, and Xinwang Liu. Deep Fusion Clustering Network with Reliable Structure Preservation. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2022. <b>(CCF Rank B, JCR 1#)</b> </p>
     </li>
   </ul>
   <ul>
@@ -81,7 +81,7 @@
 
 <ul>
     <li> 
-      <p align = "justify"> Yue Liu, <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Linxuan Song, Xihong Yang, and En Zhu. Deep Graph Clustering via Dual Correlation Reduction. AAAI 2022, pages: 7603-7611. <b>(CCF Rank A)</b> [<a href="https://arxiv.org/pdf/2112.14772.pdf">Paper</a>], [<a href="https://github.com/yueliu1999/DCRN">Code</a>] </p>
+      <p align = "justify"> Yue Liu*, <b>Wenxuan Tu*</b>, Sihang Zhou, Xinwang Liu, Linxuan Song, Xihong Yang, and En Zhu. Deep Graph Clustering via Dual Correlation Reduction. AAAI 2022, pages: 7603-7611. <b>(CCF Rank A)</b> [<a href="https://arxiv.org/pdf/2112.14772.pdf">Paper</a>], [<a href="https://github.com/yueliu1999/DCRN">Code</a>] </p>
     </li>
   </ul>
    <ul>
