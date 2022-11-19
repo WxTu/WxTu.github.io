@@ -56,17 +56,19 @@
       <p align = "justify"> Lei Gong*, <b>Wenxuan Tu*</b>, Sihang Zhou, Long Zhao, Zhe Liu, and Xinwang Liu. Deep Fusion Clustering Network with Reliable Structure Preservation. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2022. <b>(CCF Rank B, JCR 1#)</b> [<a href="https://ieeexplore.ieee.org/document/9954258">Paper</a>], [<a href="https://github.com/gongleii/DFCN-RSP">Code</a>] </p>
     </li>
   </ul>
+  
   <ul>
     <li> 
       <p align = "justify"> Siwei Wang, Xinwang Liu, Suyuan Liu, Jiaqi Jin, <b>Wenxuan Tu</b>, Xinzhong Zhu, and En Zhu. Align then Fusion: Generalized Large-scale Multi-view Clustering with Anchor Matching Correspondences. NeurIPS 2022. <b>(CCF Rank A)</b> [<a href="https://arxiv.org/pdf/2205.15075.pdf">Paper</a>], [<a href="https://github.com/wangsiwei2010/NeurIPS22-FMVACC">Code</a>] </p>
     </li>
   </ul>
+  
    <ul>
     <li> 
       <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Yue Liu, Zhiping Cai, En Zhu, Changwang Zhang, and Jieren Cheng. Initializing Then Refining: A Simple Graph Attribute Imputation Network. IJCAI 2022, pages: 3494-3500. <b>(CCF Rank A)</b> [<a href="https://www.ijcai.org/proceedings/2022/0485.pdf">Paper</a>], [<a href="https://github.com/WxTu/ITR">Code</a>] </p>
     </li>
   </ul>
-  
+
    <ul>
     <li> 
       <p align = "justify"> Lei Gong, Sihang Zhou, <b>Wenxuan Tu</b>, and Xinwang Liu. Attributed Graph Clustering with Dual Redundancy Reduction. IJCAI 2022, pages: 3015-3021. <b>(CCF Rank A)</b> [<a href="https://www.ijcai.org/proceedings/2022/0418.pdf">Paper</a>], [<a href="https://github.com/gongleii/AGC-DRR">Code</a>] </p>
