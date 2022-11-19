@@ -59,7 +59,7 @@
   
  <ul>
     <li> 
-      <p align = "justify"> Yue Liu, Xihong Yang, Sihang Zhou, Xinwang Liu, Zhen Wang, Ke Liang, <b>Wenxuan Tu</b>, Liang Li, Xinwang Liu, Jingcan Duan, and Cancan Chen. Hard Sample Aware Network for Contrastive Deep Graph Clustering. AAAI 2023, (to appear). <b>(CCF Rank A)</b> </p>
+      <p align = "justify"> Yue Liu, Xihong Yang, Sihang Zhou, Xinwang Liu, Zhen Wang, Ke Liang, <b>Wenxuan Tu</b>, Liang Li, Jingcan Duan, and Cancan Chen. Hard Sample Aware Network for Contrastive Deep Graph Clustering. AAAI 2023, (to appear). <b>(CCF Rank A)</b> </p>
     </li>
   </ul>
 
