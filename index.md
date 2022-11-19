@@ -53,6 +53,11 @@
 ### 2022
   <ul>
     <li> 
+      <p align = "justify"> Lei Gong, Wenxuan Tu, Sihang Zhou, Long Zhao, Zhe Liu, and Xinwang Liu. Deep Fusion Clustering Network with Reliable Structure Preservation.TNNLS,2022, (to appear). <b>(CCF Rank B, JCR 1#)</b> </p>
+    </li>
+  </ul>
+  <ul>
+    <li> 
       <p align = "justify"> Siwei Wang, Xinwang Liu, Suyuan Liu, Jiaqi Jin, <b>Wenxuan Tu</b>, Xinzhong Zhu, and En Zhu. Align then Fusion: Generalized Large-scale Multi-view Clustering with Anchor Matching Correspondences. NeurIPS 2022, (to appear). <b>(CCF Rank A)</b> </p>
     </li>
   </ul>
