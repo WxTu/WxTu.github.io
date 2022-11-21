@@ -195,6 +195,16 @@ Graph Self-supervised Pre-training. 2022 (under review). </p>
 ## Awards
   <ul>
     <li> 
+      <p>Outstanding Student Award of National University of Defense Technology, 2022</p>
+    </li>
+  </ul>
+  <ul>
+    <li> 
+      <p>Outstanding Student Award of National University of Defense Technology, 2021</p>
+    </li>
+  </ul>
+  <ul>
+    <li> 
       <p>Excellent Graduated Graduate Student of Hunan Province, 2020</p>
     </li>
   </ul>
