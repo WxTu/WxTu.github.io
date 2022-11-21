@@ -188,7 +188,7 @@ Graph Self-supervised Pre-training. 2022 (under review). </p>
   </ul>
    <ul>
     <li> 
-      <p>Reviewer for IEEE TNNLS</p>
+      <p>Reviewer for IEEE T-NNLS</p>
     </li>
   </ul>  
   
