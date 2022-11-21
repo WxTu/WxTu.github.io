@@ -173,7 +173,7 @@ Graph Self-supervised Pre-training. 2022 (under review). </p>
 ## Services
  <ul>
     <li> 
-      <p>Program Committee Member for CVPR 2023, AAAI 2023, ACCV 2023</p>
+      <p>Program Committee Member for CVPR 2023, AAAI 2023, ICASSP 2023, ACCV 2023</p>
     </li>
   </ul>
  <ul>
@@ -183,7 +183,7 @@ Graph Self-supervised Pre-training. 2022 (under review). </p>
   </ul>
    <ul>
     <li> 
-      <p>Program Committee Member for MM 2021</p>
+      <p>Program Committee Member for MM 2021, ICME 2021</p>
     </li>
   </ul>
    <ul>
