@@ -198,33 +198,38 @@ Graph Self-supervised Pre-training. 2022 (under review). </p>
       <p>Outstanding Student Award of School of Computing, National University of Defense Technology, 2022.09</p>
     </li>
   </ul>
-    <ul>
+  
+  <ul>
   <li> 
       <p>Outstanding Thesis Award for Master Degree of Hunan University, 2022.06</p>
     </li>
   </ul>
 
-<ul>
+  <ul>
     <li> 
       <p>Outstanding Thesis Award for Master Degree of Hunan Association for Artificial Intelligence, 2021.10</p>
     </li>
   </ul>
-<ul>
+  
+  <ul>
     <li> 
       <p>Outstanding Student Award of School of Computing, National University of Defense Technology, 2021.07</p>
     </li>
   </ul>
+  
   <ul>
     <li> 
       <p>Outstanding Graduated Graduate Student of Hunan Province, 2020.06</p>
     </li>
   </ul>
+  
   <ul>
     <li> 
       <p>Future Cup College AI Challenge, 1st Place in Central China & Southern China, 2018.09  </p>
     </li>
   </ul>
-<ul>
+
+  <ul>
     <li> 
       <p>Future Cup College AI Challenge, 3rd Place in National Finals, 2018.06 </p>
     </li>
