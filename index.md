@@ -205,7 +205,7 @@ Graph Self-supervised Pre-training. 2022 (under review). </p>
   </ul>
   <ul>
     <li> 
-      <p>Excellent Graduated Graduate Student of Hunan Province, 2020</p>
+      <p>Outstanding Graduated Graduate Student of Hunan Province, 2020</p>
     </li>
   </ul>
   <ul>
