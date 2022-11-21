@@ -195,12 +195,17 @@ Graph Self-supervised Pre-training. 2022 (under review). </p>
 ## Awards
   <ul>
     <li> 
-      <p>Outstanding Student Award of School of Computing, National University of Defense Technology, 2022</p>
+      <p>Outstanding Student Award of School of Computing, National University of Defense Technology, 2022.09</p>
+    </li>
+  </ul>
+    <ul>
+  <li> 
+      <p>Outstanding Thesis Award for Master Degree of Hunan University, 2022.06</p>
     </li>
   </ul>
   <ul>
     <li> 
-      <p>Outstanding Student Award of School of Computing, National University of Defense Technology, 2021</p>
+      <p>Outstanding Student Award of School of Computing, National University of Defense Technology, 2021.07</p>
     </li>
   </ul>
   <ul>
