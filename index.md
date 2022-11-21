@@ -178,7 +178,7 @@ Graph Self-supervised Pre-training. 2022 (under review). </p>
   </ul>
  <ul>
     <li> 
-      <p>Program Committee Member for CVPR 2022, ICME 2022, MM 2022</p>
+      <p>Program Committee Member for CVPR 2022, MM 2022, ICME 2022</p>
     </li>
   </ul>
    <ul>
