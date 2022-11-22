@@ -54,7 +54,7 @@
 ### 2023
 <ul>
     <li> 
-      <p align = "justify"> Xihong Yang, Yue Liu, Sihang Zhou, Siwei Wang, <b>Wenxuan Tu</b>, Qun Zheng, Xinwang Liu, Liming Fang, and En Zhu. Cluster-guided Contrastive Graph Clustering Network. Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI), 2023, (to appear). <b>[CCF Rank A]</b> </p>
+      <p align = "justify"> Xihong Yang, Yue Liu, Sihang Zhou, Siwei Wang, <b>Wenxuan Tu</b>, Qun Zheng, Xinwang Liu, Liming Fang, and En Zhu. Cluster-guided Contrastive Graph Clustering Network. Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI), 2023, (to appear). <b>(CCF Rank A)</b> </p>
     </li>
   </ul>
   
@@ -73,7 +73,7 @@
   
   <ul>
     <li> 
-      <p align = "justify"> Siwei Wang, Xinwang Liu, Suyuan Liu, Jiaqi Jin, <b>Wenxuan Tu</b>, Xinzhong Zhu, and En Zhu. Align then Fusion: Generalized Large-scale Multi-view Clustering with Anchor Matching Correspondences. NeurIPS 2022. <b>(CCF Rank A)</b> [<a href="https://arxiv.org/pdf/2205.15075.pdf">Paper</a>], [<a href="https://github.com/wangsiwei2010/NeurIPS22-FMVACC">Code</a>] </p>
+      <p align = "justify"> Siwei Wang, Xinwang Liu, Suyuan Liu, Jiaqi Jin, <b>Wenxuan Tu</b>, Xinzhong Zhu, and En Zhu. Align then Fusion: Generalized Large-scale Multi-view Clustering with Anchor Matching Correspondences. Proceedings of the Thirty-Sixth Annual Conference on Neural Information Processing Systems (NeurIPS), 2022. <b>(CCF Rank A)</b> [<a href="https://arxiv.org/pdf/2205.15075.pdf">Paper</a>], [<a href="https://github.com/wangsiwei2010/NeurIPS22-FMVACC">Code</a>] </p>
     </li>
   </ul>
   
@@ -85,7 +85,7 @@
 
    <ul>
     <li> 
-      <p align = "justify"> Lei Gong, Sihang Zhou, <b>Wenxuan Tu</b>, and Xinwang Liu. Attributed Graph Clustering with Dual Redundancy Reduction. IJCAI 2022, pages: 3015-3021. <b>(CCF Rank A)</b> [<a href="https://www.ijcai.org/proceedings/2022/0418.pdf">Paper</a>], [<a href="https://github.com/gongleii/AGC-DRR">Code</a>] </p>
+      <p align = "justify"> Lei Gong, Sihang Zhou, <b>Wenxuan Tu</b>, and Xinwang Liu. Attributed Graph Clustering with Dual Redundancy Reduction. Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence (IJCAI), 2022, pages: 3015-3021. <b>(CCF Rank A)</b> [<a href="https://www.ijcai.org/proceedings/2022/0418.pdf">Paper</a>], [<a href="https://github.com/gongleii/AGC-DRR">Code</a>] </p>
     </li>
   </ul>
 
