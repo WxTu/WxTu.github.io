@@ -154,20 +154,18 @@
 ### Under Review
    <ul>
     <li> 
-      <p align = "justify"> <b>Wenxuan Tu</b>, Xinwang Liu, Sihang Zhou, and Zhiping Cai. Revisiting Initializing Then Refining: An
-Incomplete and Missing Graph Imputation Network. 2022 (under review). </p>
+      <p align = "justify"> <b>Wenxuan Tu</b>, Xinwang Liu, Sihang Zhou, Yue Liu, and Zhiping Cai. Revisiting Initializing Then Refining: An Incomplete and Missing Graph Imputation Network. IEEE T-KDE, 2022 (under review). </p>
     </li>
   </ul>
    <ul>
     <li> 
-      <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Yue Liu, and Zhiping Cai. Hierarchically Contrastive Hard Sample Mining for
-Graph Self-supervised Pre-training. 2022 (under review). </p>
+      <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Chunpeng Ge, Zhiping Cai, and Yue Liu. Hierarchically Contrastive Hard Sample Mining for Graph Self-supervised Pre-training. IEEE T-NNLS, 2022 (under review). </p>
     </li>
   </ul>
 
    <ul>
     <li> 
-      <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Yue Liu, Xinwang Liu, and Zhiping Cai. Siamese Attribute-missing Graph Auto-encoder. 2021 (under review). </p>
+      <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Yue Liu, Xinwang Liu, and Zhiping Cai. Siamese Attribute-missing Graph Auto-encoder. IEEE T-PAMI, 2021 (under review). </p>
     </li>
   </ul>
   
