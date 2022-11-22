@@ -222,6 +222,12 @@
     </li>
   </ul>
   
+   <ul>
+    <li> 
+      <p>Outstanding Graduated Graduate Student of Hunan University, 2020.06</p>
+    </li>
+  </ul>
+  
   <ul>
     <li> 
       <p>Future Cup College AI Challenge, 1st Place in Central China & Southern China, 2018.09  </p>
