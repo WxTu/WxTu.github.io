@@ -66,7 +66,7 @@
 ### 2022
   <ul>
     <li> 
-      <p align = "justify"> Lei Gong*, <b>Wenxuan Tu*</b>, Sihang Zhou, Long Zhao, Zhe Liu, and Xinwang Liu. Deep Fusion Clustering Network with Reliable Structure Preservation. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2022. <b>(CCF Rank B, JCR 1#)</b> [<a href="https://ieeexplore.ieee.org/document/9954258">Paper</a>], [<a href="https://github.com/gongleii/DFCN-RSP">Code</a>] </p>
+      <p align = "justify"> Lei Gong*, <b>Wenxuan Tu*</b>, Sihang Zhou, Long Zhao, Zhe Liu, and Xinwang Liu. Deep Fusion Clustering Network with Reliable Structure Preservation. IEEE Transactions on Neural Networks and Learning Systems (IEEE T-NNLS), 2022. <b>(CCF Rank B, JCR 1#)</b> [<a href="https://ieeexplore.ieee.org/document/9954258">Paper</a>], [<a href="https://github.com/gongleii/DFCN-RSP">Code</a>] </p>
     </li>
   </ul>
   
@@ -147,7 +147,7 @@
 ### 2020
   <ul>
     <li> 
-      <p align = "justify"> Bin Jiang, <b>Wenxuan Tu</b>, Chao Yang, and Junsong Yuan. Context-Integrated and Feature-Refined Network for Lightweight Object Parsing. IEEE Transactions on Image Processing (TIP), 29: 5079-5093, 2020. <b>(CCF Rank A, JCR 1# TOP)</b> [<a href="https://ieeexplore.ieee.org/document/9032321/">Paper</a>], [<a href="https://github.com/xinwangliu/onePassLateFusionMVC/tree/main">Code</a>] </p>
+      <p align = "justify"> Bin Jiang, <b>Wenxuan Tu</b>, Chao Yang, and Junsong Yuan. Context-Integrated and Feature-Refined Network for Lightweight Object Parsing. IEEE Transactions on Image Processing (IEEE T-IP), 29: 5079-5093, 2020. <b>(CCF Rank A, JCR 1# TOP)</b> [<a href="https://ieeexplore.ieee.org/document/9032321/">Paper</a>], [<a href="https://github.com/xinwangliu/onePassLateFusionMVC/tree/main">Code</a>] </p>
     </li>
   </ul> 
   
