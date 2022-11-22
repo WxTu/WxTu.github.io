@@ -50,7 +50,7 @@
   </ul>
 
 ## Publications
-### 2022
+### 2023
 <ul>
     <li> 
       <p align = "justify"> Xihong Yang, Yue Liu, Sihang Zhou, Siwei Wang, <b>Wenxuan Tu</b>, Qun Zheng, Xinwang Liu, Liming Fang, and En Zhu. Cluster-guided Contrastive Graph Clustering Network. AAAI 2023, (to appear). <b>(CCF Rank A)</b> </p>
@@ -62,7 +62,7 @@
       <p align = "justify"> Yue Liu, Xihong Yang, Sihang Zhou, Xinwang Liu, Zhen Wang, Ke Liang, <b>Wenxuan Tu</b>, Liang Li, Jingcan Duan, and Cancan Chen. Hard Sample Aware Network for Contrastive Deep Graph Clustering. AAAI 2023, (to appear). <b>(CCF Rank A)</b> </p>
     </li>
   </ul>
-
+### 2022
   <ul>
     <li> 
       <p align = "justify"> Lei Gong*, <b>Wenxuan Tu*</b>, Sihang Zhou, Long Zhao, Zhe Liu, and Xinwang Liu. Deep Fusion Clustering Network with Reliable Structure Preservation. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2022. <b>(CCF Rank B, JCR 1#)</b> [<a href="https://ieeexplore.ieee.org/document/9954258">Paper</a>], [<a href="https://github.com/gongleii/DFCN-RSP">Code</a>] </p>
