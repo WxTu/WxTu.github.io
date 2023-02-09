@@ -41,7 +41,7 @@
 ## Open Source 
  <ul>
     <li> 
-      <p><a href="https://github.com/WxTu/awesome-partial-graph-representation-learning">Awesome Partial Graph Representation Learning</a></p>
+      <p><a href="https://github.com/WxTu/awesome-partial-graph-machine-learning">Awesome Partial Graph Machine Learning</a></p>
     </li>
   </ul>
  <ul>
