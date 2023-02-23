@@ -173,7 +173,9 @@
 ## Grants
  <ul>
     <li> 
-      <p>Program Committee Member for CVPR 2023, AAAI 2023, ICASSP 2023, ICME2023, ACCV 2023</p>
+      <p>
+      Research on Self-supervised Graph Representation Learning Algorithms and Applications, Postgraduate Scientific Research Innovation Project in Hunan Province (No.CX20220076), Principal Investigator, 01/2023-1/2024.
+      </p>
     </li>
   </ul>
   
