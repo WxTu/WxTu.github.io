@@ -169,6 +169,15 @@
       <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Yue Liu, Xinwang Liu, and Zhiping Cai. Siamese Attribute-missing Graph Auto-encoder. IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE T-PAMI), 2022, (under review). </p>
     </li>
   </ul>
+
+## Grants
+ <ul>
+    <li> 
+      <p>Program Committee Member for CVPR 2023, AAAI 2023, ICASSP 2023, ICME2023, ACCV 2023</p>
+    </li>
+  </ul>
+ <ul>
+  
   
 ## Services
  <ul>
