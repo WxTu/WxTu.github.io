@@ -198,7 +198,7 @@
   </ul>
    <ul>
     <li> 
-      <p>Reviewer for IEEE T-NNLS, ACM TOMM</p>
+      <p>Reviewer for IEEE TNNLS, ACM TOMM</p>
     </li>
   </ul>  
   
