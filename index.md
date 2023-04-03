@@ -155,7 +155,12 @@
 ### Under Review
    <ul>
     <li> 
-      <p align = "justify"> <b>Wenxuan Tu</b>, Bin Xiao, Xinwang Liu, Sihang Zhou, Zhiping Cai, and Jieren Cheng. Revisiting Initializing Then Refining: An Incomplete and Missing Graph Imputation Network. 2022, (under review). [<a href="https://arxiv.org/pdf/2302.07524.pdf">Arxiv</a>] </p>
+      <p align = "justify"> <b>Wenxuan Tu</b>, Qing Liao, Sihang Zhou, Xin Peng, Chuan Ma, Zhe Liu, Xinwang Liu, and Zhiping Cai. RARE: Robust Masked Graph Autoencoder. 2023, (under review).</p>
+    </li>
+  </ul>
+   <ul>
+    <li> 
+      <p align = "justify"> <b>Wenxuan Tu</b>, Bin Xiao, Xinwang Liu, Sihang Zhou, Zhiping Cai, and Jieren Cheng. Revisiting Initializing Then Refining: An Incomplete and Missing Graph Imputation Network. 2023, (under review). [<a href="https://arxiv.org/pdf/2302.07524.pdf">Arxiv</a>] </p>
     </li>
   </ul>
    <ul>
@@ -170,17 +175,12 @@
     </li>
   </ul>
 
-   <ul>
-    <li> 
-      <p align = "justify"> <b>Wenxuan Tu</b>, Qing Liao, Sihang Zhou, Xin Peng, Chuan Ma, Zhe Liu, Xinwang Liu, and Zhiping Cai. RARE: Robust Masked Graph Autoencoder. 2023, (under review).</p>
-    </li>
-  </ul>
 
 ## Grants
  <ul>
     <li> 
       <p>
-      Research on Self-supervised Graph Representation Learning Algorithms and Applications, Postgraduate Scientific Research Innovation Project in Hunan Province (No. CX20220076), Principal Investigator, 01/2023-1/2024.
+      Research on Self-supervised Graph Representation Learning Algorithms and Applications, Postgraduate Scientific Research Innovation Project in Hunan Province (No. CX20220076), Jan 2023 - Jan 2024. Principal Investigator.
       </p>
     </li>
   </ul>
