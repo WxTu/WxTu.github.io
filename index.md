@@ -153,7 +153,7 @@
   </ul> 
 <ul>
   <li> 
-    <p align = "justify"> Jiankai He, Bin Jiang, Chao Yang, <b>Wenxuan Tu</b>. Hybrid Dilated Convolution Network Using Attentive Kernels for Real-time Semantic Segmentation. Pattern Recognition and Computer Vision (PRCV), 2018. <b>(CCF Rank C)</b> [<a href="https://ieeexplore.ieee.org/document/9032321/">Paper</a>], [<a href="https://github.com/xinwangliu/onePassLateFusionMVC/tree/main">Code</a>] </p>
+    <p align = "justify"> Jiankai He, Bin Jiang, Chao Yang, <b>Wenxuan Tu</b>. Hybrid Dilated Convolution Network Using Attentive Kernels for Real-time Semantic Segmentation. Pattern Recognition and Computer Vision (PRCV), 2018. <b>(CCF Rank C)</b> [<a href="https://www.researchgate.net/profile/Bin_Jiang17/publication/346170491_Hybrid_Dilated_Convolution_Network_Using_Attentive_Kernels_for_Real-Time_Semantic_Segmentation/links/61440046a609b152aa1578b7/Hybrid-Dilated-Convolution-Network-Using-Attentive-Kernels-for-Real-Time-Semantic-Segmentation.pdf">Paper</a>] </p>
   </li>
 </ul> 
   
