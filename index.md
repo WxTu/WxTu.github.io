@@ -161,7 +161,7 @@
 ### 2019
 <ul>
   <li> 
-    <p align = "justify"> Bin Jiang, <b>Wenxuan Tu</b>, Chao Yang, and Junsong Yuan. Context-Integrated and Feature-Refined Network for Lightweight Object Parsing. IEEE Transactions on Image Processing (IEEE T-IP), 29: 5079-5093, 2020. <b>(CCF Rank A, JCR 1# TOP)</b> [<a href="https://ieeexplore.ieee.org/document/9032321/">Paper</a>], [<a href="https://github.com/xinwangliu/onePassLateFusionMVC/tree/main">Code</a>] </p>
+    <p align = "justify"> Bin Jiang, <b>Wenxuan Tu</b>, Chao Yang, and Junsong Yuan. 一种基于局部属性生成对抗网络的人脸修复算法. IEEE Transactions on Image Processing (IEEE T-IP), 29: 5079-5093, 2020. <b>(CCF Rank A, JCR 1# TOP)</b> [<a href="https://ieeexplore.ieee.org/document/9032321/">Paper</a>], [<a href="https://github.com/xinwangliu/onePassLateFusionMVC/tree/main">Code</a>] </p>
   </li>
 </ul> 
   
