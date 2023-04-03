@@ -24,17 +24,17 @@
 ## Education Experience
   <ul>
     <li> 
-      <p>[Sep 2020 - Now]. Doctor, National University of Defense Technology, Changsha, China </p>
+      <p>[Sep 2020 - Now] Doctor, National University of Defense Technology, Changsha, China </p>
     </li>
   </ul>
 <ul>
     <li> 
-      <p>[Sep 2017 - Jul 2020]. Master, Hunan University, Changsha, China </p>
+      <p>[Sep 2017 - Jul 2020] Master, Hunan University, Changsha, China </p>
     </li>
   </ul>
   <ul>
     <li> 
-      <p>[Sep 2013 - Jul 2017]. Bachelor, Hainan University, Haikou, China </p>
+      <p>[Sep 2013 - Jul 2017] Bachelor, Hainan University, Haikou, China </p>
     </li>
   </ul>
   
