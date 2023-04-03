@@ -171,7 +171,7 @@
 
    <ul>
     <li> 
-      <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Yue Liu, Xinwang Liu, and Zhiping Cai. Siamese Attribute-missing Graph Auto-encoder. 2022, (under review).  </p>
+      <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Yue Liu, Xinwang Liu, and Zhiping Cai. Siamese Attribute-missing Graph Auto-encoder. 2022, (under review).  [<a href="https://arxiv.org/pdf/2112.04842.pdf">Arxiv</a>] </p>
     </li>
   </ul>
 
