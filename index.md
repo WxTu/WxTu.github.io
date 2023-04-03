@@ -151,6 +151,19 @@
       <p align = "justify"> Bin Jiang, <b>Wenxuan Tu</b>, Chao Yang, and Junsong Yuan. Context-Integrated and Feature-Refined Network for Lightweight Object Parsing. IEEE Transactions on Image Processing (IEEE T-IP), 29: 5079-5093, 2020. <b>(CCF Rank A, JCR 1# TOP)</b> [<a href="https://ieeexplore.ieee.org/document/9032321/">Paper</a>], [<a href="https://github.com/xinwangliu/onePassLateFusionMVC/tree/main">Code</a>] </p>
     </li>
   </ul> 
+<ul>
+  <li> 
+    <p align = "justify"> Jiankai He, Bin Jiang, Chao Yang, <b>Wenxuan Tu</b>. Hybrid Dilated Convolution Network Using Attentive Kernels for Real-time Semantic Segmentation. Pattern Recognition and Computer Vision (PRCV), 2018. <b>(CCF Rank C)</b> [<a href="https://ieeexplore.ieee.org/document/9032321/">Paper</a>], [<a href="https://github.com/xinwangliu/onePassLateFusionMVC/tree/main">Code</a>] </p>
+  </li>
+</ul> 
+  
+  
+### 2019
+<ul>
+  <li> 
+    <p align = "justify"> Bin Jiang, <b>Wenxuan Tu</b>, Chao Yang, and Junsong Yuan. Context-Integrated and Feature-Refined Network for Lightweight Object Parsing. IEEE Transactions on Image Processing (IEEE T-IP), 29: 5079-5093, 2020. <b>(CCF Rank A, JCR 1# TOP)</b> [<a href="https://ieeexplore.ieee.org/document/9032321/">Paper</a>], [<a href="https://github.com/xinwangliu/onePassLateFusionMVC/tree/main">Code</a>] </p>
+  </li>
+</ul> 
   
 ### Under Review
    <ul>
