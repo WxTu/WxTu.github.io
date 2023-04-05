@@ -160,7 +160,7 @@
 ### Under Review
    <ul>
     <li> 
-      <p align = "justify"> <b>Wenxuan Tu</b>, Qing Liao, Sihang Zhou, Xin Peng, Chuan Ma, Zhe Liu, Xinwang Liu, and Zhiping Cai. RARE: Robust Masked Graph Autoencoder. 2023, (under review).</p>
+      <p align = "justify"> <b>Wenxuan Tu</b>, Qing Liao, Sihang Zhou, Xin Peng, Chuan Ma, Zhe Liu, Xinwang Liu, and Zhiping Cai. RARE: Robust Masked Graph Autoencoder. 2023, (under review). [<a href="https://arxiv.org/pdf/2304.01507.pdf">Arxiv</a>]</p>
     </li>
   </ul>
    <ul>
