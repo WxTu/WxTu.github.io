@@ -54,7 +54,7 @@
 ### 2023
 <ul>
     <li> 
-      <p align = "justify"> Ke Liang, Lingyuan Meng, Meng Liu, Yue Liu, <b>Wenxuan Tu</b>, Siwei Wang, Sihang Zhou, and Xinwang Liu. Learn from Relational Correlations and Periodic Events for Temporal Knowledge Graph Reasoning. The Forty-sixth International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2023, (to appear). <b>(CCF Rank A)</b> </p>
+      <p align = "justify"> Ke Liang, Lingyuan Meng, Meng Liu, Yue Liu, <b>Wenxuan Tu</b>, Siwei Wang, Sihang Zhou, and Xinwang Liu. Learn from Relational Correlations and Periodic Events for Temporal Knowledge Graph Reasoning. Proceedings of the Forty-sixth International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2023, (to appear). <b>(CCF Rank A)</b> </p>
     </li>
   </ul>
 <ul>
