@@ -54,6 +54,11 @@
 ### 2023
 <ul>
     <li> 
+      <p align = "justify"> Ke Liang, Lingyuan Meng, Meng Liu, Yue Liu, <b>Wenxuan Tu</b>, Siwei Wang, Sihang Zhou, and Xinwang Liu. Learn from Relational Correlations and Periodic Events for Temporal Knowledge Graph Reasoning. The Forty-sixth International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2023, (to appear). <b>(CCF Rank A)</b> </p>
+    </li>
+  </ul>
+<ul>
+    <li> 
       <p align = "justify"> Xihong Yang, Yue Liu, Sihang Zhou, Siwei Wang, <b>Wenxuan Tu</b>, Qun Zheng, Xinwang Liu, Liming Fang, and En Zhu. Cluster-guided Contrastive Graph Clustering Network. Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI), 2023, (to appear). <b>(CCF Rank A)</b> </p>
     </li>
   </ul>
