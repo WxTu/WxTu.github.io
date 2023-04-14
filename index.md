@@ -199,17 +199,17 @@
 ## Services
  <ul>
     <li> 
-      <p>Program Committee Member for CVPR 2023, NeurIPS 2023, AAAI 2023, ICASSP 2023, ICME2023, ACCV 2023</p>
+      <p>Program Committee Member for CVPR 2023, NeurIPS 2023, ACM MM 2023, AAAI 2023, ICASSP 2023, ICME2023, ACCV 2023</p>
     </li>
   </ul>
  <ul>
     <li> 
-      <p>Program Committee Member for CVPR 2022, MM 2022, ICME 2022</p>
+      <p>Program Committee Member for CVPR 2022, ACM MM 2022, ICME 2022</p>
     </li>
   </ul>
    <ul>
     <li> 
-      <p>Program Committee Member for MM 2021, ICME 2021</p>
+      <p>Program Committee Member for ACM MM 2021, ICME 2021</p>
     </li>
   </ul>
    <ul>
