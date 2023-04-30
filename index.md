@@ -54,6 +54,11 @@
 ### 2023
 <ul>
     <li> 
+      <p align = "justify">Yue Liu, Xihong Yang, Sihang Zhou, Xinwang Liu, Siwei Wang, Ke Liang, <b>Wenxuan Tu</b>, and Liang Li. Simple Contrastive Graph Clustering. IEEE Transactions on Neural Networks and Learning Systems (IEEE T-NNLS), 2022, (to appear). <b>(CCF Rank B, JCR 1#)</b> </p>
+    </li>
+  </ul>
+<ul>
+    <li> 
       <p align = "justify"> Ke Liang, Lingyuan Meng, Meng Liu, Yue Liu, <b>Wenxuan Tu</b>, Siwei Wang, Sihang Zhou, and Xinwang Liu. Learn from Relational Correlations and Periodic Events for Temporal Knowledge Graph Reasoning. Proceedings of the Forty-sixth International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2023, (to appear). <b>(CCF Rank A)</b> </p>
     </li>
   </ul>
