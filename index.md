@@ -186,16 +186,14 @@
   </ul>
    <ul>
     <li> 
+      <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Zhiping Cai, Yawei Zhao, Yue Liu, and Kunlun He. WAGE: Weight-sharing Attribute-missing Graph Auto-encoder. 2023, (under review). </p>
+    </li>
+  </ul>
+   <ul>
+    <li> 
       <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Chunpeng Ge, Zhiping Cai, and Yue Liu. Hierarchically Contrastive Hard Sample Mining for Graph Self-supervised Pre-training. 2022, (under review). </p> 
     </li>
   </ul>
-
-   <ul>
-    <li> 
-      <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Yue Liu, Xinwang Liu, and Zhiping Cai. Siamese Attribute-missing Graph Auto-encoder. 2022, (under review).  [<a href="https://arxiv.org/pdf/2112.04842.pdf">Arxiv</a>] </p>
-    </li>
-  </ul>
-
 
 ## Grants
  <ul>
