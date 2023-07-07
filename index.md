@@ -234,6 +234,12 @@
 ## Awards
   <ul>
     <li> 
+      <p> The honorary title of ``Academic New Star" in the 2023 IJCAI Youth Elite Academic Conference, 2023.07</p>
+    </li>
+  </ul>
+
+  <ul>
+    <li> 
       <p>Outstanding Student Award of School of Computing, National University of Defense Technology, 2022.09</p>
     </li>
   </ul>
