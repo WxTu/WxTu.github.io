@@ -234,7 +234,7 @@
 ## Awards
   <ul>
     <li> 
-      <p> The Honorary Title of "Academic New Star" in the 2023 IJCAI Youth Elite Academic Conference, 2023.07</p>
+      <p> The Honorary Title of "Academic New Star" in the <a href="https://mp.weixin.qq.com/s/9IyNy-l_MTKLBFGvTpyaUA">2023 IJCAI Youth Elite Academic Conference</a>, 2023.07</p>
     </li>
   </ul>
 
