@@ -214,13 +214,13 @@
   
   <ul>
   <li> 
-      <p><a href="https://github.com/WxTu/WxTu.github.io/tree/master/figures/1.jpg">Outstanding Thesis Award for Master Degree of Hunan University</a>, 2022.06</p>
+      <p><a href="https://github.com/WxTu/WxTu.github.io/tree/master/figures/2.jpg">Outstanding Thesis Award for Master Degree of Hunan University</a>, 2022.06</p>
     </li>
   </ul>
 
   <ul>
     <li> 
-      <p>Outstanding Thesis Award for Master Degree of Hunan Association for Artificial Intelligence, 2021.10</p>
+      <p><a href="https://github.com/WxTu/WxTu.github.io/tree/master/figures/1.jpg">Outstanding Thesis Award for Master Degree of Hunan Association for Artificial Intelligence</a>, 2021.10</p>
     </li>
   </ul>
   
