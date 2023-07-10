@@ -135,7 +135,7 @@
   
  <ul>
     <li> 
-      <p align = "justify"> Yue Liu, Xihong Yang, Sihang Zhou, Xinwang Liu, Zhen Wang, Ke Liang, <b>Wenxuan Tu</b>, Liang Li, Jingcan Duan, and Cancan Chen. Hard Sample Aware Network for Contrastive Deep Graph Clustering. Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI), 2023, (to appear). <b>(CCF Rank A)</b> </p>
+      <p align = "justify"> Yue Liu, Xihong Yang, Sihang Zhou, Xinwang Liu, Zhen Wang, Ke Liang, <b>Wenxuan Tu</b>, Liang Li, Jingcan Duan, and Cancan Chen. Hard Sample Aware Network for Contrastive Deep Graph Clustering. Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI), 2023. <b>(CCF Rank A)</b> [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/26071">Paper</a>], [<a href="https://github.com/yueliu1999/HSAN">Code</a>] </p>
     </li>
   </ul>
   
