@@ -41,55 +41,55 @@
 ## Awards
   <ul>
     <li> 
-      <p> <a href="https://mp.weixin.qq.com/s/9IyNy-l_MTKLBFGvTpyaUA">The Honorary Title of "Academic New Star" in the 2023 IJCAI Youth Elite Academic Conference</a>, 2023.07</p>
+      <p> <a href="https://mp.weixin.qq.com/s/9IyNy-l_MTKLBFGvTpyaUA">The Honorary Title of "Academic New Star" in the 2023 IJCAI Youth Elite Academic Conference</a>, Shanghai China, 2023.07</p>
     </li>
   </ul>
 
   <ul>
     <li> 
-      <p>Outstanding Student Award of School of Computing, National University of Defense Technology, 2022.09</p>
+      <p>Outstanding Student Award of School of Computing, National University of Defense Technology, Changsha China, 2022.09</p>
     </li>
   </ul>
   
   <ul>
   <li> 
-      <p><a href="https://github.com/WxTu/WxTu.github.io/tree/master/figures/2.jpg">Outstanding Thesis Award for Master Degree of Hunan University</a>, 2022.06</p>
+      <p><a href="https://github.com/WxTu/WxTu.github.io/tree/master/figures/2.jpg">Outstanding Thesis Award for Master Degree of Hunan University</a>, Changsha China, 2022.06</p>
     </li>
   </ul>
 
   <ul>
     <li> 
-      <p><a href="https://github.com/WxTu/WxTu.github.io/tree/master/figures/1.jpg">Outstanding Thesis Award for Master Degree of Hunan Association for Artificial Intelligence</a>, 2021.10</p>
+      <p><a href="https://github.com/WxTu/WxTu.github.io/tree/master/figures/1.jpg">Outstanding Thesis Award for Master Degree of Hunan Association for Artificial Intelligence</a>, Changsha China, 2021.10</p>
     </li>
   </ul>
   
   <ul>
     <li> 
-      <p>Outstanding Student Award of School of Computing, National University of Defense Technology, 2021.07</p>
+      <p>Outstanding Student Award of School of Computing, National University of Defense Technology, Changsha China, 2021.07</p>
     </li>
   </ul>
   
   <ul>
     <li> 
-      <p>Outstanding Graduated Graduate Student of Hunan Province, 2020.06</p>
+      <p>Outstanding Graduated Graduate Student of Hunan Province, Changsha China, 2020.06</p>
     </li>
   </ul>
   
    <ul>
     <li> 
-      <p>Outstanding Graduated Graduate Student of Hunan University, 2020.06</p>
+      <p>Outstanding Graduated Graduate Student of Hunan University, Changsha China, 2020.06</p>
     </li>
   </ul>
   
   <ul>
     <li> 
-      <p><a href="http://csee.hnu.edu.cn/info/1060/6900.htm">Future Cup College AI Challenge, 1st Place in Central China & Southern China</a>, 2018.09  </p>
+      <p><a href="http://csee.hnu.edu.cn/info/1060/6900.htm">Future Cup College AI Challenge, 1st Place in Central China & Southern China</a>, Changsha China, 2018.09  </p>
     </li>
   </ul>
 
   <ul>
     <li> 
-      <p><a href="http://csee.hnu.edu.cn/info/1060/7181.htm">Future Cup College AI Challenge, 3rd Place in National Finals</a>, 2018.06 </p>
+      <p><a href="http://csee.hnu.edu.cn/info/1060/7181.htm">Future Cup College AI Challenge, 3rd Place in National Finals</a>, Beijing China, 2018.06 </p>
     </li>
   </ul>
 
