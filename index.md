@@ -202,7 +202,7 @@
 ## Awards
   <ul>
     <li> 
-      <p> The Honorary Title of "Academic New Star" in the <a href="https://mp.weixin.qq.com/s/9IyNy-l_MTKLBFGvTpyaUA">2023 IJCAI Youth Elite Academic Conference</a>, 2023.07</p>
+      <p> <a href="https://mp.weixin.qq.com/s/9IyNy-l_MTKLBFGvTpyaUA">The Honorary Title of "Academic New Star" in the 2023 IJCAI Youth Elite Academic Conference</a>, 2023.07</p>
     </li>
   </ul>
 
@@ -244,13 +244,13 @@
   
   <ul>
     <li> 
-      <p>Future Cup College AI Challenge, <a href="http://csee.hnu.edu.cn/info/1060/6900.htm">1st Place in Central China & Southern China</a>, 2018.09  </p>
+      <p><a href="http://csee.hnu.edu.cn/info/1060/6900.htm">Future Cup College AI Challenge, 1st Place in Central China & Southern China</a>, 2018.09  </p>
     </li>
   </ul>
 
   <ul>
     <li> 
-      <p>Future Cup College AI Challenge, <a href="http://csee.hnu.edu.cn/info/1060/7181.htm">3rd Place in National Finals</a>, 2018.06 </p>
+      <p><a href="http://csee.hnu.edu.cn/info/1060/7181.htm">Future Cup College AI Challenge, 3rd Place in National Finals</a>, 2018.06 </p>
     </li>
   </ul>
 
