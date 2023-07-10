@@ -244,7 +244,7 @@
   
   <ul>
     <li> 
-      <p>Future Cup College AI Challenge, 1st Place in Central China & Southern China, 2018.09  </p>
+      <p>Future Cup College AI Challenge, <a href="http://csee.hnu.edu.cn/info/1060/6900.htm">1st Place in Central China & Southern China</a>, 2018.09  </p>
     </li>
   </ul>
 
