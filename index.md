@@ -109,7 +109,7 @@
 ### 2023
 <ul>
     <li> 
-      <p align = "justify">Ke Liang, Yue Liu, Sihang Zhou, <b>Wenxuan Tu</b>, Yi Wen, Xihong Yang, Xiangjun Dong, and Xinwang Liu. Knowledge Graph Contrastive Learning based on Relation-Symmetrical Structure. IEEE Transactions on Knowledge and Data Engineering (IEEE T-KDE), 2023, (to appear). <b>(CCF Rank A, JCR 1#)</b> </p>
+      <p align = "justify">Ke Liang, Yue Liu, Sihang Zhou, <b>Wenxuan Tu</b>, Yi Wen, Xihong Yang, Xiangjun Dong, and Xinwang Liu. Knowledge Graph Contrastive Learning based on Relation-Symmetrical Structure. IEEE Transactions on Knowledge and Data Engineering (IEEE T-KDE), 2023. <b>(CCF Rank A, JCR 1#)</b> [<a href="https://ieeexplore.ieee.org/document/10149041">Paper</a>] </p>   
     </li>
  </ul>
  <ul>
