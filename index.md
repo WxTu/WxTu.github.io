@@ -214,7 +214,7 @@
   
   <ul>
   <li> 
-      <p>![Outstanding Thesis Award for Master Degree of Hunan University](https://github.com/WxTu/WxTu.github.io/tree/master/figures/1.jpg), 2022.06</p>
+      <p><a href="https://github.com/WxTu/WxTu.github.io/tree/master/figures/1.jpg">Outstanding Thesis Award for Master Degree of Hunan University</a>, 2022.06</p>
     </li>
   </ul>
 
