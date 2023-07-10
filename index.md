@@ -258,7 +258,7 @@
  <ul>
     <li> 
       <p>
-      Research on Self-supervised Graph Representation Learning Algorithms and Applications, Postgraduate Scientific Research Innovation Project in Hunan Province (No. CX20220076), Jan 2023 - Jan 2024. Principal Investigator.
+      Research on Self-supervised Graph Representation Learning Algorithms and Applications, Postgraduate Scientific Research Innovation Project in Hunan Province (No. CX20220076), Jan 2023 - Jan 2025. Principal Investigator.
       </p>
     </li>
   </ul>
