@@ -250,7 +250,7 @@
 
   <ul>
     <li> 
-      <p>Future Cup College AI Challenge, 3rd Place in National Finals, 2018.06 </p>
+      <p>Future Cup College AI Challenge, <a href="http://csee.hnu.edu.cn/info/1060/7181.htm">3rd Place in National Finals</a>, 2018.06 </p>
     </li>
   </ul>
 
