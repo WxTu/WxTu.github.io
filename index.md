@@ -199,38 +199,6 @@
     </li>
   </ul>
 
-## Grants
- <ul>
-    <li> 
-      <p>
-      Research on Self-supervised Graph Representation Learning Algorithms and Applications, Postgraduate Scientific Research Innovation Project in Hunan Province (No. CX20220076), Jan 2023 - Jan 2024. Principal Investigator.
-      </p>
-    </li>
-  </ul>
-  
-  
-## Services
- <ul>
-    <li> 
-      <p>Program Committee Member for CVPR 2023, NeurIPS 2023, ACM MM 2023, AAAI 2023, ICASSP 2023, ICME2023, ACCV 2023</p>
-    </li>
-  </ul>
- <ul>
-    <li> 
-      <p>Program Committee Member for CVPR 2022, ACM MM 2022, ICME 2022</p>
-    </li>
-  </ul>
-   <ul>
-    <li> 
-      <p>Program Committee Member for ACM MM 2021, ICME 2021</p>
-    </li>
-  </ul>
-   <ul>
-    <li> 
-      <p>Reviewer for IEEE TKDE, IEEE TNNLS, ACM TOMM</p>
-    </li>
-  </ul>  
-  
 ## Awards
   <ul>
     <li> 
@@ -285,6 +253,39 @@
       <p>Future Cup College AI Challenge, 3rd Place in National Finals, 2018.06 </p>
     </li>
   </ul>
+
+## Grants
+ <ul>
+    <li> 
+      <p>
+      Research on Self-supervised Graph Representation Learning Algorithms and Applications, Postgraduate Scientific Research Innovation Project in Hunan Province (No. CX20220076), Jan 2023 - Jan 2024. Principal Investigator.
+      </p>
+    </li>
+  </ul>
+  
+  
+## Services
+ <ul>
+    <li> 
+      <p>Program Committee Member for CVPR 2023, NeurIPS 2023, ACM MM 2023, AAAI 2023, ICASSP 2023, ICME2023, ACCV 2023</p>
+    </li>
+  </ul>
+ <ul>
+    <li> 
+      <p>Program Committee Member for CVPR 2022, ACM MM 2022, ICME 2022</p>
+    </li>
+  </ul>
+   <ul>
+    <li> 
+      <p>Program Committee Member for ACM MM 2021, ICME 2021</p>
+    </li>
+  </ul>
+   <ul>
+    <li> 
+      <p>Reviewer for IEEE TKDE, IEEE TNNLS, ACM TOMM</p>
+    </li>
+  </ul>  
+  
 
 ## Partnership 
    <ul>
