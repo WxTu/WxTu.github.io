@@ -109,6 +109,11 @@
 ### 2023
 <ul>
     <li> 
+      <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Chunpeng Ge, Zhiping Cai, and Yue Liu. Hierarchically Contrastive Hard Sample Mining for Graph Self-supervised Pre-training. IEEE Transactions on Neural Networks and Learning Systems (IEEE T-NNLS), 2022, (to appear). <b>(CCF Rank B, JCR 1#) </b></p> 
+    </li>
+  </ul>
+<ul>
+    <li> 
       <p align = "justify">Ke Liang, Yue Liu, Sihang Zhou, <b>Wenxuan Tu</b>, Yi Wen, Xihong Yang, Xiangjun Dong, and Xinwang Liu. Knowledge Graph Contrastive Learning based on Relation-Symmetrical Structure. IEEE Transactions on Knowledge and Data Engineering (IEEE T-KDE), 2023. <b>(CCF Rank A, JCR 1#)</b> [<a href="https://ieeexplore.ieee.org/document/10149041">Paper</a>] </p>   
     </li>
  </ul>
@@ -246,11 +251,6 @@
    <ul>
     <li> 
       <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Zhiping Cai, Yawei Zhao, Yue Liu, and Kunlun He. WAGE: Weight-sharing Attribute-missing Graph Autoencoder. 2023, (under review). </p>
-    </li>
-  </ul>
-   <ul>
-    <li> 
-      <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Chunpeng Ge, Zhiping Cai, and Yue Liu. Hierarchically Contrastive Hard Sample Mining for Graph Self-supervised Pre-training. 2022, (under review). </p> 
     </li>
   </ul>
 
