@@ -267,6 +267,12 @@
 ## Services
  <ul>
     <li> 
+      <p>Program Committee Member for AAAI 2024</p>
+    </li>
+  </ul>
+ <ul>
+ <ul>
+    <li> 
       <p>Program Committee Member for CVPR 2023, NeurIPS 2023, ACM MM 2023, AAAI 2023, ICASSP 2023, ICME2023, ACCV 2023</p>
     </li>
   </ul>
