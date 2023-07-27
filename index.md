@@ -109,6 +109,11 @@
 ### 2023
 <ul>
     <li> 
+      <p align = "justify"> Meng Liu, Ke Liang, Dayu Hu, Hao Yu, Yue Liu, Lingyuan Meng, <b>Wenxuan Tu</b>, Sihang Zhou, and Xinwang Liu. TMac: Temporal Multi-Modal Graph Learning for Acoustic Event Classification. Proceedings of the Twenty-Ninth ACM International Conference on Multimedia (MM), 2023, (to appear). <b>(CCF Rank A) </p> 
+    </li>
+  </ul>
+<ul>
+    <li> 
       <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Chunpeng Ge, Zhiping Cai, and Yue Liu. Hierarchically Contrastive Hard Sample Mining for Graph Self-supervised Pre-training. IEEE Transactions on Neural Networks and Learning Systems (IEEE T-NNLS), 2023, (to appear). <b>(CCF Rank B, JCR 1#) </b></p> 
     </li>
   </ul>
