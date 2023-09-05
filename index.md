@@ -109,7 +109,7 @@
 ### 2023
 <ul>
     <li> 
-      <p align = "justify"> Meng Liu, Ke Liang, Dayu Hu, Hao Yu, Yue Liu, Lingyuan Meng, <b>Wenxuan Tu</b>, Sihang Zhou, and Xinwang Liu. TMac: Temporal Multi-Modal Graph Learning for Acoustic Event Classification. Proceedings of the Twenty-Ninth ACM International Conference on Multimedia (MM), 2023, (to appear). <b>(CCF Rank A)</b> </p> 
+      <p align = "justify"> Meng Liu, Ke Liang, Dayu Hu, Hao Yu, Yue Liu, Lingyuan Meng, <b>Wenxuan Tu</b>, Sihang Zhou, and Xinwang Liu. TMac: Temporal Multi-Modal Graph Learning for Acoustic Event Classification. Proceedings of the Thirty-First ACM International Conference on Multimedia (MM), 2023, (to appear). <b>(CCF Rank A)</b> </p> 
     </li>
   </ul>
 <ul>
