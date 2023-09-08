@@ -140,13 +140,13 @@
   </ul>
 <ul>
     <li> 
-      <p align = "justify"> Xihong Yang, Yue Liu, Sihang Zhou, Siwei Wang, <b>Wenxuan Tu</b>, Qun Zheng, Xinwang Liu, Liming Fang, and En Zhu. Cluster-guided Contrastive Graph Clustering Network. Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI), 2023, (to appear). <b>(CCF Rank A)</b> </p>
+      <p align = "justify"> Xihong Yang, Yue Liu, Sihang Zhou, Siwei Wang, <b>Wenxuan Tu</b>, Qun Zheng, Xinwang Liu, Liming Fang, and En Zhu. Cluster-guided Contrastive Graph Clustering Network. Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI), 2023, pages: 10834-10842. <b>(CCF Rank A)</b> [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/26285">Paper</a>]  </p>
     </li>
   </ul>
   
  <ul>
     <li> 
-      <p align = "justify"> Yue Liu, Xihong Yang, Sihang Zhou, Xinwang Liu, Zhen Wang, Ke Liang, <b>Wenxuan Tu</b>, Liang Li, Jingcan Duan, and Cancan Chen. Hard Sample Aware Network for Contrastive Deep Graph Clustering. Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI), 2023. <b>(CCF Rank A)</b> [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/26071">Paper</a>], [<a href="https://github.com/yueliu1999/HSAN">Code</a>] </p>
+      <p align = "justify"> Yue Liu, Xihong Yang, Sihang Zhou, Xinwang Liu, Zhen Wang, Ke Liang, <b>Wenxuan Tu</b>, Liang Li, Jingcan Duan, and Cancan Chen. Hard Sample Aware Network for Contrastive Deep Graph Clustering. Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI), pages: 8914-8922, 2023. <b>(CCF Rank A)</b> [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/26071">Paper</a>], [<a href="https://github.com/yueliu1999/HSAN">Code</a>] </p>
     </li>
   </ul>
   
