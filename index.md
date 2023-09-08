@@ -114,7 +114,7 @@
   </ul>
 <ul>
     <li> 
-      <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Chunpeng Ge, Zhiping Cai, and Yue Liu. Hierarchically Contrastive Hard Sample Mining for Graph Self-supervised Pre-training. IEEE Transactions on Neural Networks and Learning Systems (IEEE T-NNLS), 2023, (to appear). <b>(CCF Rank B, JCR 1#) </b></p> 
+      <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Chunpeng Ge, Zhiping Cai, and Yue Liu. Hierarchically Contrastive Hard Sample Mining for Graph Self-supervised Pre-training. IEEE Transactions on Neural Networks and Learning Systems (IEEE T-NNLS), 2023. <b>(CCF Rank B, JCR 1#) </b>  [<a href="https://ieeexplore.ieee.org/abstract/document/10223441/authors#authors">Paper</a>] </p> 
     </li>
   </ul>
 <ul>
@@ -124,7 +124,7 @@
  </ul>
  <ul>
     <li> 
-      <p align = "justify">Dayu Hu, Ke Liang, Sihang Zhou, <b>Wenxuan Tu</b>, Meng Liu, and Xinwang Liu. scDFC: A Deep Fusion Clustering Method for Single-Cell RNA-Seq Data. Briefings in Bioinformatics (BIB), 2023, (to appear). <b>(CCF Rank B, JCR 2#)</b> </p>
+      <p align = "justify">Dayu Hu, Ke Liang, Sihang Zhou, <b>Wenxuan Tu</b>, Meng Liu, and Xinwang Liu. scDFC: A Deep Fusion Clustering Method for Single-Cell RNA-Seq Data. Briefings in Bioinformatics (BIB), 2023, (to appear). <b>(CCF Rank B, JCR 2#)</b> [<a href="https://academic.oup.com/bib/article-abstract/24/4/bbad216/7190935?login=false">Paper</a>]</p>
     </li>
  </ul>
 <ul>
