@@ -63,11 +63,11 @@
     </li>
   </ul>
   
- % <ul>
- %    <li> 
- %      <p>Outstanding Student Award of School of Computing, National University of Defense Technology, Changsha China, 2021.07</p>
- %    </li>
- %  </ul>
+  <ul>
+     <li> 
+       <p>Outstanding Student Award of School of Computing, National University of Defense Technology, Changsha China, 2021.07</p>
+     </li>
+   </ul>
   
   <ul>
     <li> 
