@@ -107,6 +107,11 @@
 
 ## Publications
 ### 2023
+ <ul>
+    <li> 
+      <p align = "justify">Xin Peng, Jieren Cheng, Xiangyan Tang, Bin Zhang, and <b>Wenxuan Tu</b>. Multi-view Graph Imputation Network. Information Fusion, 2023. <b>(JCR 1#)</b> [<a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253523003408">Paper</a>]</p>
+    </li>
+ </ul>
 <ul>
     <li> 
       <p align = "justify"> Meng Liu, Ke Liang, Dayu Hu, Hao Yu, Yue Liu, Lingyuan Meng, <b>Wenxuan Tu</b>, Sihang Zhou, and Xinwang Liu. TMac: Temporal Multi-Modal Graph Learning for Acoustic Event Classification. Proceedings of the Thirty-First ACM International Conference on Multimedia (MM), 2023, (to appear). <b>(CCF Rank A)</b> </p> 
