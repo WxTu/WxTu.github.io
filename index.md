@@ -109,7 +109,7 @@
 ### 2023
  <ul>
     <li> 
-      <p align = "justify">Meng Liu, <b>Wenxuan Tu</b>, Ke Liang, and Xinwang Liu. Structural Embedding Pre-Training for Deep Temporal Graph Learning. Proceedings of the Fifth China Symposium on Cognitive Computing and Hybrid Intelligence (CCHI), 2023, (to appear). <b>(CAA Rank A, Best Student Paper (2/226))</b> </p> 
+      <p align = "justify">Meng Liu, <b>Wenxuan Tu</b>, Ke Liang, and Xinwang Liu. Structural Embedding Pre-Training for Deep Temporal Graph Learning. Proceedings of the Fifth China Symposium on Cognitive Computing and Hybrid Intelligence (CCHI), 2023, (to appear). <b>(CAA Rank A, Best Student Paper)</b> </p> 
     </li>
  </ul>
  <ul>
