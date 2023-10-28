@@ -109,6 +109,11 @@
 ### 2023
  <ul>
     <li> 
+      <p align = "justify">Meng Liu, <b>Wenxuan Tu</b>, Ke Liang, and Xinwang Liu. Structural Embedding Pre-Training for Deep Temporal Graph Learning. Proceedings of the Fifth China Symposium on Cognitive Computing and Hybrid Intelligence (CCHI), 2023, (to appear). <b>(CAA Rank A, Best Student Paper (2/226))</b> </p> 
+    </li>
+ </ul>
+ <ul>
+    <li> 
       <p align = "justify">Xin Peng, Jieren Cheng, Xiangyan Tang, Bin Zhang, and <b>Wenxuan Tu</b>. Multi-view Graph Imputation Network. Information Fusion, 2023. <b>(JCR 1#)</b> [<a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253523003408">Paper</a>]</p>
     </li>
  </ul>
