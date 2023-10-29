@@ -283,7 +283,7 @@
 ## Services
  <ul>
     <li> 
-      <p>Program Committee Member for AAAI 2024, ICLR 2024</p>
+      <p>Program Committee Member for CVPR 2024, AAAI 2024, ICLR 2024</p>
     </li>
  </ul>
     
