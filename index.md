@@ -44,7 +44,11 @@
       <p> <a href="https://mp.weixin.qq.com/s/9IyNy-l_MTKLBFGvTpyaUA">The Honorary Title of "Academic New Star" in the 2023 IJCAI Youth Elite Academic Conference</a>, Shanghai China, 2023.07</p>
     </li>
   </ul>
-
+  <ul>
+    <li> 
+      <p> China Aerospace Science and Technology Corporation Scholarship, Changsha China, 2022.10</p>
+    </li>
+  </ul>
   <ul>
     <li> 
       <p>Outstanding Student Award of School of Computing, National University of Defense Technology, Changsha China, 2022.09</p>
