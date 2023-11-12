@@ -111,6 +111,11 @@
 
 ## Publications
 ### 2023
+<ul>
+  <li> 
+      <p align = "justify"> <b>Wenxuan Tu</b>, Qing Liao, Sihang Zhou, Xin Peng, Chuan Ma, Zhe Liu, Xinwang Liu, Zhiping Cai, and Kunlun He. RARE: Robust Masked Graph Autoencoder. IEEE Transactions on Knowledge and Data Engineering (IEEE T-KDE), 2023, (to appear). <b>(CCF Rank A, JCR 2#)</b></p>
+  </li>
+</ul>
  <ul>
     <li> 
       <p align = "justify">Meng Liu, <b>Wenxuan Tu</b>, Ke Liang, and Xinwang Liu. Structural Embedding Pre-Training for Deep Temporal Graph Learning. Proceedings of the Fifth China Symposium on Cognitive Computing and Hybrid Intelligence (CCHI), 2023, (to appear). <b>(CAA Rank A, Best Student Paper)</b> </p> 
@@ -133,7 +138,7 @@
   </ul>
 <ul>
     <li> 
-      <p align = "justify">Ke Liang, Yue Liu, Sihang Zhou, <b>Wenxuan Tu</b>, Yi Wen, Xihong Yang, Xiangjun Dong, and Xinwang Liu. Knowledge Graph Contrastive Learning based on Relation-Symmetrical Structure. IEEE Transactions on Knowledge and Data Engineering (IEEE T-KDE), 2023. <b>(CCF Rank A, JCR 1#)</b> [<a href="https://ieeexplore.ieee.org/document/10149041">Paper</a>] </p>   
+      <p align = "justify">Ke Liang, Yue Liu, Sihang Zhou, <b>Wenxuan Tu</b>, Yi Wen, Xihong Yang, Xiangjun Dong, and Xinwang Liu. Knowledge Graph Contrastive Learning based on Relation-Symmetrical Structure. IEEE Transactions on Knowledge and Data Engineering (IEEE T-KDE), 2023. <b>(CCF Rank A, JCR 2#)</b> [<a href="https://ieeexplore.ieee.org/document/10149041">Paper</a>] </p>   
     </li>
  </ul>
  <ul>
@@ -258,11 +263,6 @@
 </ul> 
   
 ### Under Review
-   <ul>
-    <li> 
-      <p align = "justify"> <b>Wenxuan Tu</b>, Qing Liao, Sihang Zhou, Xin Peng, Chuan Ma, Zhe Liu, Xinwang Liu, and Zhiping Cai. RARE: Robust Masked Graph Autoencoder. 2023, (under review). [<a href="https://arxiv.org/pdf/2304.01507.pdf">Arxiv</a>]</p>
-    </li>
-  </ul>
    <ul>
     <li> 
       <p align = "justify"> <b>Wenxuan Tu</b>, Bin Xiao, Xinwang Liu, Sihang Zhou, Zhiping Cai, and Jieren Cheng. Revisiting Initializing Then Refining: An Incomplete and Missing Graph Imputation Network. 2023, (under review). [<a href="https://arxiv.org/pdf/2302.07524.pdf">Arxiv</a>] </p>
