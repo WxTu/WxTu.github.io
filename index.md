@@ -113,7 +113,7 @@
 ### 2023
 <ul>
   <li> 
-      <p align = "justify"> <b>Wenxuan Tu</b>, Qing Liao, Sihang Zhou, Xin Peng, Chuan Ma, Zhe Liu, Xinwang Liu, Zhiping Cai, and Kunlun He. RARE: Robust Masked Graph Autoencoder. IEEE Transactions on Knowledge and Data Engineering (IEEE T-KDE), 2023, (to appear). <b>(CCF Rank A, JCR 2#)</b></p>
+      <p align = "justify"> <b>Wenxuan Tu</b>, Qing Liao, Sihang Zhou, Xin Peng, Chuan Ma, Zhe Liu, Xinwang Liu, Zhiping Cai, and Kunlun He. RARE: Robust Masked Graph Autoencoder. IEEE Transactions on Knowledge and Data Engineering (IEEE T-KDE), 2023, (to appear). <b>(CCF Rank A, SCI 2#)</b></p>
   </li>
 </ul>
  <ul>
@@ -123,7 +123,7 @@
  </ul>
  <ul>
     <li> 
-      <p align = "justify">Xin Peng, Jieren Cheng, Xiangyan Tang, Bin Zhang, and <b>Wenxuan Tu</b>. Multi-view Graph Imputation Network. Information Fusion, 2023. <b>(JCR 1#)</b> [<a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253523003408">Paper</a>]</p>
+      <p align = "justify">Xin Peng, Jieren Cheng, Xiangyan Tang, Bin Zhang, and <b>Wenxuan Tu</b>. Multi-view Graph Imputation Network. Information Fusion, 2023. <b>(SCI 1#)</b> [<a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253523003408">Paper</a>]</p>
     </li>
  </ul>
 <ul>
@@ -133,22 +133,22 @@
   </ul>
 <ul>
     <li> 
-      <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Chunpeng Ge, Zhiping Cai, and Yue Liu. Hierarchically Contrastive Hard Sample Mining for Graph Self-supervised Pre-training. IEEE Transactions on Neural Networks and Learning Systems (IEEE T-NNLS), 2023. <b>(CCF Rank B, JCR 1#) </b>  [<a href="https://ieeexplore.ieee.org/abstract/document/10223441/authors#authors">Paper</a>] </p> 
+      <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Chunpeng Ge, Zhiping Cai, and Yue Liu. Hierarchically Contrastive Hard Sample Mining for Graph Self-supervised Pre-training. IEEE Transactions on Neural Networks and Learning Systems (IEEE T-NNLS), 2023. <b>(CCF Rank B, SCI 1#) </b>  [<a href="https://ieeexplore.ieee.org/abstract/document/10223441/authors#authors">Paper</a>] </p> 
     </li>
   </ul>
 <ul>
     <li> 
-      <p align = "justify">Ke Liang, Yue Liu, Sihang Zhou, <b>Wenxuan Tu</b>, Yi Wen, Xihong Yang, Xiangjun Dong, and Xinwang Liu. Knowledge Graph Contrastive Learning based on Relation-Symmetrical Structure. IEEE Transactions on Knowledge and Data Engineering (IEEE T-KDE), 2023. <b>(CCF Rank A, JCR 2#)</b> [<a href="https://ieeexplore.ieee.org/document/10149041">Paper</a>] </p>   
+      <p align = "justify">Ke Liang, Yue Liu, Sihang Zhou, <b>Wenxuan Tu</b>, Yi Wen, Xihong Yang, Xiangjun Dong, and Xinwang Liu. Knowledge Graph Contrastive Learning based on Relation-Symmetrical Structure. IEEE Transactions on Knowledge and Data Engineering (IEEE T-KDE), 2023. <b>(CCF Rank A, SCI 2#)</b> [<a href="https://ieeexplore.ieee.org/document/10149041">Paper</a>] </p>   
     </li>
  </ul>
  <ul>
     <li> 
-      <p align = "justify">Dayu Hu, Ke Liang, Sihang Zhou, <b>Wenxuan Tu</b>, Meng Liu, and Xinwang Liu. scDFC: A Deep Fusion Clustering Method for Single-Cell RNA-Seq Data. Briefings in Bioinformatics (BIB), 2023, (to appear). <b>(CCF Rank B, JCR 2#)</b> [<a href="https://academic.oup.com/bib/article-abstract/24/4/bbad216/7190935?login=false">Paper</a>]</p>
+      <p align = "justify">Dayu Hu, Ke Liang, Sihang Zhou, <b>Wenxuan Tu</b>, Meng Liu, and Xinwang Liu. scDFC: A Deep Fusion Clustering Method for Single-Cell RNA-Seq Data. Briefings in Bioinformatics (BIB), 2023, (to appear). <b>(CCF Rank B, SCI 2#)</b> [<a href="https://academic.oup.com/bib/article-abstract/24/4/bbad216/7190935?login=false">Paper</a>]</p>
     </li>
  </ul>
 <ul>
     <li> 
-      <p align = "justify">Yue Liu, Xihong Yang, Sihang Zhou, Xinwang Liu, Siwei Wang, Ke Liang, <b>Wenxuan Tu</b>, and Liang Li. Simple Contrastive Graph Clustering. IEEE Transactions on Neural Networks and Learning Systems (IEEE T-NNLS), 2022. <b>(CCF Rank B, JCR 1#)</b> [<a href="https://ieeexplore.ieee.org/document/10163985">Paper</a>], [<a href="https://github.com/yueliu1999/SCGC">Code</a>] </p>
+      <p align = "justify">Yue Liu, Xihong Yang, Sihang Zhou, Xinwang Liu, Siwei Wang, Ke Liang, <b>Wenxuan Tu</b>, and Liang Li. Simple Contrastive Graph Clustering. IEEE Transactions on Neural Networks and Learning Systems (IEEE T-NNLS), 2022. <b>(CCF Rank B, SCI 1#)</b> [<a href="https://ieeexplore.ieee.org/document/10163985">Paper</a>], [<a href="https://github.com/yueliu1999/SCGC">Code</a>] </p>
     </li>
   </ul>
 <ul>
@@ -172,7 +172,7 @@
 ### 2022
   <ul>
     <li> 
-      <p align = "justify"> Lei Gong*, <b>Wenxuan Tu*</b>, Sihang Zhou, Long Zhao, Zhe Liu, and Xinwang Liu. Deep Fusion Clustering Network with Reliable Structure Preservation. IEEE Transactions on Neural Networks and Learning Systems (IEEE T-NNLS), 2022. <b>(CCF Rank B, JCR 1#)</b> [<a href="https://ieeexplore.ieee.org/document/9954258">Paper</a>], [<a href="https://github.com/gongleii/DFCN-RSP">Code</a>] </p>
+      <p align = "justify"> Lei Gong*, <b>Wenxuan Tu*</b>, Sihang Zhou, Long Zhao, Zhe Liu, and Xinwang Liu. Deep Fusion Clustering Network with Reliable Structure Preservation. IEEE Transactions on Neural Networks and Learning Systems (IEEE T-NNLS), 2022. <b>(CCF Rank B, SCI 1#)</b> [<a href="https://ieeexplore.ieee.org/document/9954258">Paper</a>], [<a href="https://github.com/gongleii/DFCN-RSP">Code</a>] </p>
     </li>
   </ul>
   
@@ -208,7 +208,7 @@
   
    <ul>
     <li> 
-      <p align = "justify"> Yuxin Huang, Miaomiao Li, <b>Wenxuan Tu</b>, Jiyuan Liu, and Jiahao Ying. Spare Simple MKKM with Semi-infinite Linear Program Optimization. International Journal of Intelligent Systems (IJIS), 37(2): 1113-1128, 2022. <b>(CCF Rank C, JCR 1#)</b> [<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/int.22661">Paper</a>]</p>
+      <p align = "justify"> Yuxin Huang, Miaomiao Li, <b>Wenxuan Tu</b>, Jiyuan Liu, and Jiahao Ying. Spare Simple MKKM with Semi-infinite Linear Program Optimization. International Journal of Intelligent Systems (IJIS), 37(2): 1113-1128, 2022. <b>(CCF Rank C, SCI 1#)</b> [<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/int.22661">Paper</a>]</p>
     </li>
   </ul>
   
@@ -221,7 +221,7 @@
   
  <ul>
     <li> 
-      <p align = "justify"> Xiangyan Tang, <b>Wenxuan Tu</b>, Keqiu Li, and Jieren Cheng. DFFNet: An IoT-perceptive Dual Feature Fusion Network for General Real-time Semantic Segmentation. Information Sciences (IS), 565: 326-343, 2021. <b>(CCF Rank B, JCR 1# TOP)</b> [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0020025521001389?via%3Dihub">Paper</a>], [<a href="https://github.com/WxTu/DFFNet">Code</a>] </p>
+      <p align = "justify"> Xiangyan Tang, <b>Wenxuan Tu</b>, Keqiu Li, and Jieren Cheng. DFFNet: An IoT-perceptive Dual Feature Fusion Network for General Real-time Semantic Segmentation. Information Sciences (IS), 565: 326-343, 2021. <b>(CCF Rank B, SCI 1#)</b> [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0020025521001389?via%3Dihub">Paper</a>], [<a href="https://github.com/WxTu/DFFNet">Code</a>] </p>
     </li>
   </ul> 
   
@@ -245,7 +245,7 @@
   
   <ul>
     <li> 
-      <p align = "justify"> Jieren Cheng, Xin Peng, Xiangyan Tang, <b>Wenxuan Tu</b>, and Wenhang Xu. MIFNet: A Lightweight Multiscale Information Fusion Network. International Journal of Intelligent Systems (IJIS), 37(9): 5617-5642, 2022. <b>(CCF Rank C, JCR 1#)</b> [<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/int.22804">Paper</a>]</p>
+      <p align = "justify"> Jieren Cheng, Xin Peng, Xiangyan Tang, <b>Wenxuan Tu</b>, and Wenhang Xu. MIFNet: A Lightweight Multiscale Information Fusion Network. International Journal of Intelligent Systems (IJIS), 37(9): 5617-5642, 2022. <b>(CCF Rank C, SCI 1#)</b> [<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/int.22804">Paper</a>]</p>
     </li>
   </ul>
 
@@ -253,7 +253,7 @@
 ### 2020
   <ul>
     <li> 
-      <p align = "justify"> Bin Jiang, <b>Wenxuan Tu</b>, Chao Yang, and Junsong Yuan. Context-Integrated and Feature-Refined Network for Lightweight Object Parsing. IEEE Transactions on Image Processing (IEEE T-IP), 29: 5079-5093, 2020. <b>(CCF Rank A, JCR 1# TOP)</b> [<a href="https://ieeexplore.ieee.org/document/9032321/">Paper</a>], [<a href="https://github.com/xinwangliu/onePassLateFusionMVC/tree/main">Code</a>] </p>
+      <p align = "justify"> Bin Jiang, <b>Wenxuan Tu</b>, Chao Yang, and Junsong Yuan. Context-Integrated and Feature-Refined Network for Lightweight Object Parsing. IEEE Transactions on Image Processing (IEEE T-IP), 29: 5079-5093, 2020. <b>(CCF Rank A, SCI 1#)</b> [<a href="https://ieeexplore.ieee.org/document/9032321/">Paper</a>], [<a href="https://github.com/xinwangliu/onePassLateFusionMVC/tree/main">Code</a>] </p>
     </li>
   </ul> 
 <ul>
