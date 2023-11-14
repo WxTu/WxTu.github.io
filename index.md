@@ -113,7 +113,7 @@
 ### 2023
 <ul>
   <li> 
-      <p align = "justify"> <b>Wenxuan Tu</b>, Qing Liao, Sihang Zhou, Xin Peng, Chuan Ma, Zhe Liu, Xinwang Liu, Zhiping Cai, and Kunlun He. RARE: Robust Masked Graph Autoencoder. IEEE Transactions on Knowledge and Data Engineering (IEEE T-KDE), 2023, (to appear). <b>(CCF Rank A, JCR Q1)</b></p>
+      <p align = "justify"> <b>Wenxuan Tu</b>, Qing Liao, Sihang Zhou, Xin Peng, Chuan Ma, Zhe Liu, Xinwang Liu, Zhiping Cai, and Kunlun He. RARE: Robust Masked Graph Autoencoder. IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 2023, (to appear). <b>(CCF Rank A, JCR Q1)</b></p>
   </li>
 </ul>
  <ul>
@@ -133,7 +133,7 @@
   </ul>
 <ul>
     <li> 
-      <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Chunpeng Ge, Zhiping Cai, and Yue Liu. Hierarchically Contrastive Hard Sample Mining for Graph Self-supervised Pre-training. IEEE Transactions on Neural Networks and Learning Systems (IEEE T-NNLS), 2023. <b>(CCF Rank B, JCR Q1) </b>  [<a href="https://ieeexplore.ieee.org/abstract/document/10223441/authors#authors">Paper</a>] </p> 
+      <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Chunpeng Ge, Zhiping Cai, and Yue Liu. Hierarchically Contrastive Hard Sample Mining for Graph Self-supervised Pre-training. IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), 2023. <b>(CCF Rank B, JCR Q1) </b>  [<a href="https://ieeexplore.ieee.org/abstract/document/10223441/authors#authors">Paper</a>] </p> 
     </li>
   </ul>
 <ul>
