@@ -113,7 +113,7 @@
 ### 2023
 <ul>
   <li> 
-      <p align = "justify"> <b>Wenxuan Tu</b>, Qing Liao, Sihang Zhou, Xin Peng, Chuan Ma, Zhe Liu, Xinwang Liu, Zhiping Cai, and Kunlun He. RARE: Robust Masked Graph Autoencoder. IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE), 2023, (to appear). <b>(CCF Rank A, JCR Q1)</b></p>
+      <p align = "justify"> <b>Wenxuan Tu</b>, Qing Liao, Sihang Zhou, Xin Peng, Chuan Ma, Zhe Liu, Xinwang Liu, Zhiping Cai, and Kunlun He. RARE: Robust Masked Graph Autoencoder. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023, (to appear). <b>(CCF Rank A, JCR Q1)</b></p>
   </li>
 </ul>
  <ul>
@@ -133,7 +133,7 @@
   </ul>
 <ul>
     <li> 
-      <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Chunpeng Ge, Zhiping Cai, and Yue Liu. Hierarchically Contrastive Hard Sample Mining for Graph Self-supervised Pre-training. IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), 2023. <b>(CCF Rank B, JCR Q1) </b>  [<a href="https://ieeexplore.ieee.org/abstract/document/10223441/authors#authors">Paper</a>] </p> 
+      <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Chunpeng Ge, Zhiping Cai, and Yue Liu. Hierarchically Contrastive Hard Sample Mining for Graph Self-supervised Pre-training. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023. <b>(CCF Rank B, JCR Q1) </b>  [<a href="https://ieeexplore.ieee.org/abstract/document/10223441/authors#authors">Paper</a>] </p> 
     </li>
   </ul>
 <ul>
@@ -285,27 +285,9 @@
   
   
 ## Services
- <ul>
-    <li> 
-      <p>Program Committee Member for CVPR 2024, AAAI 2024, ICLR 2024</p>
-    </li>
- </ul>
-    
    <ul>
     <li> 
-      <p>Program Committee Member for CVPR 2023, NeurIPS 2023, ACM MM 2023, AAAI 2023, ICASSP 2023, ICME2023, ACCV 2023</p>
-    </li>
-  </ul>
-
-   <ul>
-    <li> 
-      <p>Program Committee Member for CVPR 2022, ACM MM 2022, ICME 2022</p>
-    </li>
-  </ul>
-  
-   <ul>
-    <li> 
-      <p>Program Committee Member for ACM MM 2021, ICME 2021</p>
+      <p>Program Committee Member for AAAI 2023-2024, ACM MM 2021-2023, CVPR 2022-2024, ICLR 2024, NeurIPS 2023, ICME 2021-2023, ICASSP 2023, ACCV 2023</p>
     </li>
   </ul>
   
