@@ -116,6 +116,16 @@
       <p align = "justify"> <b>Wenxuan Tu</b>, Renxiang Guan, Sihang Zhou, Chuan Ma, Xin Peng, Zhiping Cai, Zhe Liu, Jieren Cheng, and Xinwang Liu. Attribute-missing Graph Clustering Network. Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024, (to appear). <b>(CCF Rank A)</b></p>
   </li>
 </ul>
+<ul>
+  <li> 
+      <p align = "justify"> Ke Liang, Sihang Zhou, Meng Liu, Yue Liu, <b>Wenxuan Tu</b>, Yi Zhang, Liming Fang, Zhe Liu, and Xinwang Liu. Hawkes-enhanced Spatial-Temporal Hypergraph Contrastive Learning based on Criminal Correlations. Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024, (to appear). <b>(CCF Rank A)</b></p>
+  </li>
+</ul>
+<ul>
+  <li> 
+      <p align = "justify"> Ke Liang, Sihang Zhou, Meng Liu, Yue Liu, <b>Wenxuan Tu</b>, Yi Zhang, Liming Fang, Zhe Liu, and Xinwang Liu. Attribute-missing Graph Clustering Network. Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024, (to appear). <b>(CCF Rank A)</b></p>
+  </li>
+</ul>
 
 ### 2023
 <ul>
