@@ -123,7 +123,12 @@
 </ul>
 <ul>
   <li> 
-      <p align = "justify"> Shengju Yu, Siwei Wang, Zhibin Dong, <b>Wenxuan Tu</b>, Suyuan Liu, Zhao Lv, Pan Li, Miao Wang and En Zhu. A Non-parametric Graph Clustering Framework for Multi-view Data. Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024, (to appear). <b>(CCF Rank A)</b></p>
+      <p align = "justify"> Shengju Yu, Siwei Wang, Zhibin Dong, <b>Wenxuan Tu</b>, Suyuan Liu, Zhao Lv, Pan Li, Miao Wang, and En Zhu. A Non-parametric Graph Clustering Framework for Multi-view Data. Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024, (to appear). <b>(CCF Rank A)</b></p>
+  </li>
+</ul>
+<ul>
+  <li> 
+      <p align = "justify"> Ke Liang, Lingyuan Meng, Sihang Zhou, <b>Wenxuan Tu</b>, Siwei Wang, Yue Liu, Meng Liu, Long Zhao, Xiangjun Dong, and Xinwang Liu. MINES: Message Intercommunication for Inductive Relation Reasoning over Neighbor-Enhanced Subgraphs. Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024, (to appear). <b>(CCF Rank A)</b></p>
   </li>
 </ul>
 
