@@ -110,6 +110,13 @@
   </ul>
 
 ## Publications
+### 2024
+<ul>
+  <li> 
+      <p align = "justify"> <b>Wenxuan Tu</b>, Renxiang Guan, Sihang Zhou, Chuan Ma, Xin Peng, Zhiping Cai, Zhe Liu, Jieren Cheng, and Xinwang Liu. Attribute-missing Graph Clustering Network. Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024, (to appear). <b>(CCF Rank A)</b></p>
+  </li>
+</ul>
+
 ### 2023
 <ul>
   <li> 
