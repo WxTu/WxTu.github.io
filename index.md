@@ -112,6 +112,11 @@
 ## Publications
 ### 2024
 <ul>
+    <li> 
+      <p align = "justify"> <b>Wenxuan Tu</b>, Bin Xiao, Xinwang Liu, Sihang Zhou, Zhiping Cai, and Jieren Cheng. Revisiting Initializing Then Refining: An Incomplete and Missing Graph Imputation Network. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2024. <b>(CCF Rank B, JCR Q1) </b>.</p>
+    </li>
+</ul>
+<ul>
   <li> 
       <p align = "justify"> <b>Wenxuan Tu</b>, Renxiang Guan, Sihang Zhou, Chuan Ma, Xin Peng, Zhiping Cai, Zhe Liu, Jieren Cheng, and Xinwang Liu. Attribute-missing Graph Clustering Network. Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024, (to appear). <b>(CCF Rank A)</b></p>
   </li>
@@ -285,11 +290,6 @@
 </ul> 
   
 ### Under Review
-   <ul>
-    <li> 
-      <p align = "justify"> <b>Wenxuan Tu</b>, Bin Xiao, Xinwang Liu, Sihang Zhou, Zhiping Cai, and Jieren Cheng. Revisiting Initializing Then Refining: An Incomplete and Missing Graph Imputation Network. 2023, (under review). [<a href="https://arxiv.org/pdf/2302.07524.pdf">Arxiv</a>] </p>
-    </li>
-  </ul>
    <ul>
     <li> 
       <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Zhiping Cai, Yawei Zhao, Yue Liu, and Kunlun He. WAGE: Weight-sharing Attribute-missing Graph Autoencoder. 2023, (under review). </p>
