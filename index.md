@@ -113,6 +113,11 @@
 ### 2024
 <ul>
     <li> 
+      <p align = "justify"> Meng Liu, Yue Liu, Ke Liang, <b>Wenxuan Tu</b>, Siwei Wang, Sihang Zhou, and Xinwang Liu. Deep Temporal Graph Clustering. Proceedings of the Twelfth International Conference on Learning Representations (ICLR), 2024, (to appear). <b>(CAA/THU Rank A) </b>.</p>
+    </li>
+</ul>
+<ul>
+    <li> 
       <p align = "justify"> <b>Wenxuan Tu</b>, Bin Xiao, Xinwang Liu, Sihang Zhou, Zhiping Cai, and Jieren Cheng. Revisiting Initializing Then Refining: An Incomplete and Missing Graph Imputation Network. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2024, (to appear). <b>(CCF Rank B, JCR Q1) </b>.</p>
     </li>
 </ul>
