@@ -314,7 +314,7 @@
 ## Services
    <ul>
     <li> 
-      <p>Program Committee Member for AAAI 2023-2024, ACM MM 2021-2023, CVPR 2022-2024, ICLR 2024, ECCV 2024, NeurIPS 2023, ICME 2021-2023, ICASSP 2023, ACCV 2023</p>
+      <p>Program Committee Member for AAAI 2023-2024, ACM MM 2021-2023, CVPR 2022-2024, ICLR 2024, ECCV 2024, NeurIPS 2023, ICME 2021-2024, ICASSP 2023-2024, ACCV 2023</p>
     </li>
   </ul>
   
