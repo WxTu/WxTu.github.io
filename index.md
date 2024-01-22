@@ -123,12 +123,12 @@
 </ul>
 <ul>
   <li> 
-      <p align = "justify"> <b>Wenxuan Tu</b>, Renxiang Guan, Sihang Zhou, Chuan Ma, Xin Peng, Zhiping Cai, Zhe Liu, Jieren Cheng, and Xinwang Liu. Attribute-missing Graph Clustering Network. Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024, (to appear). <b>(CCF Rank A)</b></p>
+      <p align = "justify"> <b>Wenxuan Tu</b>, Renxiang Guan, Sihang Zhou, Chuan Ma, Xin Peng, Zhiping Cai, Zhe Liu, Jieren Cheng, and Xinwang Liu. Attribute-Missing Graph Clustering Network. Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024, (to appear). <b>(CCF Rank A)</b></p>
   </li>
 </ul>
 <ul>
   <li> 
-      <p align = "justify"> Shengju Yu, Siwei Wang, Zhibin Dong, <b>Wenxuan Tu</b>, Suyuan Liu, Zhao Lv, Pan Li, Miao Wang, and En Zhu. A Non-parametric Graph Clustering Framework for Multi-view Data. Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024, (to appear). <b>(CCF Rank A)</b></p>
+      <p align = "justify"> Shengju Yu, Siwei Wang, Zhibin Dong, <b>Wenxuan Tu</b>, Suyuan Liu, Zhao Lv, Pan Li, Miao Wang, and En Zhu. A Non-Parametric Graph Clustering Framework for Multi-View Data. Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024, (to appear). <b>(CCF Rank A)</b></p>
   </li>
 </ul>
 <ul>
@@ -138,7 +138,7 @@
 </ul>
 <ul>
   <li> 
-      <p align = "justify"> Ke Liang, Sihang Zhou, Meng Liu, Yue Liu, <b>Wenxuan Tu</b>, Yi Zhang, Liming Fang, Zhe Liu, and Xinwang Liu. Hawkes-enhanced Spatial-Temporal Hypergraph Contrastive Learning based on Criminal Correlations. Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024, (to appear). <b>(CCF Rank A)</b></p>
+      <p align = "justify"> Ke Liang, Sihang Zhou, Meng Liu, Yue Liu, <b>Wenxuan Tu</b>, Yi Zhang, Liming Fang, Zhe Liu, and Xinwang Liu. Hawkes-Enhanced Spatial-Temporal Hypergraph Contrastive Learning based on Criminal Correlations. Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024, (to appear). <b>(CCF Rank A)</b></p>
   </li>
 </ul>
 
@@ -155,7 +155,7 @@
  </ul>
  <ul>
     <li> 
-      <p align = "justify">Xin Peng, Jieren Cheng, Xiangyan Tang, Bin Zhang, and <b>Wenxuan Tu</b>. Multi-view Graph Imputation Network. Information Fusion, 2023. <b>(JCR Q1)</b> [<a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253523003408">Paper</a>]</p>
+      <p align = "justify">Xin Peng, Jieren Cheng, Xiangyan Tang, Bin Zhang, and <b>Wenxuan Tu</b>. Multi-View Graph Imputation Network. Information Fusion, 2023. <b>(JCR Q1)</b> [<a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253523003408">Paper</a>]</p>
     </li>
  </ul>
 <ul>
@@ -165,7 +165,7 @@
   </ul>
 <ul>
     <li> 
-      <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Chunpeng Ge, Zhiping Cai, and Yue Liu. Hierarchically Contrastive Hard Sample Mining for Graph Self-supervised Pre-training. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023. <b>(CCF Rank B, JCR Q1) </b>  [<a href="https://ieeexplore.ieee.org/abstract/document/10223441/authors#authors">Paper</a>] </p> 
+      <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Chunpeng Ge, Zhiping Cai, and Yue Liu. Hierarchically Contrastive Hard Sample Mining for Graph Self-Supervised Pre-Training. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023. <b>(CCF Rank B, JCR Q1) </b>  [<a href="https://ieeexplore.ieee.org/abstract/document/10223441/authors#authors">Paper</a>] </p> 
     </li>
   </ul>
 <ul>
@@ -191,7 +191,7 @@
   </ul>
 <ul>
     <li> 
-      <p align = "justify"> Xihong Yang, Yue Liu, Sihang Zhou, Siwei Wang, <b>Wenxuan Tu</b>, Qun Zheng, Xinwang Liu, Liming Fang, and En Zhu. Cluster-guided Contrastive Graph Clustering Network. Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI), 2023, pages: 10834-10842. <b>(CCF Rank A)</b> [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/26285">Paper</a>]  </p>
+      <p align = "justify"> Xihong Yang, Yue Liu, Sihang Zhou, Siwei Wang, <b>Wenxuan Tu</b>, Qun Zheng, Xinwang Liu, Liming Fang, and En Zhu. Cluster-Guided Contrastive Graph Clustering Network. Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI), 2023, pages: 10834-10842. <b>(CCF Rank A)</b> [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/26285">Paper</a>]  </p>
     </li>
   </ul>
   
@@ -210,7 +210,7 @@
   
   <ul>
     <li> 
-      <p align = "justify"> Siwei Wang, Xinwang Liu, Suyuan Liu, Jiaqi Jin, <b>Wenxuan Tu</b>, Xinzhong Zhu, and En Zhu. Align then Fusion: Generalized Large-scale Multi-view Clustering with Anchor Matching Correspondences. Proceedings of the Thirty-Sixth Annual Conference on Neural Information Processing Systems (NeurIPS), 2022. <b>(CCF Rank A)</b> [<a href="https://arxiv.org/pdf/2205.15075.pdf">Paper</a>], [<a href="https://github.com/wangsiwei2010/NeurIPS22-FMVACC">Code</a>] </p>
+      <p align = "justify"> Siwei Wang, Xinwang Liu, Suyuan Liu, Jiaqi Jin, <b>Wenxuan Tu</b>, Xinzhong Zhu, and En Zhu. Align then Fusion: Generalized Large-Scale Multi-View Clustering with Anchor Matching Correspondences. Proceedings of the Thirty-Sixth Annual Conference on Neural Information Processing Systems (NeurIPS), 2022. <b>(CCF Rank A)</b> [<a href="https://arxiv.org/pdf/2205.15075.pdf">Paper</a>], [<a href="https://github.com/wangsiwei2010/NeurIPS22-FMVACC">Code</a>] </p>
     </li>
   </ul>
   
@@ -228,7 +228,7 @@
 
    <ul>
     <li> 
-      <p align = "justify"> Siwei Wang, Xinwang Liu, Li Liu, <b>Wenxuan Tu</b>, Xinzhong Zhu, Jiyuan Liu, Sihang Zhou, Xinwang Liu, and En Zhu. Highly-efficient Incomplete Large-scale Multi-view Clustering with Consensus Bipartite Graph. Proceedings of the Thirty-Fifth IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022, pages: 9776-9785. <b>(CCF Rank A)</b> [<a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Highly-Efficient_Incomplete_Large-Scale_Multi-View_Clustering_With_Consensus_Bipartite_Graph_CVPR_2022_paper.pdf">Paper</a>], [<a href="https://github.com/wangsiwei2010/CVPR22-IMVC-CBG">Code</a>] </p>
+      <p align = "justify"> Siwei Wang, Xinwang Liu, Li Liu, <b>Wenxuan Tu</b>, Xinzhong Zhu, Jiyuan Liu, Sihang Zhou, Xinwang Liu, and En Zhu. Highly-Efficient Incomplete Large-Scale Multi-View Clustering with Consensus Bipartite Graph. Proceedings of the Thirty-Fifth IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2022, pages: 9776-9785. <b>(CCF Rank A)</b> [<a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Highly-Efficient_Incomplete_Large-Scale_Multi-View_Clustering_With_Consensus_Bipartite_Graph_CVPR_2022_paper.pdf">Paper</a>], [<a href="https://github.com/wangsiwei2010/CVPR22-IMVC-CBG">Code</a>] </p>
     </li>
   </ul>
 
@@ -240,7 +240,7 @@
   
    <ul>
     <li> 
-      <p align = "justify"> Yuxin Huang, Miaomiao Li, <b>Wenxuan Tu</b>, Jiyuan Liu, and Jiahao Ying. Spare Simple MKKM with Semi-infinite Linear Program Optimization. International Journal of Intelligent Systems (IJIS), 37(2): 1113-1128, 2022. <b>(CCF Rank C, JCR Q1)</b> [<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/int.22661">Paper</a>]</p>
+      <p align = "justify"> Yuxin Huang, Miaomiao Li, <b>Wenxuan Tu</b>, Jiyuan Liu, and Jiahao Ying. Spare Simple MKKM with Semi-Infinite Linear Program Optimization. International Journal of Intelligent Systems (IJIS), 37(2): 1113-1128, 2022. <b>(CCF Rank C, JCR Q1)</b> [<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/int.22661">Paper</a>]</p>
     </li>
   </ul>
   
@@ -253,31 +253,31 @@
   
  <ul>
     <li> 
-      <p align = "justify"> Xiangyan Tang, <b>Wenxuan Tu</b>, Keqiu Li, and Jieren Cheng. DFFNet: An IoT-perceptive Dual Feature Fusion Network for General Real-time Semantic Segmentation. Information Sciences, 565: 326-343, 2021. <b>(CCF Rank B, JCR Q1)</b> [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0020025521001389?via%3Dihub">Paper</a>], [<a href="https://github.com/WxTu/DFFNet">Code</a>] </p>
+      <p align = "justify"> Xiangyan Tang, <b>Wenxuan Tu</b>, Keqiu Li, and Jieren Cheng. DFFNet: An IoT-Perceptive Dual Feature Fusion Network for General Real-Time Semantic Segmentation. Information Sciences, 565: 326-343, 2021. <b>(CCF Rank B, JCR Q1)</b> [<a href="https://www.sciencedirect.com/science/article/abs/pii/S0020025521001389?via%3Dihub">Paper</a>], [<a href="https://github.com/WxTu/DFFNet">Code</a>] </p>
     </li>
   </ul> 
   
    <ul>
     <li> 
-      <p align = "justify"> Xinwang Liu, Li Liu, Qing Liao, Chang Tang, Siwei Wang, <b>Wenxuan Tu</b>, Jiyuan Liu, Yi Zhang, and En Zhu. One Pass Late Fusion Multi-view Clustering. Proceedings of the Thirty-Eighth International Conference on Machine Learning (ICML), 2021, pages: 6850-6859. <b>(CCF Rank A)</b> [<a href="http://proceedings.mlr.press/v139/liu21l/liu21l.pdf">Paper</a>], [<a href="https://github.com/WxTu/DFCN">Code</a>] </p>
+      <p align = "justify"> Xinwang Liu, Li Liu, Qing Liao, Chang Tang, Siwei Wang, <b>Wenxuan Tu</b>, Jiyuan Liu, Yi Zhang, and En Zhu. One Pass Late Fusion Multi-View Clustering. Proceedings of the Thirty-Eighth International Conference on Machine Learning (ICML), 2021, pages: 6850-6859. <b>(CCF Rank A)</b> [<a href="http://proceedings.mlr.press/v139/liu21l/liu21l.pdf">Paper</a>], [<a href="https://github.com/WxTu/DFCN">Code</a>] </p>
     </li>
   </ul> 
 
    <ul>
     <li> 
-      <p align = "justify"> Mengjing Sun, Pei Zhang, Siwei Wang, Sihang Zhou, <b>Wenxuan Tu</b>, Xinwang Liu, En Zhu, and Changjian Wang. Scalable Multi-view Subspace Clustering with Unified Anchors. Proceedings of the Twenty-Ninth ACM International Conference on Multimedia (ACM MM), 2021, pages: 3528-3536. <b>(CCF Rank A)</b> [<a href="https://dl.acm.org/doi/10.1145/3474085.3475516">Paper</a>], [<a href="https://github.com/Jeaninezpp/SMVSC">Code</a>] </p>
+      <p align = "justify"> Mengjing Sun, Pei Zhang, Siwei Wang, Sihang Zhou, <b>Wenxuan Tu</b>, Xinwang Liu, En Zhu, and Changjian Wang. Scalable Multi-View Subspace Clustering with Unified Anchors. Proceedings of the Twenty-Ninth ACM International Conference on Multimedia (ACM MM), 2021, pages: 3528-3536. <b>(CCF Rank A)</b> [<a href="https://dl.acm.org/doi/10.1145/3474085.3475516">Paper</a>], [<a href="https://github.com/Jeaninezpp/SMVSC">Code</a>] </p>
     </li>
   </ul> 
 
    <ul>
     <li> 
-      <p align = "justify"> Jiyuan Liu, Xinwang Liu, Yi Zhang, Pei Zhang, <b>Wenxuan Tu</b>, Siwei Wang, Sihang Zhou, Weixuan Liang, Siqi Wang, and Yuexiang Yang. Self-representation Subspace Clustering for Incomplete Multi-view Data. Proceedings of the Twenty-Ninth ACM International Conference on Multimedia (ACM MM), 2021, pages: 2726–2734. <b>(CCF Rank A)</b> [<a href="https://dl.acm.org/doi/10.1145/3474085.3475379">Paper</a>], [<a href="https://github.com/liujiyuan13/IMSR-code_release">Code</a>] </p>
+      <p align = "justify"> Jiyuan Liu, Xinwang Liu, Yi Zhang, Pei Zhang, <b>Wenxuan Tu</b>, Siwei Wang, Sihang Zhou, Weixuan Liang, Siqi Wang, and Yuexiang Yang. Self-Representation Subspace Clustering for Incomplete Multi-View Data. Proceedings of the Twenty-Ninth ACM International Conference on Multimedia (ACM MM), 2021, pages: 2726–2734. <b>(CCF Rank A)</b> [<a href="https://dl.acm.org/doi/10.1145/3474085.3475379">Paper</a>], [<a href="https://github.com/liujiyuan13/IMSR-code_release">Code</a>] </p>
     </li>
   </ul> 
   
   <ul>
     <li> 
-      <p align = "justify"> Jieren Cheng, Xin Peng, Xiangyan Tang, <b>Wenxuan Tu</b>, and Wenhang Xu. MIFNet: A Lightweight Multiscale Information Fusion Network. International Journal of Intelligent Systems (IJIS), 37(9): 5617-5642, 2022. <b>(CCF Rank C, JCR Q1)</b> [<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/int.22804">Paper</a>]</p>
+      <p align = "justify"> Jieren Cheng, Xin Peng, Xiangyan Tang, <b>Wenxuan Tu</b>, and Wenhang Xu. MIFNet: A Lightweight Multi-Scale Information Fusion Network. International Journal of Intelligent Systems (IJIS), 37(9): 5617-5642, 2022. <b>(CCF Rank C, JCR Q1)</b> [<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/int.22804">Paper</a>]</p>
     </li>
   </ul>
 
@@ -290,14 +290,14 @@
   </ul> 
 <ul>
   <li> 
-    <p align = "justify"> Jiankai He, Bin Jiang, Chao Yang, <b>Wenxuan Tu</b>. Hybrid Dilated Convolution Network Using Attentive Kernels for Real-time Semantic Segmentation. Pattern Recognition and Computer Vision (PRCV), 2018. <b>(CCF Rank C)</b> [<a href="https://www.researchgate.net/profile/Bin_Jiang17/publication/346170491_Hybrid_Dilated_Convolution_Network_Using_Attentive_Kernels_for_Real-Time_Semantic_Segmentation/links/61440046a609b152aa1578b7/Hybrid-Dilated-Convolution-Network-Using-Attentive-Kernels-for-Real-Time-Semantic-Segmentation.pdf">Paper</a>] </p>
+    <p align = "justify"> Jiankai He, Bin Jiang, Chao Yang, <b>Wenxuan Tu</b>. Hybrid Dilated Convolution Network Using Attentive Kernels for Real-Time Semantic Segmentation. Pattern Recognition and Computer Vision (PRCV), 2018. <b>(CCF Rank C)</b> [<a href="https://www.researchgate.net/profile/Bin_Jiang17/publication/346170491_Hybrid_Dilated_Convolution_Network_Using_Attentive_Kernels_for_Real-Time_Semantic_Segmentation/links/61440046a609b152aa1578b7/Hybrid-Dilated-Convolution-Network-Using-Attentive-Kernels-for-Real-Time-Semantic-Segmentation.pdf">Paper</a>] </p>
   </li>
 </ul> 
   
 ### Under Review
    <ul>
     <li> 
-      <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Zhiping Cai, Yawei Zhao, Yue Liu, and Kunlun He. WAGE: Weight-sharing Attribute-missing Graph Autoencoder. 2023, (under review). </p>
+      <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Zhiping Cai, Yawei Zhao, Yue Liu, and Kunlun He. WAGE: Weight-Sharing Attribute-Missing Graph Autoencoder. 2023, (under review). </p>
     </li>
   </ul>
 
@@ -305,7 +305,7 @@
  <ul>
     <li> 
       <p>
-      Research on Self-supervised Graph Representation Learning Algorithms and Applications, Postgraduate Scientific Research Innovation Project in Hunan Province (No. CX20220076), Jan. 2023 - Jan. 2025. Principal Investigator.
+      Research on Self-Supervised Graph Representation Learning Algorithms and Applications, Postgraduate Scientific Research Innovation Project in Hunan Province (No. CX20220076), Jan. 2023 - Jan. 2025. Principal Investigator.
       </p>
     </li>
   </ul>
