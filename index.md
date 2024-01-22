@@ -282,7 +282,7 @@
   </ul>
 
   
-### 2020 and Before
+### 2020 \& Before
   <ul>
     <li> 
       <p align = "justify"> Bin Jiang, <b>Wenxuan Tu</b>, Chao Yang, and Junsong Yuan. Context-Integrated and Feature-Refined Network for Lightweight Object Parsing. IEEE Transactions on Image Processing (TIP), 29: 5079-5093, 2020. <b>(CCF Rank A, JCR Q1)</b> [<a href="https://ieeexplore.ieee.org/document/9032321/">Paper</a>], [<a href="https://github.com/xinwangliu/onePassLateFusionMVC/tree/main">Code</a>] </p>
