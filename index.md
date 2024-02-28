@@ -114,7 +114,7 @@
 <ul>
     <li> 
       <p align = "justify"> Renxiang Guan, Zihao Li, <b>Wenxuan Tu</b>, Jun Wang, Yue Liu, Xianju Li, Chang Tang, and Ruyi Feng. Contrastive Multi-view Subspace Clustering of Hyperspectral Images
-based on Graph Convolutional Networks. IEEE Transactions on Geoscience and Remote Sensing (TGARS), 2024. <b>(CCF Rank B, JCR Q1) </b> </p>
+based on Graph Convolutional Networks. IEEE Transactions on Geoscience and Remote Sensing (TGARS), 2024. <b>(CCF Rank B, JCR Q1) </b> [<a href="https://ieeexplore.ieee.org/document/10445484">Paper</a>] </p>
     </li>
 </ul>
 <ul>
