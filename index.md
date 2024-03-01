@@ -166,17 +166,17 @@ based on Graph Convolutional Networks. IEEE Transactions on Geoscience and Remot
  </ul>
 <ul>
     <li> 
-      <p align = "justify"> Meng Liu, Ke Liang, Dayu Hu, Hao Yu, Yue Liu, Lingyuan Meng, <b>Wenxuan Tu</b>, Sihang Zhou, and Xinwang Liu. TMac: Temporal Multi-Modal Graph Learning for Acoustic Event Classification. Proceedings of the Thirty-First ACM International Conference on Multimedia (ACM MM), 2023. <b>(CCF Rank A)</b> [<a href="https://dl.acm.org/doi/abs/10.1145/3581783.3611853?casa_token=wNVnbQcRhOoAAAAA:2qRcn06bFSvACQb9qx8gIEbhwMl17jhqk-O69DLg6od_f3UoTpW-_5jHuV1Dx4Vb_iuztJLQK78wles">Paper</a>]</p> 
+      <p align = "justify"> Meng Liu, Ke Liang, Dayu Hu, Hao Yu, Yue Liu, Lingyuan Meng, <b>Wenxuan Tu</b>, Sihang Zhou, and Xinwang Liu. TMac: Temporal Multi-Modal Graph Learning for Acoustic Event Classification. Proceedings of the Thirty-First ACM International Conference on Multimedia (ACM MM), 2023. <b>(CCF Rank A)</b> [<a href="https://dl.acm.org/doi/abs/10.1145/3581783.3611853?casa_token=wNVnbQcRhOoAAAAA:2qRcn06bFSvACQb9qx8gIEbhwMl17jhqk-O69DLg6od_f3UoTpW-_5jHuV1Dx4Vb_iuztJLQK78wles">Paper</a>], [<a href="https://github.com/MGitHubL/TMac">Code</a>]</p> 
     </li>
   </ul>
 <ul>
     <li> 
-      <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Chunpeng Ge, Zhiping Cai, and Yue Liu. Hierarchically Contrastive Hard Sample Mining for Graph Self-Supervised Pre-Training. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023. <b>(CCF Rank B, JCR Q1) </b>  [<a href="https://ieeexplore.ieee.org/abstract/document/10223441/authors#authors">Paper</a>] </p> 
+      <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Chunpeng Ge, Zhiping Cai, and Yue Liu. Hierarchically Contrastive Hard Sample Mining for Graph Self-Supervised Pre-Training. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2023. <b>(CCF Rank B, JCR Q1) </b>  [<a href="https://ieeexplore.ieee.org/abstract/document/10223441/authors#authors">Paper</a>], [<a href="https://github.com/WxTu/HCHSM">Code</a>] </p> 
     </li>
   </ul>
 <ul>
     <li> 
-      <p align = "justify">Ke Liang, Yue Liu, Sihang Zhou, <b>Wenxuan Tu</b>, Yi Wen, Xihong Yang, Xiangjun Dong, and Xinwang Liu. Knowledge Graph Contrastive Learning based on Relation-Symmetrical Structure. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023. <b>(CCF Rank A, JCR Q1)</b> [<a href="https://ieeexplore.ieee.org/document/10149041">Paper</a>] </p>   
+      <p align = "justify">Ke Liang, Yue Liu, Sihang Zhou, <b>Wenxuan Tu</b>, Yi Wen, Xihong Yang, Xiangjun Dong, and Xinwang Liu. Knowledge Graph Contrastive Learning based on Relation-Symmetrical Structure. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023. <b>(CCF Rank A, JCR Q1)</b> [<a href="https://ieeexplore.ieee.org/document/10149041">Paper</a>], [<a href="https://github.com/LIANGKE23/TKDE23-SymCL">Code</a>]</p>   
     </li>
  </ul>
  <ul>
@@ -186,18 +186,18 @@ based on Graph Convolutional Networks. IEEE Transactions on Geoscience and Remot
  </ul>
 <ul>
     <li> 
-      <p align = "justify">Yue Liu, Xihong Yang, Sihang Zhou, Xinwang Liu, Siwei Wang, Ke Liang, <b>Wenxuan Tu</b>, and Liang Li. Simple Contrastive Graph Clustering. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2022. <b>(CCF Rank B, JCR Q1)</b> [<a href="https://ieeexplore.ieee.org/document/10163985">Paper</a>], [<a href="https://github.com/yueliu1999/SCGC">Code</a>] </p>
+      <p align = "justify">Yue Liu, Xihong Yang, Sihang Zhou, Xinwang Liu, Siwei Wang, Ke Liang, <b>Wenxuan Tu</b>, and Liang Li. Simple Contrastive Graph Clustering. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2022. <b>(CCF Rank B, JCR Q1)</b> [<a href="https://ieeexplore.ieee.org/document/10163985">Paper</a>], [<a href="https://github.com/yueliu1999/SCGC">Code</a>], [<a href="https://github.com/yueliu1999/SCGC">Code</a>] </p>
     </li>
   </ul>
 <ul>
     <li> 
-      <p align = "justify"> Ke Liang, Lingyuan Meng, Meng Liu, Yue Liu, <b>Wenxuan Tu</b>, Siwei Wang, Sihang Zhou, and Xinwang Liu. Learn from Relational Correlations and Periodic Events for Temporal Knowledge Graph Reasoning. Proceedings of the Forty-sixth International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2023, pages: 1559-1568. <b>(CCF Rank A)</b> [<a href="https://dl.acm.org/doi/10.1145/3539618.3591711">Paper</a>] 
+      <p align = "justify"> Ke Liang, Lingyuan Meng, Meng Liu, Yue Liu, <b>Wenxuan Tu</b>, Siwei Wang, Sihang Zhou, and Xinwang Liu. Learn from Relational Correlations and Periodic Events for Temporal Knowledge Graph Reasoning. Proceedings of the Forty-sixth International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR), 2023, pages: 1559-1568. <b>(CCF Rank A)</b> [<a href="https://dl.acm.org/doi/10.1145/3539618.3591711">Paper</a>], [<a href="https://github.com/LIANGKE23/SIGIR23-RPC">Code</a>]
       </p>
     </li>
   </ul>
 <ul>
     <li> 
-      <p align = "justify"> Xihong Yang, Yue Liu, Sihang Zhou, Siwei Wang, <b>Wenxuan Tu</b>, Qun Zheng, Xinwang Liu, Liming Fang, and En Zhu. Cluster-Guided Contrastive Graph Clustering Network. Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI), 2023, pages: 10834-10842. <b>(CCF Rank A)</b> [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/26285">Paper</a>]  </p>
+      <p align = "justify"> Xihong Yang, Yue Liu, Sihang Zhou, Siwei Wang, <b>Wenxuan Tu</b>, Qun Zheng, Xinwang Liu, Liming Fang, and En Zhu. Cluster-Guided Contrastive Graph Clustering Network. Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI), 2023, pages: 10834-10842. <b>(CCF Rank A)</b> [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/26285">Paper</a>], [<a href="https://github.com/xihongyang1999/CCGC">Code</a>]</p>
     </li>
   </ul>
   
