@@ -161,7 +161,7 @@ based on Graph Convolutional Networks. IEEE Transactions on Geoscience and Remot
  </ul>
  <ul>
     <li> 
-      <p align = "justify">Xin Peng, Jieren Cheng, Xiangyan Tang, Bin Zhang, and <b>Wenxuan Tu</b>. Multi-View Graph Imputation Network. Information Fusion, 2023. <b>(JCR Q1)</b> [<a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253523003408">Paper</a>]</p>
+      <p align = "justify">Xin Peng, Jieren Cheng, Xiangyan Tang, Bin Zhang, and <b>Wenxuan Tu</b>. Multi-View Graph Imputation Network. Information Fusion, 2023. <b>(JCR Q1)</b> [<a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253523003408">Paper</a>], [<a href="https://github.com/XinPeng97/MATE">Code</a>]</p>
     </li>
  </ul>
 <ul>
