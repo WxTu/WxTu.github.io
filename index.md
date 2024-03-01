@@ -181,12 +181,12 @@ based on Graph Convolutional Networks. IEEE Transactions on Geoscience and Remot
  </ul>
  <ul>
     <li> 
-      <p align = "justify">Dayu Hu, Ke Liang, Sihang Zhou, <b>Wenxuan Tu</b>, Meng Liu, and Xinwang Liu. scDFC: A Deep Fusion Clustering Method for Single-Cell RNA-Seq Data. Briefings in Bioinformatics (BIB), 2023, (to appear). <b>(CCF Rank B, JCR Q1)</b> [<a href="https://academic.oup.com/bib/article-abstract/24/4/bbad216/7190935?login=false">Paper</a>]</p>
+      <p align = "justify">Dayu Hu, Ke Liang, Sihang Zhou, <b>Wenxuan Tu</b>, Meng Liu, and Xinwang Liu. scDFC: A Deep Fusion Clustering Method for Single-Cell RNA-Seq Data. Briefings in Bioinformatics (BIB), 2023, (to appear). <b>(CCF Rank B, JCR Q1)</b> [<a href="https://academic.oup.com/bib/article-abstract/24/4/bbad216/7190935?login=false">Paper</a>], [<a href="https://github.com/DayuHuu/scDFC">Code</a>]</p>
     </li>
  </ul>
 <ul>
     <li> 
-      <p align = "justify">Yue Liu, Xihong Yang, Sihang Zhou, Xinwang Liu, Siwei Wang, Ke Liang, <b>Wenxuan Tu</b>, and Liang Li. Simple Contrastive Graph Clustering. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2022. <b>(CCF Rank B, JCR Q1)</b> [<a href="https://ieeexplore.ieee.org/document/10163985">Paper</a>], [<a href="https://github.com/yueliu1999/SCGC">Code</a>] </p>
+      <p align = "justify">Yue Liu, Xihong Yang, Sihang Zhou, Xinwang Liu, Siwei Wang, Ke Liang, <b>Wenxuan Tu</b>, and Liang Li. Simple Contrastive Graph Clustering. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2022. <b>(CCF Rank B, JCR Q1)</b> [<a href="https://ieeexplore.ieee.org/document/10163985">Paper</a>], [<a href="https://github.com/yueliu1999/SCGC">Code</a>]</p>
     </li>
   </ul>
 <ul>
