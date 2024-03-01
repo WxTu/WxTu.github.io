@@ -38,65 +38,6 @@
     </li>
   </ul>
 
-## Awards
-  <ul>
-    <li> 
-      <p> <a href="https://mp.weixin.qq.com/s/9IyNy-l_MTKLBFGvTpyaUA">The Honorary Title of "Academic New Star" in the 2023 IJCAI Youth Elite Academic Conference</a>, Shanghai China, 2023.07</p>
-    </li>
-  </ul>
-  <ul>
-    <li> 
-      <p> China Aerospace Science and Technology Corporation Scholarship, Changsha China, 2022.10</p>
-    </li>
-  </ul>
-  <ul>
-    <li> 
-      <p>Outstanding Student Award of School of Computing, National University of Defense Technology, Changsha China, 2022.09</p>
-    </li>
-  </ul>
-  
-  <ul>
-  <li> 
-      <p><a href="https://github.com/WxTu/WxTu.github.io/tree/master/figures/2.jpg">Outstanding Thesis Award for Master's Degree of Hunan University</a>, Changsha China, 2022.06</p>
-    </li>
-  </ul>
-
-  <ul>
-    <li> 
-      <p><a href="https://github.com/WxTu/WxTu.github.io/tree/master/figures/1.jpg">Outstanding Thesis Award for Master's Degree of Hunan Association for Artificial Intelligence</a>, Changsha China, 2021.10</p>
-    </li>
-  </ul>
-  
-  <ul>
-     <li> 
-       <p>Outstanding Student Award of School of Computing, National University of Defense Technology, Changsha China, 2021.07</p>
-     </li>
-   </ul>
-  
-  <ul>
-    <li> 
-      <p>Outstanding Graduated Graduate Student of Hunan Province, Changsha China, 2020.06</p>
-    </li>
-  </ul>
-  
-   <ul>
-    <li> 
-      <p>Outstanding Graduated Graduate Student of Hunan University, Changsha China, 2020.06</p>
-    </li>
-  </ul>
-  
-  <ul>
-    <li> 
-      <p><a href="http://csee.hnu.edu.cn/info/1060/6900.htm">2018 Future Cup University AI Challenges, 1st Place in Central China & Southern China</a>, Changsha China, 2018.09  </p>
-    </li>
-  </ul>
-
-  <ul>
-    <li> 
-      <p><a href="http://csee.hnu.edu.cn/info/1060/7181.htm"> 2018 Future Cup University AI Challenges, 3rd Place in National Finals</a>, Beijing China, 2018.06 </p>
-    </li>
-  </ul>
-
 ## Open Source 
  <ul>
     <li> 
@@ -304,6 +245,65 @@ based on Graph Convolutional Networks. IEEE Transactions on Geoscience and Remot
    <ul>
     <li> 
       <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Zhiping Cai, Yawei Zhao, Yue Liu, and Kunlun He. WAGE: Weight-Sharing Attribute-Missing Graph Autoencoder. 2023, (under review). </p>
+    </li>
+  </ul>
+
+## Awards
+  <ul>
+    <li> 
+      <p> <a href="https://mp.weixin.qq.com/s/9IyNy-l_MTKLBFGvTpyaUA">The Honorary Title of "Academic New Star" in the 2023 IJCAI Youth Elite Academic Conference</a>, Shanghai China, 2023.07</p>
+    </li>
+  </ul>
+  <ul>
+    <li> 
+      <p> China Aerospace Science and Technology Corporation Scholarship, Changsha China, 2022.10</p>
+    </li>
+  </ul>
+  <ul>
+    <li> 
+      <p>Outstanding Student Award of School of Computing, National University of Defense Technology, Changsha China, 2022.09</p>
+    </li>
+  </ul>
+  
+  <ul>
+  <li> 
+      <p><a href="https://github.com/WxTu/WxTu.github.io/tree/master/figures/2.jpg">Outstanding Thesis Award for Master's Degree of Hunan University</a>, Changsha China, 2022.06</p>
+    </li>
+  </ul>
+
+  <ul>
+    <li> 
+      <p><a href="https://github.com/WxTu/WxTu.github.io/tree/master/figures/1.jpg">Outstanding Thesis Award for Master's Degree of Hunan Association for Artificial Intelligence</a>, Changsha China, 2021.10</p>
+    </li>
+  </ul>
+  
+  <ul>
+     <li> 
+       <p>Outstanding Student Award of School of Computing, National University of Defense Technology, Changsha China, 2021.07</p>
+     </li>
+   </ul>
+  
+  <ul>
+    <li> 
+      <p>Outstanding Graduated Graduate Student of Hunan Province, Changsha China, 2020.06</p>
+    </li>
+  </ul>
+  
+   <ul>
+    <li> 
+      <p>Outstanding Graduated Graduate Student of Hunan University, Changsha China, 2020.06</p>
+    </li>
+  </ul>
+  
+  <ul>
+    <li> 
+      <p><a href="http://csee.hnu.edu.cn/info/1060/6900.htm">2018 Future Cup University AI Challenges, 1st Place in Central China & Southern China</a>, Changsha China, 2018.09  </p>
+    </li>
+  </ul>
+
+  <ul>
+    <li> 
+      <p><a href="http://csee.hnu.edu.cn/info/1060/7181.htm"> 2018 Future Cup University AI Challenges, 3rd Place in National Finals</a>, Beijing China, 2018.06 </p>
     </li>
   </ul>
 
