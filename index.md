@@ -151,7 +151,7 @@ based on Graph Convolutional Networks. IEEE Transactions on Geoscience and Remot
 ### 2023
 <ul>
   <li> 
-      <p align = "justify"> <b>Wenxuan Tu</b>, Qing Liao, Sihang Zhou, Xin Peng, Chuan Ma, Zhe Liu, Xinwang Liu, Zhiping Cai, and Kunlun He. RARE: Robust Masked Graph Autoencoder. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023. <b>(CCF Rank A, JCR Q1)</b> [<a href="https://ieeexplore.ieee.org/document/10328443">Paper</a>]</p>
+      <p align = "justify"> <b>Wenxuan Tu</b>, Qing Liao, Sihang Zhou, Xin Peng, Chuan Ma, Zhe Liu, Xinwang Liu, Zhiping Cai, and Kunlun He. RARE: Robust Masked Graph Autoencoder. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2023. <b>(CCF Rank A, JCR Q1)</b> [<a href="https://ieeexplore.ieee.org/document/10328443">Paper</a>], [<a href="https://github.com/WxTu/RARE">Code</a>]</p>
   </li>
 </ul>
  <ul>
