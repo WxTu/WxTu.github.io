@@ -181,7 +181,7 @@ based on Graph Convolutional Networks. IEEE Transactions on Geoscience and Remot
  </ul>
  <ul>
     <li> 
-      <p align = "justify">Dayu Hu, Ke Liang, Sihang Zhou, <b>Wenxuan Tu</b>, Meng Liu, and Xinwang Liu. scDFC: A Deep Fusion Clustering Method for Single-Cell RNA-Seq Data. Briefings in Bioinformatics (BIB), 2023, (to appear). <b>(CCF Rank B, JCR Q1)</b> [<a href="https://academic.oup.com/bib/article-abstract/24/4/bbad216/7190935?login=false">Paper</a>], [<a href="https://github.com/DayuHuu/scDFC">Code</a>]</p>
+      <p align = "justify">Dayu Hu, Ke Liang, Sihang Zhou, <b>Wenxuan Tu</b>, Meng Liu, and Xinwang Liu. scDFC: A Deep Fusion Clustering Method for Single-Cell RNA-Seq Data. Briefings in Bioinformatics (BIB), 2023. <b>(CCF Rank B, JCR Q1)</b> [<a href="https://academic.oup.com/bib/article-abstract/24/4/bbad216/7190935?login=false">Paper</a>], [<a href="https://github.com/DayuHuu/scDFC">Code</a>]</p>
     </li>
  </ul>
 <ul>
