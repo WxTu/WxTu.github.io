@@ -114,17 +114,17 @@
 <ul>
     <li> 
       <p align = "justify"> Renxiang Guan, Zihao Li, <b>Wenxuan Tu</b>, Jun Wang, Yue Liu, Xianju Li, Chang Tang, and Ruyi Feng. Contrastive Multi-view Subspace Clustering of Hyperspectral Images
-based on Graph Convolutional Networks. IEEE Transactions on Geoscience and Remote Sensing (TGARS), 2024. <b>(CCF Rank B, JCR Q1) </b> [<a href="https://ieeexplore.ieee.org/document/10445484">Paper</a>] </p>
+based on Graph Convolutional Networks. IEEE Transactions on Geoscience and Remote Sensing (TGARS), 2024. <b>(CCF Rank B, JCR Q1) </b> [<a href="https://ieeexplore.ieee.org/document/10445484">Paper</a>], [<a href="https://github.com/GuanRX/CMSCGC">Code</a>]</p>
     </li>
 </ul>
 <ul>
     <li> 
-      <p align = "justify"> Meng Liu, Yue Liu, Ke Liang, <b>Wenxuan Tu</b>, Siwei Wang, Sihang Zhou, and Xinwang Liu. Deep Temporal Graph Clustering. Proceedings of the Twelfth International Conference on Learning Representations (ICLR), 2024. <b>(CAA/THU Rank A) </b>[<a href="https://openreview.net/pdf?id=ViNe1fjGME">Paper</a>] </p>
+      <p align = "justify"> Meng Liu, Yue Liu, Ke Liang, <b>Wenxuan Tu</b>, Siwei Wang, Sihang Zhou, and Xinwang Liu. Deep Temporal Graph Clustering. Proceedings of the Twelfth International Conference on Learning Representations (ICLR), 2024. <b>(CAA/THU Rank A) </b>[<a href="https://openreview.net/pdf?id=ViNe1fjGME">Paper</a>], [<a href="https://github.com/MGitHubL/Deep-Temporal-Graph-Clustering">Code</a>]</p>
     </li>
 </ul>
 <ul>
     <li> 
-      <p align = "justify"> <b>Wenxuan Tu</b>, Bin Xiao, Xinwang Liu, Sihang Zhou, Zhiping Cai, and Jieren Cheng. Revisiting Initializing Then Refining: An Incomplete and Missing Graph Imputation Network. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2024. <b>(CCF Rank B, JCR Q1) </b> [<a href="https://ieeexplore.ieee.org/document/10398247">Paper</a>]</p>
+      <p align = "justify"> <b>Wenxuan Tu</b>, Bin Xiao, Xinwang Liu, Sihang Zhou, Zhiping Cai, and Jieren Cheng. Revisiting Initializing Then Refining: An Incomplete and Missing Graph Imputation Network. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2024. <b>(CCF Rank B, JCR Q1) </b> [<a href="https://ieeexplore.ieee.org/document/10398247">Paper</a>], [<a href="https://github.com/WxTu/RITR">Code</a>]</p>
     </li>
 </ul>
 <ul>
