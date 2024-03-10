@@ -336,47 +336,5 @@ based on Graph Convolutional Networks. IEEE Transactions on Geoscience and Remot
   </ul>  
   
 
-## Partnership 
-   <ul>
-    <li> 
-      <p><a href="https://sihangzhou.github.io/">Sihang Zhou</a></p>
-    </li>
-  </ul>
-   <ul>
-    <li> 
-      <p><a href="https://wangsiwei2010.github.io/">Siwei Wang</a></p>
-    </li>
-  </ul>
-   <ul>
-    <li> 
-      <p><a href="https://liujiyuan13.github.io/">Jiyuan Liu</a></p>
-    </li>
-  </ul> 
-   <ul>
-    <li> 
-      <p><a href="https://wx-liang.github.io/">Weixuan Liang</a></p>
-    </li>
-  </ul> 
-  <ul>
-    <li> 
-      <p><a href="">Ke Liang</a></p>
-    </li>
-  </ul>
-   <ul>
-    <li> 
-      <p><a href="https://mgithubl.github.io/">Meng Liu</a></p>
-    </li>
-  </ul> 
-  <ul>
-    <li> 
-      <p><a href="https://xihongyang1999.github.io/">Xihong Yang</a></p>
-    </li>
-  </ul>
-  <ul>
-    <li> 
-      <p><a href="https://yueliu1999.github.io/">Yue Liu</a></p>
-    </li>
-  </ul>
-  
 ## Contact
 <p>Any discussions or concerns are welcomed! Email: [wenxuantu@163.com]</p>
