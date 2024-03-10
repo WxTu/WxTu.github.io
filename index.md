@@ -54,6 +54,11 @@
 ### 2024
 <ul>
     <li> 
+      <p align = "justify"> Xin Peng, Jieren Cheng, Xiangyan Tang, Ziqi Deng, Wenxuan Tu, and Neal Xiong. HSNet: An Intelligent Hierarchical Semantic-Aware Network System for Real-Time Semantic Segmentation. IEEE Transactions on Systems, Man, and Cybernetics: Systems (TSMC), 2024, (to appear). <b>(CCF Rank B, JCR Q1) </b></p>
+    </li>
+</ul>
+<ul>
+    <li> 
       <p align = "justify"> Renxiang Guan, Zihao Li, <b>Wenxuan Tu</b>, Jun Wang, Yue Liu, Xianju Li, Chang Tang, and Ruyi Feng. Contrastive Multi-view Subspace Clustering of Hyperspectral Images
 based on Graph Convolutional Networks. IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024. <b>(CCF Rank B, JCR Q1) </b> [<a href="https://ieeexplore.ieee.org/document/10445484">Paper</a>], [<a href="https://github.com/GuanRX/CMSCGC">Code</a>]</p>
     </li>
