@@ -54,7 +54,7 @@
 ### 2024
 <ul>
     <li> 
-      <p align = "justify"> Xin Peng, Jieren Cheng, Xiangyan Tang, <b>Wenxuan Tu</b>, Wenxuan Tu, and Neal Xiong. HSNet: An Intelligent Hierarchical Semantic-Aware Network System for Real-Time Semantic Segmentation. IEEE Transactions on Systems, Man, and Cybernetics: Systems (TSMC), 2024, (to appear). <b>(CCF Rank B, JCR Q1) </b></p>
+      <p align = "justify"> Xin Peng, Jieren Cheng, Xiangyan Tang, Ziqi Deng, <b>Wenxuan Tu</b>, and Neal Xiong. HSNet: An Intelligent Hierarchical Semantic-Aware Network System for Real-Time Semantic Segmentation. IEEE Transactions on Systems, Man, and Cybernetics: Systems (TSMC), 2024, (to appear). <b>(CCF Rank B, JCR Q1) </b></p>
     </li>
 </ul>
 <ul>
