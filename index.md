@@ -75,7 +75,7 @@ based on Graph Convolutional Networks. IEEE Transactions on Geoscience and Remot
 </ul>
 <ul>
   <li> 
-      <p align = "justify"> <b>Wenxuan Tu</b>, Renxiang Guan, Sihang Zhou, Chuan Ma, Xin Peng, Zhiping Cai, Zhe Liu, Jieren Cheng, and Xinwang Liu. Attribute-Missing Graph Clustering Network. Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024, (to appear). <b>(CCF Rank A)</b></p>
+      <p align = "justify"> <b>Wenxuan Tu</b>, Renxiang Guan, Sihang Zhou, Chuan Ma, Xin Peng, Zhiping Cai, Zhe Liu, Jieren Cheng, and Xinwang Liu. Attribute-Missing Graph Clustering Network. Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024, pages: 15392-15401. <b>(CCF Rank A)</b>[<a href="https://ojs.aaai.org/index.php/AAAI/article/view/29464">Paper</a>], [<a href="https://github.com/WxTu/AMGC">Code</a>]</p>
   </li>
 </ul>
 <ul>
