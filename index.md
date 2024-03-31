@@ -107,7 +107,7 @@ based on Graph Convolutional Networks. IEEE Transactions on Geoscience and Remot
 </ul>
  <ul>
     <li> 
-      <p align = "justify">Meng Liu, <b>Wenxuan Tu</b>, Ke Liang, and Xinwang Liu. Structural Embedding Pre-Training for Deep Temporal Graph Learning. Proceedings of the Fifth China Symposium on Cognitive Computing and Hybrid Intelligence (CCHI), 2023. <b>(CAA Rank A, Best Student Paper)</b>[<a href="https://ieeexplore.ieee.org/abstract/document/10450968">Paper</a>]</p> 
+      <p align = "justify">Meng Liu, <b>Wenxuan Tu</b>, Ke Liang, and Xinwang Liu. Structural Embedding Pre-Training for Deep Temporal Graph Learning. Proceedings of the Fifth China Symposium on Cognitive Computing and Hybrid Intelligence (CCHI), 2023. <b>(CAA Rank A, Best Student Paper)</b> [<a href="https://ieeexplore.ieee.org/abstract/document/10450968">Paper</a>]</p> 
     </li>
  </ul>
 <ul>
@@ -149,7 +149,7 @@ based on Graph Convolutional Networks. IEEE Transactions on Geoscience and Remot
   
  <ul>
     <li> 
-      <p align = "justify"> Yue Liu, Xihong Yang, Sihang Zhou, Xinwang Liu, Zhen Wang, Ke Liang, <b>Wenxuan Tu</b>, Liang Li, Jingcan Duan, and Cancan Chen. Hard Sample Aware Network for Contrastive Deep Graph Clustering. Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI), pages: 8914-8922, 2023. <b>(CCF Rank A)</b> [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/26071">Paper</a>], [<a href="https://github.com/yueliu1999/HSAN">Code</a>] </p>
+      <p align = "justify"> Yue Liu, Xihong Yang, Sihang Zhou, Xinwang Liu, Zhen Wang, Ke Liang, <b>Wenxuan Tu</b>, Liang Li, Jingcan Duan, and Cancan Chen. Hard Sample Aware Network for Contrastive Deep Graph Clustering. Proceedings of the Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI), 2023, pages: 8914-8922. <b>(CCF Rank A)</b> [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/26071">Paper</a>], [<a href="https://github.com/yueliu1999/HSAN">Code</a>] </p>
     </li>
   </ul>
   
