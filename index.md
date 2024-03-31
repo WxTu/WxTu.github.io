@@ -78,6 +78,11 @@ based on Graph Convolutional Networks. IEEE Transactions on Geoscience and Remot
       <p align = "justify"> <b>Wenxuan Tu</b>, Renxiang Guan, Sihang Zhou, Chuan Ma, Xin Peng, Zhiping Cai, Zhe Liu, Jieren Cheng, and Xinwang Liu. Attribute-Missing Graph Clustering Network. Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024, pages: 15392-15401. <b>(CCF Rank A)</b>[<a href="https://ojs.aaai.org/index.php/AAAI/article/view/29464">Paper</a>], [<a href="https://github.com/WxTu/AMGC">Code</a>]</p>
   </li>
 </ul>
+ <ul>
+    <li> 
+      <p align = "justify">Xin Peng, Jieren Cheng, Xiangyan Tang, Bin Zhang, and <b>Wenxuan Tu</b>. Multi-View Graph Imputation Network. Information Fusion, 102: 102024, 2024. <b>(JCR Q1)</b> [<a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253523003408">Paper</a>], [<a href="https://github.com/XinPeng97/MATE">Code</a>]</p>
+    </li>
+ </ul>
 <ul>
   <li> 
       <p align = "justify"> Shengju Yu, Siwei Wang, Zhibin Dong, <b>Wenxuan Tu</b>, Suyuan Liu, Zhao Lv, Pan Li, Miao Wang, and En Zhu. A Non-Parametric Graph Clustering Framework for Multi-View Data. Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024, pages: 16558-16567. <b>(CCF Rank A)</b>[<a href="https://ojs.aaai.org/index.php/AAAI/article/view/29594">Paper</a>]</p>
@@ -103,11 +108,6 @@ based on Graph Convolutional Networks. IEEE Transactions on Geoscience and Remot
  <ul>
     <li> 
       <p align = "justify">Meng Liu, <b>Wenxuan Tu</b>, Ke Liang, and Xinwang Liu. Structural Embedding Pre-Training for Deep Temporal Graph Learning. Proceedings of the Fifth China Symposium on Cognitive Computing and Hybrid Intelligence (CCHI), 2023. <b>(CAA Rank A, Best Student Paper)</b>[<a href="https://ieeexplore.ieee.org/abstract/document/10450968">Paper</a>]</p> 
-    </li>
- </ul>
- <ul>
-    <li> 
-      <p align = "justify">Xin Peng, Jieren Cheng, Xiangyan Tang, Bin Zhang, and <b>Wenxuan Tu</b>. Multi-View Graph Imputation Network. Information Fusion, 2023. <b>(JCR Q1)</b> [<a href="https://www.sciencedirect.com/science/article/abs/pii/S1566253523003408">Paper</a>], [<a href="https://github.com/XinPeng97/MATE">Code</a>]</p>
     </li>
  </ul>
 <ul>
