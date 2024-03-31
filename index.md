@@ -80,17 +80,17 @@ based on Graph Convolutional Networks. IEEE Transactions on Geoscience and Remot
 </ul>
 <ul>
   <li> 
-      <p align = "justify"> Shengju Yu, Siwei Wang, Zhibin Dong, <b>Wenxuan Tu</b>, Suyuan Liu, Zhao Lv, Pan Li, Miao Wang, and En Zhu. A Non-Parametric Graph Clustering Framework for Multi-View Data. Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024, (to appear). <b>(CCF Rank A)</b></p>
+      <p align = "justify"> Shengju Yu, Siwei Wang, Zhibin Dong, <b>Wenxuan Tu</b>, Suyuan Liu, Zhao Lv, Pan Li, Miao Wang, and En Zhu. A Non-Parametric Graph Clustering Framework for Multi-View Data. Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024, pages: 16558-16567. <b>(CCF Rank A)</b>[<a href="https://ojs.aaai.org/index.php/AAAI/article/view/29594">Paper</a>]</p>
   </li>
 </ul>
 <ul>
   <li> 
-      <p align = "justify"> Ke Liang, Lingyuan Meng, Sihang Zhou, <b>Wenxuan Tu</b>, Siwei Wang, Yue Liu, Meng Liu, Long Zhao, Xiangjun Dong, and Xinwang Liu. MINES: Message Intercommunication for Inductive Relation Reasoning over Neighbor-Enhanced Subgraphs. Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024, (to appear). <b>(CCF Rank A)</b></p>
+      <p align = "justify"> Ke Liang, Lingyuan Meng, Sihang Zhou, <b>Wenxuan Tu</b>, Siwei Wang, Yue Liu, Meng Liu, Long Zhao, Xiangjun Dong, and Xinwang Liu. MINES: Message Intercommunication for Inductive Relation Reasoning over Neighbor-Enhanced Subgraphs. Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024, pages: 10645-10653. <b>(CCF Rank A)</b>[<a href="https://ojs.aaai.org/index.php/AAAI/article/view/28935">Paper</a>]</p>
   </li>
 </ul>
 <ul>
   <li> 
-      <p align = "justify"> Ke Liang, Sihang Zhou, Meng Liu, Yue Liu, <b>Wenxuan Tu</b>, Yi Zhang, Liming Fang, Zhe Liu, and Xinwang Liu. Hawkes-Enhanced Spatial-Temporal Hypergraph Contrastive Learning based on Criminal Correlations. Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024, (to appear). <b>(CCF Rank A)</b></p>
+      <p align = "justify"> Ke Liang, Sihang Zhou, Meng Liu, Yue Liu, <b>Wenxuan Tu</b>, Yi Zhang, Liming Fang, Zhe Liu, and Xinwang Liu. Hawkes-Enhanced Spatial-Temporal Hypergraph Contrastive Learning based on Criminal Correlations. Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024, pages: 8733-8741. <b>(CCF Rank A)</b>[<a href="https://ojs.aaai.org/index.php/AAAI/article/view/28719">Paper</a>]</p>
   </li>
 </ul>
 
@@ -102,7 +102,7 @@ based on Graph Convolutional Networks. IEEE Transactions on Geoscience and Remot
 </ul>
  <ul>
     <li> 
-      <p align = "justify">Meng Liu, <b>Wenxuan Tu</b>, Ke Liang, and Xinwang Liu. Structural Embedding Pre-Training for Deep Temporal Graph Learning. Proceedings of the Fifth China Symposium on Cognitive Computing and Hybrid Intelligence (CCHI), 2023, (to appear). <b>(CAA Rank A, Best Student Paper)</b> </p> 
+      <p align = "justify">Meng Liu, <b>Wenxuan Tu</b>, Ke Liang, and Xinwang Liu. Structural Embedding Pre-Training for Deep Temporal Graph Learning. Proceedings of the Fifth China Symposium on Cognitive Computing and Hybrid Intelligence (CCHI), 2023. <b>(CAA Rank A, Best Student Paper)</b>[<a href="https://ieeexplore.ieee.org/abstract/document/10450968">Paper</a>]</p> 
     </li>
  </ul>
  <ul>
@@ -112,7 +112,7 @@ based on Graph Convolutional Networks. IEEE Transactions on Geoscience and Remot
  </ul>
 <ul>
     <li> 
-      <p align = "justify"> Meng Liu, Ke Liang, Dayu Hu, Hao Yu, Yue Liu, Lingyuan Meng, <b>Wenxuan Tu</b>, Sihang Zhou, and Xinwang Liu. TMac: Temporal Multi-Modal Graph Learning for Acoustic Event Classification. Proceedings of the Thirty-First ACM International Conference on Multimedia (ACM MM), 2023. <b>(CCF Rank A)</b> [<a href="https://dl.acm.org/doi/abs/10.1145/3581783.3611853?casa_token=wNVnbQcRhOoAAAAA:2qRcn06bFSvACQb9qx8gIEbhwMl17jhqk-O69DLg6od_f3UoTpW-_5jHuV1Dx4Vb_iuztJLQK78wles">Paper</a>], [<a href="https://github.com/MGitHubL/TMac">Code</a>]</p> 
+      <p align = "justify"> Meng Liu, Ke Liang, Dayu Hu, Hao Yu, Yue Liu, Lingyuan Meng, <b>Wenxuan Tu</b>, Sihang Zhou, and Xinwang Liu. TMac: Temporal Multi-Modal Graph Learning for Acoustic Event Classification. Proceedings of the Thirty-First ACM International Conference on Multimedia (ACM MM), 2023, pages: 3365–3374. <b>(CCF Rank A)</b> [<a href="https://dl.acm.org/doi/abs/10.1145/3581783.3611853?casa_token=wNVnbQcRhOoAAAAA:2qRcn06bFSvACQb9qx8gIEbhwMl17jhqk-O69DLg6od_f3UoTpW-_5jHuV1Dx4Vb_iuztJLQK78wles">Paper</a>], [<a href="https://github.com/MGitHubL/TMac">Code</a>]</p> 
     </li>
   </ul>
 <ul>
