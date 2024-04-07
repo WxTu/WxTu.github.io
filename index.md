@@ -54,6 +54,11 @@
 ### 2024
 <ul>
     <li> 
+      <p align = "justify"> Meng Liu, Ke Liang, Yawei Zhao, <b>Wenxuan Tu</b>, Sihang Zhou, Xinbiao Gan, Xinwang Liu, Kunlun He: Self-Supervised Temporal Graph Learning with Temporal and Structural Intensity Alignment. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2024, (to appear) <b>(CCF Rank B, JCR Q1) </b></p>
+    </li>
+</ul>
+<ul>
+    <li> 
       <p align = "justify"> Xin Peng, Jieren Cheng, Xiangyan Tang, Ziqi Deng, <b>Wenxuan Tu</b>, and Neal Xiong. HSNet: An Intelligent Hierarchical Semantic-Aware Network System for Real-Time Semantic Segmentation. IEEE Transactions on Systems, Man, and Cybernetics: Systems (TSMC), 2024, (to appear). <b>(CCF Rank B, JCR Q1) </b></p>
     </li>
 </ul>
