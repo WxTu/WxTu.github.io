@@ -55,7 +55,7 @@
 
 <ul>
     <li> 
-      <p align = "justify"> Shengju Yu, Zhibin Dong, Siwei Wang, Xinhang Wan, Yue Liu, Weixuan Liang, Pei Zhang, <b>Wenxuan Tu</b>, Xinwang Liu: Towards Resource-friendly, Extensible and Stable Incomplete Multi-view Clustering. Proceedings of the Forty-First International Conference on Machine Learning (ICML), 2024, (to appear) <b>(CCF Rank A) </b></p>
+      <p align = "justify"> Shengju Yu, Zhibin Dong, Siwei Wang, Xinhang Wan, Yue Liu, Weixuan Liang, Pei Zhang, <b>Wenxuan Tu</b>, Xinwang Liu: Towards Resource-Friendly, Extensible and Stable Incomplete Multi-View Clustering. Proceedings of the Forty-First International Conference on Machine Learning (ICML), 2024, (to appear) <b>(CCF Rank A) </b></p>
     </li>
 </ul>
 <ul>
