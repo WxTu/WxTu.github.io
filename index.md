@@ -55,12 +55,12 @@
 
 <ul>
     <li> 
-      <p align = "justify"> Shengju Yu, Zhibin Dong, Siwei Wang, Xinhang Wan, Yue Liu, Weixuan Liang, Pei Zhang, <b>Wenxuan Tu</b>, and Xinwang Liu: Towards Resource-Friendly, Extensible and Stable Incomplete Multi-View Clustering. Proceedings of the Forty-First International Conference on Machine Learning (ICML), 2024, (to appear). <b>(CCF Rank A) </b></p>
+      <p align = "justify"> Shengju Yu, Zhibin Dong, Siwei Wang, Xinhang Wan, Yue Liu, Weixuan Liang, Pei Zhang, <b>Wenxuan Tu</b>, and Xinwang Liu. Towards Resource-Friendly, Extensible and Stable Incomplete Multi-View Clustering. Proceedings of the Forty-First International Conference on Machine Learning (ICML), 2024, (to appear). <b>(CCF Rank A) </b></p>
     </li>
 </ul>
 <ul>
     <li> 
-      <p align = "justify"> Meng Liu, Ke Liang, Yawei Zhao, <b>Wenxuan Tu</b>, Sihang Zhou, Xinbiao Gan, Xinwang Liu, and Kunlun He: Self-Supervised Temporal Graph Learning with Temporal and Structural Intensity Alignment. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2024, (to appear). <b>(CCF Rank B, JCR Q1) </b></p>
+      <p align = "justify"> Meng Liu, Ke Liang, Yawei Zhao, <b>Wenxuan Tu</b>, Sihang Zhou, Xinbiao Gan, Xinwang Liu, and Kunlun He. Self-Supervised Temporal Graph Learning with Temporal and Structural Intensity Alignment. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2024, (to appear). <b>(CCF Rank B, JCR Q1) </b></p>
     </li>
 </ul>
 <ul>
