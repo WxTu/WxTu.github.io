@@ -52,10 +52,14 @@
 
 ## Publications
 ### 2024
-
 <ul>
     <li> 
       <p align = "justify"> Shengju Yu, Zhibin Dong, Siwei Wang, Xinhang Wan, Yue Liu, Weixuan Liang, Pei Zhang, <b>Wenxuan Tu</b>, and Xinwang Liu. Towards Resource-Friendly, Extensible and Stable Incomplete Multi-View Clustering. Proceedings of the Forty-First International Conference on Machine Learning (ICML), 2024, (to appear). <b>(CCF Rank A) </b></p>
+    </li>
+</ul>
+<ul>
+    <li> 
+      <p align = "justify"> Yue Liu, Sihang Zhou, Xihong Yang, Xinwang Liu, <b>Wenxuan Tu</b>, Liang Li, Xin Xu, and Fuchun Sun. Improved Dual Correlation Reduction Network. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2024, (to appear). <b>(CCF Rank B, JCR Q1) </b></p>
     </li>
 </ul>
 <ul>
@@ -332,7 +336,7 @@ based on Graph Convolutional Networks. IEEE Transactions on Geoscience and Remot
 ## Services
    <ul>
     <li> 
-      <p>Program Committee Member for AAAI 2023-2024, ACM MM 2021-2024, CVPR 2022-2024, ICML 2024, ICLR 2024, ECCV 2024, NeurIPS 2023, ICME 2021-2024, ICASSP 2023-2024, ACCV 2023</p>
+      <p>Program Committee Member for AAAI 2023-2024, ACM MM 2021-2024, CVPR 2022-2024, ICML 2024, ICLR 2024, ECCV 2024, NeurIPS 2023-2024, ICME 2021-2024, ICASSP 2023-2024, ACCV 2023</p>
     </li>
   </ul>
   
