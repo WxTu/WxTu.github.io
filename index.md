@@ -54,6 +54,11 @@
 ### 2024
 <ul>
     <li> 
+      <p align = "justify"> Ke Liang, Lingyuan Meng, Meng Liu, Yue Liu, <b>Wenxuan Tu</b>, Siwei Wang, Sihang Zhou, Xinwang Liu, Fuchun Sun, Kunlun He: A Survey of Knowledge Graph Reasoning on Graph Types: Static, Dynamic, and Multi-Modal. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024, (to appear). <b>(CCF Rank A) </b></p>
+    </li>
+</ul>
+<ul>
+    <li> 
       <p align = "justify"> Shengju Yu, Zhibin Dong, Siwei Wang, Xinhang Wan, Yue Liu, Weixuan Liang, Pei Zhang, <b>Wenxuan Tu</b>, and Xinwang Liu. Towards Resource-Friendly, Extensible and Stable Incomplete Multi-View Clustering. Proceedings of the Forty-First International Conference on Machine Learning (ICML), 2024, (to appear). <b>(CCF Rank A) </b></p>
     </li>
 </ul>
