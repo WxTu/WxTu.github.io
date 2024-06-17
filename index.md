@@ -79,7 +79,7 @@
 </ul>
 <ul>
     <li> 
-      <p align = "justify"> Linxuan Song, <b>Wenxuan Tu</b>, Sihang Zhou, and En Zhu. GANN: Graph Alignment Neural Network for Semi-Supervised Learning. Pattern Recognition, 2024. <b>(CCF Rank B, JCR Q1) </b>[<a href="https://www.sciencedirect.com/science/article/pii/S0031320324002358">Paper</a>]</p>
+      <p align = "justify"> Linxuan Song, <b>Wenxuan Tu</b>, Sihang Zhou, and En Zhu. GANN: Graph Alignment Neural Network for Semi-Supervised Learning. Pattern Recognition, 154: 110484, 2024. <b>(CCF Rank B, JCR Q1) </b>[<a href="https://www.sciencedirect.com/science/article/pii/S0031320324002358">Paper</a>]</p>
     </li>
 </ul>
 <ul>
