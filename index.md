@@ -54,7 +54,12 @@
 ### 2024
 <ul>
     <li> 
-      <p align = "justify"> Ke Liang, Lingyuan Meng, Meng Liu, Yue Liu, <b>Wenxuan Tu</b>, Siwei Wang, Sihang Zhou, Xinwang Liu, Fuchun Sun, Kunlun He: A Survey of Knowledge Graph Reasoning on Graph Types: Static, Dynamic, and Multi-Modal. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024, (to appear). <b>(CCF Rank A) </b></p>
+      <p align = "justify"> Fangqiang Xu, <b>Wenxuan Tu</b>, Fan Feng, Malitha Gunawardhana, Jiayuan Yang, Yun Gu, and Jichao Zhao: Dynamic Position Transformation and Boundary Refinement Network for Left Atrial Segmentation. Proceedings of the Twenty-Seventh International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2024, (to appear). <b>(CCF Rank A) </b></p>
+    </li>
+</ul>
+<ul>
+    <li> 
+      <p align = "justify"> Ke Liang, Lingyuan Meng, Meng Liu, Yue Liu, <b>Wenxuan Tu</b>, Siwei Wang, Sihang Zhou, Xinwang Liu, Fuchun Sun, and Kunlun He: A Survey of Knowledge Graph Reasoning on Graph Types: Static, Dynamic, and Multi-Modal. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024, (to appear). <b>(CCF Rank A) </b></p>
     </li>
 </ul>
 <ul>
