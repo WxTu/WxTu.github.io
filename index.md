@@ -64,22 +64,22 @@
 </ul>
 <ul>
     <li> 
-      <p align = "justify"> Shengju Yu, Zhibin Dong, Siwei Wang, Xinhang Wan, Yue Liu, Weixuan Liang, Pei Zhang, <b>Wenxuan Tu</b>, and Xinwang Liu. Towards Resource-Friendly, Extensible and Stable Incomplete Multi-View Clustering. Proceedings of the Forty-First International Conference on Machine Learning (ICML), 2024, (to appear). <b>(CCF Rank A) </b></p>
+      <p align = "justify"> Shengju Yu, Zhibin Dong, Siwei Wang, Xinhang Wan, Yue Liu, Weixuan Liang, Pei Zhang, <b>Wenxuan Tu</b>, and Xinwang Liu. Towards Resource-Friendly, Extensible and Stable Incomplete Multi-View Clustering. Proceedings of the Forty-First International Conference on Machine Learning (ICML), 2024. <b>(CCF Rank A) </b>[<a href="https://icml.cc/virtual/2024/poster/34180">Paper</a>]</p>
     </li>
 </ul>
 <ul>
     <li> 
-      <p align = "justify"> Yue Liu, Sihang Zhou, Xihong Yang, Xinwang Liu, <b>Wenxuan Tu</b>, Liang Li, Xin Xu, and Fuchun Sun. Improved Dual Correlation Reduction Network. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2024, (to appear). <b>(CCF Rank B, JCR Q1) </b></p>
+      <p align = "justify"> Yue Liu, Sihang Zhou, Xihong Yang, Xinwang Liu, <b>Wenxuan Tu</b>, Liang Li, Xin Xu, and Fuchun Sun. Improved Dual Correlation Reduction Network with Affinity Recovery. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2024, (to appear). <b>(CCF Rank B, JCR Q1) </b></p>
     </li>
 </ul>
 <ul>
     <li> 
-      <p align = "justify"> Meng Liu, Ke Liang, Yawei Zhao, <b>Wenxuan Tu</b>, Sihang Zhou, Xinbiao Gan, Xinwang Liu, and Kunlun He. Self-Supervised Temporal Graph Learning with Temporal and Structural Intensity Alignment. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2024, (to appear). <b>(CCF Rank B, JCR Q1) </b></p>
-    </li>
+      <p align = "justify"> Meng Liu, Ke Liang, Yawei Zhao, <b>Wenxuan Tu</b>, Sihang Zhou, Xinbiao Gan, Xinwang Liu, and Kunlun He. Self-Supervised Temporal Graph Learning with Temporal and Structural Intensity Alignment. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2024. <b>(CCF Rank B, JCR Q1) </b>[<a href="https://ieeexplore.ieee.org/document/10506201">Paper</a>]</p>
+    </li>  
 </ul>
 <ul>
     <li> 
-      <p align = "justify"> Xin Peng, Jieren Cheng, Xiangyan Tang, Ziqi Deng, <b>Wenxuan Tu</b>, and Neal Xiong. HSNet: An Intelligent Hierarchical Semantic-Aware Network System for Real-Time Semantic Segmentation. IEEE Transactions on Systems, Man, and Cybernetics: Systems (TSMC), 2024, (to appear). <b>(CCF Rank B, JCR Q1) </b></p>
+      <p align = "justify"> Xin Peng, Jieren Cheng, Xiangyan Tang, Ziqi Deng, <b>Wenxuan Tu</b>, and Neal Xiong. HSNet: An Intelligent Hierarchical Semantic-Aware Network System for Real-Time Semantic Segmentation. IEEE Transactions on Systems, Man, and Cybernetics: Systems (TSMC), 54(7): 4318-4330, 2024. <b>(CCF Rank B, JCR Q1) </b>[<a href="https://ieeexplore.ieee.org/abstract/document/10495017">Paper</a>]</p>
     </li>
 </ul>
 <ul>
