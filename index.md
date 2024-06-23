@@ -54,7 +54,7 @@
 ### 2024
 <ul>
     <li> 
-      <p align = "justify"> Fangqiang Xu, <b>Wenxuan Tu</b>, Fan Feng, Malitha Gunawardhana, Jiayuan Yang, Yun Gu, and Jichao Zhao. Dynamic Position Transformation and Boundary Refinement Network for Left Atrial Segmentation. Proceedings of the Twenty-Seventh International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2024, (to appear). <b>(CCF Rank B, Top) </b></p>
+      <p align = "justify"> Fangqiang Xu, <b>Wenxuan Tu#</b>, Fan Feng, Malitha Gunawardhana, Jiayuan Yang, Yun Gu, and Jichao Zhao. Dynamic Position Transformation and Boundary Refinement Network for Left Atrial Segmentation. Proceedings of the Twenty-Seventh International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI), 2024, (to appear). <b>(CCF Rank B, Top) </b></p>
     </li>
 </ul>
 <ul>
