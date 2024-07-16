@@ -352,7 +352,7 @@ based on Graph Convolutional Networks. IEEE Transactions on Geoscience and Remot
   
    <ul>
     <li> 
-      <p>Reviewer for IEEE TPAMI, IEEE TKDE, IEEE TNNLS, ACM TOMM, Neurocomputing</p>
+      <p>Reviewer for IEEE TPAMI, IEEE TKDE, IEEE TNNLS, IEEE TCSVT, ACM TOMM, Neurocomputing</p>
     </li>
   </ul>  
   
