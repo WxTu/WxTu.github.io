@@ -54,7 +54,7 @@
 ### 2024
 <ul>
     <li> 
-      <p align = "justify">  Ke Liang, Lingyuan Meng, Yue Liu, Meng Liu, Wei Wei, Siwei Wang, Suyuan Liu, <b>Wenxuan Tu#</b>, Sihang Zhou, and Xinwang Liu. Simple Yet Effective: Structure Guided Pre-trained Transformer for Multi-modal Knowledge Graph Reasoning. Proceedings of the Thirty-Second ACM International Conference on Multimedia (ACM MM), 2024, (to appear). <b>(CCF Rank A) </b></p>
+      <p align = "justify">  Ke Liang, Lingyuan Meng, Yue Liu, Meng Liu, Wei Wei, Siwei Wang, Suyuan Liu, <b>Wenxuan Tu</b>, Sihang Zhou, and Xinwang Liu. Simple Yet Effective: Structure Guided Pre-trained Transformer for Multi-modal Knowledge Graph Reasoning. Proceedings of the Thirty-Second ACM International Conference on Multimedia (ACM MM), 2024, (to appear). <b>(CCF Rank A) </b></p>
     </li>
 </ul>
 <ul>
