@@ -25,10 +25,11 @@
   <ul>
     <li> 
       <p>[Sep. 2020 - Dec. 2023] Doctor, National University of Defense Technology, Changsha, China </p>
-    </li>
     <li> 
       <p>[Sep. 2020 - Dec. 2023] Doctor, National University of Defense Technology, Changsha, China </p>
     </li>
+    </li>
+   
   </ul>
 <ul>
     <li> 
