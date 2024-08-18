@@ -22,10 +22,13 @@
  
 
 ## Education Experience
-  <ul>
-    <li> 
-      <p>[Sep. 2020 - Dec. 2023] Doctor, National University of Defense Technology, Changsha, China </p>
-    </li>
+    <ul>
+  	<li><p>[Sep. 2020 - Dec. 2023] Doctor, National University of Defense Technology, Changsha, China </p>					
+  		<ul>
+  			<li>碧螺春</li>
+  			<li>龙井</li>
+  		</ul>
+  	</li>
   </ul>
   <ul>
     <li> 
@@ -38,14 +41,7 @@
     </li>
   </ul>
   
-  <ul>
-  	<li>茶					
-  		<ul>
-  			<li>碧螺春</li>
-  			<li>龙井</li>
-  		</ul>
-  	</li>
-  </ul>
+
 
 ## Open Source 
  <ul>
