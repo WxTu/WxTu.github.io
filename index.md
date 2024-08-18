@@ -37,7 +37,21 @@
       <p>[Sep. 2013 - Jul. 2017] Bachelor, Hainan University, Haikou, China </p>
     </li>
   </ul>
-
+  
+  <ul>
+  	<li>咖啡
+  		<ol>				<!-- 有序列表的嵌套 -->
+  			<li>拿铁</li>
+  			<li>摩卡</li>
+  		</ol>
+  	</li>
+  	<li>茶					<!-- 无序列表的嵌套 -->
+  		<ul>
+  			<li>碧螺春</li>
+  			<li>龙井</li>
+  		</ul>
+  	</li>
+  </ul>
 
 ## Open Source 
  <ul>
