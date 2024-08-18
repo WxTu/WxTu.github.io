@@ -23,7 +23,7 @@
 
 ## Education Experience
     <ul>
-  	<li>[Sep. 2020 - Dec. 2023] Doctor, National University of Defense Technology, Changsha, China 					
+  	<li>茶					
   		<ul>
   			<li>碧螺春</li>
   			<li>龙井</li>
