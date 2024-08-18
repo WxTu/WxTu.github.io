@@ -25,6 +25,12 @@
   <ul>
     <li> 
       <p>[Sep. 2020 - Dec. 2023] Doctor, National University of Defense Technology, Changsha, China </p>
+      <ul>
+    <li> 
+      <p>[Sep. 2020 - Dec. 2023] Doctor, National University of Defense Technology, Changsha, China </p>
+    </li>
+  </ul>
+<ul>
     </li>
   </ul>
 <ul>
@@ -37,6 +43,7 @@
       <p>[Sep. 2013 - Jul. 2017] Bachelor, Hainan University, Haikou, China </p>
     </li>
   </ul>
+
 
 ## Open Source 
  <ul>
