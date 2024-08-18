@@ -19,14 +19,13 @@
 
 ## Short Bio
   <p align = "justify"> Before Jun. 2024, I decided to devote myself to the construction of <a href="https://www.hnftp.gov.cn/">Hainan Free Trade Port (Hainan FTP)</a>. I am currently an associate professor at the School of Computer Science and Technology, Hainan University, Haikou, China. I received the Ph.D. degree in Computer Science from National University of Defense Technology, under the co-supervision of Professor <a href="https://scholar.google.com/citations?user=uVwk4XIAAAAJ&hl=en">Zhiping Cai (蔡志平)</a> and Professor <a href="https://xinwangliu.github.io/">Xinwang Liu (刘新旺)</a>. I have published papers in highly regarded journals and conferences such as IEEE TPAMI, IEEE TIP, IEEE TNNLS, IEEE TKDE, IEEE TGRS, IEEE TSMC, AAAI, IJCAI, CVPR, NeurIPS, ICLR, ICML, etc. My research interests include clustering analysis, graph machine learning, and computer vision.</p>
- 
 
 ## Education Experience
   <ul>
   	<li><p>[Sep. 2020 - Dec. 2023] Doctor, National University of Defense Technology, Changsha, China  </p>					
   		<ul>
-  			<li><p>[Sep. 2020 - Dec. 2023] Doctor, National University of Defense Technology, Changsha, China  </p>	</li>
-  			<li><p>[Sep. 2020 - Dec. 2023] Doctor, National University of Defense Technology, Changsha, China  </p>	</li>
+  			<li><p>[Aug. 2022 - Dec. 2023] Visiting student, Zhejiang Lab, Hangzhou, China</p></li>
+  			<li><p>[Sep. 2020 - Dec. 2023] Visiting student, Peng Cheng Laboratory, Shenzhen, China</p></li>
   		</ul>
   	</li>
   </ul>
