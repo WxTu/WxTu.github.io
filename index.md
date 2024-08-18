@@ -23,10 +23,6 @@
 ## Education Experience
   <ul>
   	<li><p>[Sep. 2020 - Dec. 2023] Doctor, National University of Defense Technology, Changsha, China	</p>			
-  		<ul>
-  			<li>[Aug. 2022 - Dec. 2023] Visiting student, <a href="https://www.zhejianglab.org/lab/home">Zhejiang Lab</a>, Hangzhou, China</li>
-  			<li><p>[Sep. 2020 - Jan. 2022] Visiting student, <a href="https://www.pcl.ac.cn/">Peng Cheng Laboratory</a>, Shenzhen, China</p></li>
-  		</ul>
   	</li>
   </ul>
   <ul>
