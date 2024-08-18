@@ -25,13 +25,9 @@
   <ul>
     <li> 
       <p>[Sep. 2020 - Dec. 2023] Doctor, National University of Defense Technology, Changsha, China </p>
-    <li> 
-      <p>[Sep. 2020 - Dec. 2023] Doctor, National University of Defense Technology, Changsha, China </p>
     </li>
-    </li>
-   
   </ul>
-<ul>
+  <ul>
     <li> 
       <p>[Sep. 2017 - Jul. 2020] Master, Hunan University, Changsha, China </p>
     </li>
