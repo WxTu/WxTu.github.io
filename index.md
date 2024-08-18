@@ -10,7 +10,6 @@
     <td align="left">
       <p>Email: wenxuantu@163.com</p>
       <p WxTu.github.io>School of Computer Science and Technology, Hainan University</p>
-      <p WxTu.github.io>Hainan Blockchain Technology Engineering Research Center</p>
       <p>Address: No. 58 Renmin Avenue, Meilan District, Haikou, Hainan, China</p>
       <p>[<a href="https://scholar.google.com/citations?user=MmH2POsAAAAJ&hl=zh-CN">Google Scholar</a>] [<a href="https://dblp.org/pid/240/2589.html">DBLP</a>] [<a href="https://www.researchgate.net/profile/Tu-Wenxuan">ResearchGate</a>] [<a href="https://github.com/WxTu">Github</a>] [<a href="https://orcid.org/my-orcid">ORCID</a>]</p>
     </td>
