@@ -18,7 +18,7 @@
 </table>
 
 ## Short Bio
-  <p align = "justify"> I am an associate professor at the School of Computer Science and Technology, Hainan University, Haikou, China. I received the Ph.D. degree in Computer Science from National University of Defense Technology, under the co-supervision of Professor  <a href="https://scholar.google.com/citations?user=uVwk4XIAAAAJ&hl=en">Zhiping Cai</a> and Professor <a href="https://xinwangliu.github.io/">Xinwang Liu</a>. I have published papers in highly regarded journals and conferences such as IEEE TPAMI, IEEE TIP, IEEE TNNLS, IEEE TKDE, IEEE TGRS, IEEE TSMC, AAAI, IJCAI, CVPR, NeurIPS, ICLR, ICML, etc. My research interests include clustering analysis, graph machine learning, and computer vision.</p>
+  <p align = "justify"> I am  an associate professor at the School of Computer Science and Technology, Hainan University, Haikou, China. I received the Ph.D. degree in Computer Science from National University of Defense Technology, under the co-supervision of Professor  <a href="https://scholar.google.com/citations?user=uVwk4XIAAAAJ&hl=en">Zhiping Cai</a> and Professor <a href="https://xinwangliu.github.io/">Xinwang Liu</a>. I have published papers in highly regarded journals and conferences such as IEEE TPAMI, IEEE TIP, IEEE TNNLS, IEEE TKDE, IEEE TGRS, IEEE TSMC, AAAI, IJCAI, CVPR, NeurIPS, ICLR, ICML, etc. My research interests include clustering analysis, graph machine learning, and computer vision.</p>
  
 
 ## Education Experience
