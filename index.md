@@ -5,7 +5,7 @@
 <table class="imgtable">
   <tr>
     <td>
-      <img src="/figures/twx.jpg" alt="Wenxuan Tu" width="140px" height="185px" />&nbsp;
+      <img src="/figures/twx.jpg" alt="Wenxuan Tu" width="145px" height="180px" />&nbsp;
     </td>
     <td align="left">
       <p>Email: wenxuantu@163.com</p>
