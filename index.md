@@ -54,6 +54,12 @@
 ### 2024
 <ul>
     <li> 
+      <p align = "justify"> Renxiang Guan, <b>Wenxuan Tu</b>, Zihao Li, Hao Yu, Dayu Hu, Yuzeng Chen, Chang Tang, Qiangqiang Yuan, and Xinwang Liu. Spatial-Spectral Graph Contrastive Clustering with Hard Sample Mining for Hyperspectral Images. IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024, (to appear). <b>(CCF Rank B, JCR Q1) </b></p>
+    </li>
+</ul>
+
+<ul>
+    <li> 
       <p align = "justify"> Siwei Wang, Xinwang Liu, Suyuan Liu, <b>Wenxuan Tu</b>, and En Zhu. Scalable and Structural Multi-view Graph Clustering with Adaptive Anchor Fusion. IEEE Transactions on Image Processing (TIP), 2024. <b>(CCF Rank A, JCR Q1) </b>[<a href="https://ieeexplore.ieee.org/document/10643455">Paper</a>]</p>
     </li>
 </ul>
@@ -69,7 +75,7 @@
 </ul>
 <ul>
     <li> 
-      <p align = "justify"> Ke Liang, Lingyuan Meng, Meng Liu, Yue Liu, <b>Wenxuan Tu</b>, Siwei Wang, Sihang Zhou, Xinwang Liu, Fuchun Sun, and Kunlun He. A Survey of Knowledge Graph Reasoning on Graph Types: Static, Dynamic, and Multi-Modal. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024. <b>(CCF Rank A)</b> [<a href="https://ieeexplore.ieee.org/document/10577554">Paper</a>]</p>
+      <p align = "justify"> Ke Liang, Lingyuan Meng, Meng Liu, Yue Liu, <b>Wenxuan Tu</b>, Siwei Wang, Sihang Zhou, Xinwang Liu, Fuchun Sun, and Kunlun He. A Survey of Knowledge Graph Reasoning on Graph Types: Static, Dynamic, and Multi-Modal. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024. <b>(CCF Rank A, JCR Q1)</b> [<a href="https://ieeexplore.ieee.org/document/10577554">Paper</a>]</p>
     </li>
 </ul>
 <ul>
