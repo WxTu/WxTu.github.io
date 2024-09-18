@@ -70,7 +70,7 @@
 </ul>
 <ul>
     <li> 
-      <p align = "justify"> Ke Liang, Lingyuan Meng, Meng Liu, Yue Liu, <b>Wenxuan Tu</b>, Siwei Wang, Sihang Zhou, Xinwang Liu, Fuchun Sun, and Kunlun He. A Survey of Knowledge Graph Reasoning on Graph Types: Static, Dynamic, and Multi-Modal. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024, (to appear). <b>(CCF Rank A, JCR Q1) </b></p>
+      <p align = "justify"> Ke Liang, Lingyuan Meng, Meng Liu, Yue Liu, <b>Wenxuan Tu</b>, Siwei Wang, Sihang Zhou, Xinwang Liu, Fuchun Sun, and Kunlun He. A Survey of Knowledge Graph Reasoning on Graph Types: Static, Dynamic, and Multi-Modal. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2024. </b>[<a href="https://ieeexplore.ieee.org/document/10577554">Paper</a>]</p>
     </li>
 </ul>
 <ul>
@@ -80,7 +80,7 @@
 </ul>
 <ul>
     <li> 
-      <p align = "justify"> Yue Liu, Sihang Zhou, Xihong Yang, Xinwang Liu, <b>Wenxuan Tu</b>, Liang Li, Xin Xu, and Fuchun Sun. Improved Dual Correlation Reduction Network with Affinity Recovery. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2024, (to appear). <b>(CCF Rank B, JCR Q1) </b></p>
+      <p align = "justify"> Yue Liu, Sihang Zhou, Xihong Yang, Xinwang Liu, <b>Wenxuan Tu</b>, Liang Li, Xin Xu, and Fuchun Sun. Improved Dual Correlation Reduction Network with Affinity Recovery. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2024. <b>(CCF Rank B, JCR Q1) </b>[<a href="https://ieeexplore.ieee.org/document/10605097">Paper</a>]</p>
     </li>
 </ul>
 <ul>
