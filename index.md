@@ -54,7 +54,7 @@
 ### 2024
 <ul>
     <li> 
-      <p align = "justify"> Renxiang Guan, <b>Wenxuan Tu</b>, Zihao Li, Hao Yu, Dayu Hu, Yuzeng Chen, Chang Tang, Qiangqiang Yuan, and Xinwang Liu. Spatial-Spectral Graph Contrastive Clustering with Hard Sample Mining for Hyperspectral Images. IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024, (to appear). <b>(CCF Rank B, JCR Q1) </b></p>
+      <p align = "justify"> Renxiang Guan, <b>Wenxuan Tu</b>, Zihao Li, Hao Yu, Dayu Hu, Yuzeng Chen, Chang Tang, Qiangqiang Yuan, and Xinwang Liu. Spatial-Spectral Graph Contrastive Clustering with Hard Sample Mining for Hyperspectral Images. IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024. <b>(CCF Rank B, JCR Q1) </b> [<a href="https://ieeexplore.ieee.org/document/10684766">Paper</a>]</p>
     </li>
 </ul>
 
@@ -300,6 +300,11 @@ based on Graph Convolutional Networks. IEEE Transactions on Geoscience and Remot
   </ul>
 
 ## Awards
+  <ul>
+    <li> 
+      <p> ACM Changsha Chapter Doctoral Dissertation Award, Changsha China, 2024.09</p>
+    </li>
+  </ul>
   <ul>
     <li> 
       <p> <a href="https://mp.weixin.qq.com/s/9IyNy-l_MTKLBFGvTpyaUA">The Honorary Title of "Academic New Star" in the 2023 IJCAI Youth Elite Academic Conference</a>, Shanghai China, 2023.07</p>
