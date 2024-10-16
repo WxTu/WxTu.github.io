@@ -53,6 +53,11 @@
 ## Publications
 ### 2024
 <ul>
+  <li> 
+      <p align = "justify"> Hao Yu, Ke Liang, Dayu Hu, <b>Wenxuan Tu</b>, Chuan Ma, Sihang Zhou, and Xinwang Liu. GZOO: Black-box Node Injection Attack on Graph Neural Networks via Zeroth-order Optimization. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024, (to appear). <b>(CCF Rank A, JCR Q1)</b></p>
+  </li>
+</ul>
+<ul>
     <li> 
       <p align = "justify"> Renxiang Guan, <b>Wenxuan Tu</b>, Zihao Li, Hao Yu, Dayu Hu, Yuzeng Chen, Chang Tang, Qiangqiang Yuan, and Xinwang Liu. Spatial-Spectral Graph Contrastive Clustering with Hard Sample Mining for Hyperspectral Images. IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024. <b>(CCF Rank B, JCR Q1) </b> [<a href="https://ieeexplore.ieee.org/document/10684766">Paper</a>]</p>
     </li>
