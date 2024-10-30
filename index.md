@@ -378,7 +378,7 @@ based on Graph Convolutional Networks. IEEE Transactions on Geoscience and Remot
   
    <ul>
     <li> 
-      <p>Reviewer for IEEE TPAMI, IEEE TIP, IEEE TKDE, IEEE TNNLS, IEEE TCSVT, IEEE TII, ACM TOMM, Neurocomputing</p>
+      <p>Reviewer for IEEE TPAMI, IEEE TIP, IEEE TKDE, IEEE TNNLS, IEEE TCSVT, IEEE TII, ACM TOMM, IEEE JBHI, Neurocomputing</p>
     </li>
   </ul>  
   
