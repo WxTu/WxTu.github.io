@@ -51,10 +51,22 @@
   </ul>
 
 ## Publications
+### 2025
+<ul>
+  <li> 
+      <p align = "justify"> Jingxin Liu, Jieren Cheng, Renda Han, <b>Wenxuan Tu</b>, Jiaxin Wang, and Xin Peng. Federated Graph-Level Clustering Network. Proceedings of the Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI), 2025, (to appear). <b>(CCF Rank A)</b></p>
+  </li>
+</ul>
+<ul>
+    <li> 
+      <p align = "justify"> Renxiang Guan, <b>Wenxuan Tu</b>, Siwei Wang, Jiyuan Liu, Dayu Hu, Chang Tang, Yu Feng, Junhong Li, Baili Xiao, and Xinwang Liu. Structure-Adaptive Multi-View Graph Clustering for Remote Sensing Data. Proceedings of the Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI), 2025, (to appear). <b>(CCF Rank A)</b></p>
+    </li>
+</ul>
+
 ### 2024
 <ul>
   <li> 
-      <p align = "justify"> Hao Yu, Ke Liang, Dayu Hu, <b>Wenxuan Tu</b>, Chuan Ma, Sihang Zhou, and Xinwang Liu. GZOO: Black-box Node Injection Attack on Graph Neural Networks via Zeroth-order Optimization. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024, (to appear). <b>(CCF Rank A, JCR Q1)</b></p>
+      <p align = "justify"> Hao Yu, Ke Liang, Dayu Hu, <b>Wenxuan Tu</b>, Chuan Ma, Sihang Zhou, and Xinwang Liu. GZOO: Black-box Node Injection Attack on Graph Neural Networks via Zeroth-order Optimization. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024. <b>(CCF Rank A, JCR Q1)</b>[<a href="https://ieeexplore.ieee.org/abstract/document/10726692">Paper</a>]</p>
   </li>
 </ul>
 <ul>
@@ -62,7 +74,6 @@
       <p align = "justify"> Renxiang Guan, <b>Wenxuan Tu</b>, Zihao Li, Hao Yu, Dayu Hu, Yuzeng Chen, Chang Tang, Qiangqiang Yuan, and Xinwang Liu. Spatial-Spectral Graph Contrastive Clustering with Hard Sample Mining for Hyperspectral Images. IEEE Transactions on Geoscience and Remote Sensing (TGRS), 2024. <b>(CCF Rank B, JCR Q1) </b> [<a href="https://ieeexplore.ieee.org/document/10684766">Paper</a>]</p>
     </li>
 </ul>
-
 <ul>
     <li> 
       <p align = "justify"> Siwei Wang, Xinwang Liu, Suyuan Liu, <b>Wenxuan Tu</b>, and En Zhu. Scalable and Structural Multi-view Graph Clustering with Adaptive Anchor Fusion. IEEE Transactions on Image Processing (TIP), 2024. <b>(CCF Rank A, JCR Q1) </b>[<a href="https://ieeexplore.ieee.org/document/10643455">Paper</a>]</p>
