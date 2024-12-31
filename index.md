@@ -54,12 +54,12 @@
 ### 2025
 <ul>
   <li> 
-      <p align = "justify"> Jingxin Liu, Jieren Cheng, Renda Han, <b>Wenxuan Tu</b>, Jiaxin Wang, and Xin Peng. Federated Graph-Level Clustering Network. Proceedings of the Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI), 2025, (to appear). <b>(CCF Rank A)</b></p>
+      <p align = "justify"> Jingxin Liu, Jieren Cheng, Renda Han, <b>Wenxuan Tu#</b>, Jiaxin Wang, and Xin Peng. Federated Graph-Level Clustering Network. Proceedings of the Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI), 2025, (to appear). <b>(CCF Rank A)</b></p>
   </li>
 </ul>
 <ul>
     <li> 
-      <p align = "justify"> Renxiang Guan, <b>Wenxuan Tu</b>, Siwei Wang, Jiyuan Liu, Dayu Hu, Chang Tang, Yu Feng, Junhong Li, Baili Xiao, and Xinwang Liu. Structure-Adaptive Multi-View Graph Clustering for Remote Sensing Data. Proceedings of the Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI), 2025, (to appear). <b>(CCF Rank A)</b></p>
+      <p align = "justify"> Renxiang Guan, <b>Wenxuan Tu#</b>, Siwei Wang, Jiyuan Liu, Dayu Hu, Chang Tang, Yu Feng, Junhong Li, Baili Xiao, and Xinwang Liu. Structure-Adaptive Multi-View Graph Clustering for Remote Sensing Data. Proceedings of the Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI), 2025, (to appear). <b>(CCF Rank A)</b></p>
     </li>
 </ul>
 
