@@ -261,7 +261,7 @@ based on Graph Convolutional Networks. IEEE Transactions on Geoscience and Remot
 ### 2021
    <ul>
     <li> 
-      <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Xifeng Guo, Zhiping Cai, En hu, and Jieren Cheng. Deep Fusion Clustering Network. Proceedings of the Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI), 2021, pages: 9978-9987. <b>(CCF Rank A)</b> [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/17198">Paper</a>], [<a href="https://github.com/WxTu/DFCN">Code</a>] </p>
+      <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Xifeng Guo, Zhiping Cai, En Zhu, and Jieren Cheng. Deep Fusion Clustering Network. Proceedings of the Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI), 2021, pages: 9978-9987. <b>(CCF Rank A)</b> [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/17198">Paper</a>], [<a href="https://github.com/WxTu/DFCN">Code</a>] </p>
     </li>
   </ul>
   
