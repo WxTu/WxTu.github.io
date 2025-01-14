@@ -54,6 +54,11 @@
 ### 2025
 <ul>
   <li> 
+      <p align = "justify"> Xiangyan Tang, Jingxin Liu, Keqiu Li, <b>Wenxuan Tu#</b>, Xinbin Xu, and Neal N. Xiong. IIM-ARE: An Effective Interactive Incentive Mechanism Based on Adaptive Reputation Evaluation for Mobile Crowd Sensing. IEEE Internet of Things Journal (IoTJ), 2025, (to appear). <b>(CCF Rank C, JCR Q1)</b></p>
+  </li>
+</ul>
+<ul>
+  <li> 
       <p align = "justify"> Jingxin Liu, Jieren Cheng, Renda Han, <b>Wenxuan Tu#</b>, Jiaxin Wang, and Xin Peng. Federated Graph-Level Clustering Network. Proceedings of the Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI), 2025, (to appear). <b>(CCF Rank A)</b></p>
   </li>
 </ul>
