@@ -388,6 +388,11 @@ based on Graph Convolutional Networks. IEEE Transactions on Geoscience and Remot
 ## Services
    <ul>
     <li> 
+      <p>Senior Program Committee Member for IJCAI 2025</p>
+    </li>
+  </ul>
+   <ul>
+    <li> 
       <p>Program Committee Member for AAAI 2023-2025, ACM MM 2021-2024, CVPR 2022-2025, ICML 2024-2025, ICLR 2024-2025, ECCV 2024, NeurIPS 2023-2024, ICME 2021-2025, ICASSP 2023-2024, ACCV 2023</p>
     </li>
   </ul>
