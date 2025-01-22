@@ -71,7 +71,7 @@
 ### 2024
 <ul>
   <li> 
-      <p align = "justify"> Hao Yu, Ke Liang, Dayu Hu, <b>Wenxuan Tu</b>, Chuan Ma, Sihang Zhou, and Xinwang Liu. GZOO: Black-box Node Injection Attack on Graph Neural Networks via Zeroth-order Optimization. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024. <b>(CCF Rank A, JCR Q1)</b>[<a href="https://ieeexplore.ieee.org/abstract/document/10726692">Paper</a>]</p>
+      <p align = "justify"> Hao Yu, Ke Liang, Dayu Hu, <b>Wenxuan Tu</b>, Chuan Ma, Sihang Zhou, and Xinwang Liu. GZOO: Black-box Node Injection Attack on Graph Neural Networks via Zeroth-order Optimization. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024. <b>(CCF Rank A, JCR Q1)</b> [<a href="https://ieeexplore.ieee.org/abstract/document/10726692">Paper</a>]</p>
   </li>
 </ul>
 <ul>
@@ -81,7 +81,7 @@
 </ul>
 <ul>
     <li> 
-      <p align = "justify"> Siwei Wang, Xinwang Liu, Suyuan Liu, <b>Wenxuan Tu</b>, and En Zhu. Scalable and Structural Multi-view Graph Clustering with Adaptive Anchor Fusion. IEEE Transactions on Image Processing (TIP), 2024. <b>(CCF Rank A, JCR Q1) </b>[<a href="https://ieeexplore.ieee.org/document/10643455">Paper</a>]</p>
+      <p align = "justify"> Siwei Wang, Xinwang Liu, Suyuan Liu, <b>Wenxuan Tu</b>, and En Zhu. Scalable and Structural Multi-view Graph Clustering with Adaptive Anchor Fusion. IEEE Transactions on Image Processing (TIP), 2024. <b>(CCF Rank A, JCR Q1)</b> [<a href="https://ieeexplore.ieee.org/document/10643455">Paper</a>]</p>
     </li>
 </ul>
 <ul>
