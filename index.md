@@ -60,7 +60,7 @@
       
 <ul>
   <li> 
-      <p align = "justify"> Xiangyan Tang, Jingxin Liu, Keqiu Li, <b>Wenxuan Tu</b>, Xinbin Xu, and Neal N. Xiong. IIM-ARE: An Effective Interactive Incentive Mechanism Based on Adaptive Reputation Evaluation for Mobile Crowd Sensing. IEEE Internet of Things Journal (IoT), 2025. <b>(CCF Rank C, JCR Q1)</b>[<a href="https://ieeexplore.ieee.org/abstract/document/10845844">Paper</a>]</p>
+      <p align = "justify"> Xiangyan Tang, Jingxin Liu, Keqiu Li, <b>Wenxuan Tu</b>, Xinbin Xu, and Neal N. Xiong. IIM-ARE: An Effective Interactive Incentive Mechanism Based on Adaptive Reputation Evaluation for Mobile Crowd Sensing. IEEE Internet of Things Journal (IoT), 2025. <b>(CCF Rank C, JCR Q1)</b> [<a href="https://ieeexplore.ieee.org/abstract/document/10845844">Paper</a>]</p>
   </li>
 </ul>
 <ul>
