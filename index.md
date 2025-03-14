@@ -54,9 +54,10 @@
 ### 2025
  <ul>
   <li> 
-    <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Zhiping Cai, Yawei Zhao, Yue Liu, and Kunlun He. WAGE: Weight-Sharing Attribute-Missing Graph Autoencoder. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025 (to appear). <b>(CCF Rank A, JCR Q1). </p>
+    <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Zhiping Cai, Yawei Zhao, Yue Liu, and Kunlun He. WAGE: Weight-Sharing Attribute-Missing Graph Autoencoder. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025 (to appear). <b>(CCF Rank A, JCR Q1)</b>. </p>
   </li>
 </ul>
+      
 <ul>
   <li> 
       <p align = "justify"> Xiangyan Tang, Jingxin Liu, Keqiu Li, <b>Wenxuan Tu</b>, Xinbin Xu, and Neal N. Xiong. IIM-ARE: An Effective Interactive Incentive Mechanism Based on Adaptive Reputation Evaluation for Mobile Crowd Sensing. IEEE Internet of Things Journal (IoT), 2025, (to appear). <b>(CCF Rank C, JCR Q1)</b></p>
