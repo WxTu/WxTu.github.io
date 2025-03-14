@@ -54,7 +54,7 @@
 ### 2025
  <ul>
   <li> 
-    <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Zhiping Cai, Yawei Zhao, Yue Liu, and Kunlun He. WAGE: Weight-Sharing Attribute-Missing Graph Autoencoder. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025 (to appear). <b>(CCF Rank A, JCR Q1)</b>. </p>
+    <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Zhiping Cai, Yawei Zhao, Yue Liu, and Kunlun He. WAGE: Weight-Sharing Attribute-Missing Graph Autoencoder. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025, (to appear). <b>(CCF Rank A, JCR Q1)</b>. </p>
   </li>
 </ul>
       
