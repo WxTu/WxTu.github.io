@@ -388,7 +388,7 @@ based on Graph Convolutional Networks. IEEE Transactions on Geoscience and Remot
 ## Services
    <ul>
     <li> 
-      <p>Area Chair/Senior Program Committee Member for ACM MM 2025, IJCAI 2025</p>
+      <p>Area Chair / Senior Program Committee Member for ACM MM 2025, IJCAI 2025</p>
     </li>
   </ul>
    <ul>
