@@ -55,12 +55,12 @@
  <ul>
   <li> 
     <p align = "justify"> Renxiang Guan, <b>Wenxuan Tu</b>, Dayu Hu, Weixuan Liang, Ke Liang, Yaowen Hu, Yue Liu, and Xinwang Liu. Prototype-Driven Multi-View Attribute-Missing Graph
-Clustering. IEEE Transactions on Multimedia (TMM), 2025, (to appear). <b>(CCF Rank B, JCR Q1)</b> </p>
+Clustering. IEEE Transactions on Multimedia (TMM), 2025. <b>(CCF Rank A, JCR Q1) </b>[<a href="https://ieeexplore.ieee.org/document/10937935">Paper</a>]</p>
   </li>
 </ul>
  <ul>
   <li> 
-    <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Zhiping Cai, Yawei Zhao, Yue Liu, and Kunlun He. WAGE: Weight-Sharing Attribute-Missing Graph Autoencoder. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025, (to appear). <b>(CCF Rank A, JCR Q1)</b> </p>
+    <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Zhiping Cai, Yawei Zhao, Yue Liu, and Kunlun He. WAGE: Weight-Sharing Attribute-Missing Graph Autoencoder. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025. <b>(CCF Rank A, JCR Q1) </b>[<a href="https://ieeexplore.ieee.org/document/10937935">Paper</a>]</p>
   </li>
 </ul> 
 <ul>
@@ -75,7 +75,7 @@ Clustering. IEEE Transactions on Multimedia (TMM), 2025, (to appear). <b>(CCF Ra
 </ul>
 <ul>
     <li> 
-      <p align = "justify"> Renxiang Guan, <b>Wenxuan Tu#</b>, Siwei Wang, Jiyuan Liu, Dayu Hu, Chang Tang, Yu Feng, Junhong Li, Baili Xiao, and Xinwang Liu. Structure-Adaptive Multi-View Graph Clustering for Remote Sensing Data. Proceedings of the Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI), 2024, pages: 15392-15401. <b>(CCF Rank A)</b> [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/29464">Paper</a>]</p>
+      <p align = "justify"> Renxiang Guan, <b>Wenxuan Tu#</b>, Siwei Wang, Jiyuan Liu, Dayu Hu, Chang Tang, Yu Feng, Junhong Li, Baili Xiao, and Xinwang Liu. Structure-Adaptive Multi-View Graph Clustering for Remote Sensing Data. Proceedings of the Thirty-Ninth AAAI Conference on Artificial Intelligence (AAAI), 2025, pages: 16933-16941. <b>(CCF Rank A)</b> [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/33861">Paper</a>]</p>
     </li>
 </ul>
 
