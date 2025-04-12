@@ -60,7 +60,7 @@ Clustering. IEEE Transactions on Multimedia (TMM), 2025. <b>(CCF Rank A, JCR Q1)
 </ul>
  <ul>
   <li> 
-    <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Zhiping Cai, Yawei Zhao, Yue Liu, and Kunlun He. WAGE: Weight-Sharing Attribute-Missing Graph Autoencoder. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025. <b>(CCF Rank A, JCR Q1) </b>[<a href="https://ieeexplore.ieee.org/document/10937935">Paper</a>]</p>
+    <p align = "justify"> <b>Wenxuan Tu</b>, Sihang Zhou, Xinwang Liu, Zhiping Cai, Yawei Zhao, Yue Liu, and Kunlun He. WAGE: Weight-Sharing Attribute-Missing Graph Autoencoder. IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025, (to appear). <b>(CCF Rank B, JCR Q1) </b></p>
   </li>
 </ul> 
 <ul>
