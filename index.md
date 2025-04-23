@@ -50,7 +50,7 @@
     </li>
   </ul>
 
-## Publications
+## Publications (# corresponding author / * co-first author)
 ### 2025
  <ul>
   <li> 
@@ -234,7 +234,7 @@ based on Graph Convolutional Networks. IEEE Transactions on Geoscience and Remot
 ### 2022
   <ul>
     <li> 
-      <p align = "justify"> Lei Gong*, <b>Wenxuan Tu*</b>, Sihang Zhou, Long Zhao, Zhe Liu, and Xinwang Liu. Deep Fusion Clustering Network with Reliable Structure Preservation. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2022. <b>(CCF Rank B, JCR Q1)</b> [<a href="https://ieeexplore.ieee.org/document/9954258">Paper</a>], [<a href="https://github.com/gongleii/DFCN-RSP">Code</a>] </p>
+      <p align = "justify"> Lei Gong, <b>Wenxuan Tu*</b>, Sihang Zhou, Long Zhao, Zhe Liu, and Xinwang Liu. Deep Fusion Clustering Network with Reliable Structure Preservation. IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2022. <b>(CCF Rank B, JCR Q1)</b> [<a href="https://ieeexplore.ieee.org/document/9954258">Paper</a>], [<a href="https://github.com/gongleii/DFCN-RSP">Code</a>] </p>
     </li>
   </ul>
   
@@ -264,7 +264,7 @@ based on Graph Convolutional Networks. IEEE Transactions on Geoscience and Remot
 
 <ul>
     <li> 
-      <p align = "justify"> Yue Liu*, <b>Wenxuan Tu*</b>, Sihang Zhou, Xinwang Liu, Linxuan Song, Xihong Yang, and En Zhu. Deep Graph Clustering via Dual Correlation Reduction. Proceedings of the Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI), 2022, pages: 7603-7611. <b>(CCF Rank A)</b> [<a href="https://arxiv.org/pdf/2112.14772.pdf">Paper</a>], [<a href="https://github.com/yueliu1999/DCRN">Code</a>] </p>
+      <p align = "justify"> Yue Liu, <b>Wenxuan Tu*</b>, Sihang Zhou, Xinwang Liu, Linxuan Song, Xihong Yang, and En Zhu. Deep Graph Clustering via Dual Correlation Reduction. Proceedings of the Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI), 2022, pages: 7603-7611. <b>(CCF Rank A)</b> [<a href="https://arxiv.org/pdf/2112.14772.pdf">Paper</a>], [<a href="https://github.com/yueliu1999/DCRN">Code</a>] </p>
     </li>
   </ul>
   
