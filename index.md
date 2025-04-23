@@ -50,7 +50,7 @@
     </li>
   </ul>
 
-## Publications (# corresponding author / * co-first author)
+## Publications
 ### 2025
  <ul>
   <li> 
