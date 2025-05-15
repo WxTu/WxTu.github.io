@@ -54,12 +54,12 @@
 ### 2025
  <ul>
   <li> 
-    <p align = "justify"> Yaowen Hu, <b>Wenxuan Tu</b>, Yue Liu, Xinhang Wan, Junyi Yan, Taichun Zhou, and Xinwang Liu. Scalable Attribute-Missing Graph Clustering via Neighborhood Differentiation. Proceedings of the 42nd International Conference on Machine Learning (ICML), 2025, (to appear). <b>(CCF Rank A) </b></p>
+    <p align = "justify"> Yaowen Hu, <b>Wenxuan Tu*</b>, Yue Liu, Xinhang Wan, Junyi Yan, Taichun Zhou, and Xinwang Liu. Scalable Attribute-Missing Graph Clustering via Neighborhood Differentiation. Proceedings of the 42nd International Conference on Machine Learning (ICML), 2025, (to appear). <b>(CCF Rank A) </b></p>
   </li>
 </ul>
  <ul>
   <li> 
-    <p align = "justify"> Jingxin Liu, Renda Han, <b>Wenxuan Tu</b>, Haotian Wang, Junlong Wu, and Jieren Cheng. Federated Node-Level Clustering Network with Cross-Subgraph Link Mending. Proceedings of the 42nd International Conference on Machine Learning (ICML), 2025, (to appear). <b>(CCF Rank A) </b></p>
+    <p align = "justify"> Jingxin Liu, Renda Han, <b>Wenxuan Tu#</b>, Haotian Wang, Junlong Wu, and Jieren Cheng. Federated Node-Level Clustering Network with Cross-Subgraph Link Mending. Proceedings of the 42nd International Conference on Machine Learning (ICML), 2025, (to appear). <b>(CCF Rank A) </b></p>
   </li>
 </ul>
  <ul>
